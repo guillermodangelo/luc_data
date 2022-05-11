@@ -1,0 +1,276 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1,JAA,1,5988,Ciudad,Artigas No377 - Clínica Municipal,395,S,Urbano,planes_circuitales\Salto.pdf
+2,JAA,5989,7020,Ciudad,Juan C. Gómez No351 - Esc. de Adm. y Servicios,395,S,Urbano,planes_circuitales\Salto.pdf
+3,JAA,7021,7795,Ciudad,Juan C. Gómez No351 - Esc. de Adm. y Servicios,395,S,Urbano,planes_circuitales\Salto.pdf
+4,JAA,7796,8509,Ciudad,José P. Varela No441 - I.T.S.,395,S,Urbano,planes_circuitales\Salto.pdf
+5,JAA,8510,9028,Ciudad,José P. Varela No441 - I.T.S.,395,S,Urbano,planes_circuitales\Salto.pdf
+6,JAA,9029,9511,Ciudad,Artigas No501 - Escuela No4,395,S,Urbano,planes_circuitales\Salto.pdf
+7,JAA,9512,9955,Ciudad,Artigas No543 - Colegio Salesianos,395,N,Urbano,planes_circuitales\Salto.pdf
+8,JAA,9956,10390,Ciudad,Artigas No543 - Colegio Salesianos,398,N,Urbano,planes_circuitales\Salto.pdf
+9,JAB,1,5504,Ciudad,Artigas y Larrañaga - Escuela No1,379,S,Urbano,planes_circuitales\Salto.pdf
+10,JAB,5505,6663,Ciudad,Artigas y Larrañaga - Escuela No1,379,S,Urbano,planes_circuitales\Salto.pdf
+11,JAB,6664,7676,Ciudad,Artigas y Larrañaga - Escuela No1,379,S,Urbano,planes_circuitales\Salto.pdf
+12,JAB,7677,8399,Ciudad,Artigas y Larrañaga - Escuela No1,379,S,Urbano,planes_circuitales\Salto.pdf
+13,JAB,8400,9098,Ciudad,Artigas No728 - Ctro. Est. ANGLO,379,N,Urbano,planes_circuitales\Salto.pdf
+14,JAB,9099,9664,Ciudad,Artigas No728 - Ctro. Est. ANGLO,379,N,Urbano,planes_circuitales\Salto.pdf
+15,JAB,9665,10131,Ciudad,Artigas No838 - Colegio Los Robles,379,N,Urbano,planes_circuitales\Salto.pdf
+16,JAB,10132,10556,Ciudad,Artigas No838 - Colegio Los Robles,380,N,Urbano,planes_circuitales\Salto.pdf
+17,JAC,1,4198,Ciudad,Artigas y 25 de Agosto - Biblioteca Municipal,361,S,Urbano,planes_circuitales\Salto.pdf
+18,JAC,4199,5539,Ciudad,Artigas y 25 de Agosto - Biblioteca Municipal,361,S,Urbano,planes_circuitales\Salto.pdf
+19,JAC,5540,6332,Ciudad,Rivera No1350 - CENUR Litoral Norte,361,S,Urbano,planes_circuitales\Salto.pdf
+20,JAC,6333,6957,Ciudad,Rivera No1350 - CENUR Litoral Norte,361,S,Urbano,planes_circuitales\Salto.pdf
+21,JAC,6958,7503,Ciudad,Artigas No1251 - Universidad Católica,361,N,Urbano,planes_circuitales\Salto.pdf
+22,JAC,7504,7981,Ciudad,Artigas No1251 - Universidad Católica,361,N,Urbano,planes_circuitales\Salto.pdf
+23,JAC,7982,8394,Ciudad,Uruguay y Misiones - Colegio Sagrada Familia,361,S,Urbano,planes_circuitales\Salto.pdf
+24,JAC,8395,8781,Ciudad,Uruguay y Misiones - Colegio Sagrada Familia,364,S,Urbano,planes_circuitales\Salto.pdf
+25,JAD,1,4279,Ciudad,Artigas y Bortagaray - Liceo No1,375,S,Urbano,planes_circuitales\Salto.pdf
+26,JAD,4280,5350,Ciudad,Artigas y Bortagaray - Liceo No1,375,S,Urbano,planes_circuitales\Salto.pdf
+27,JAD,5351,6198,Ciudad,Artigas y Bortagaray - Liceo No1,375,S,Urbano,planes_circuitales\Salto.pdf
+28,JAD,6199,6893,Ciudad,Artigas y Bortagaray - Liceo No1,375,S,Urbano,planes_circuitales\Salto.pdf
+29,JAD,6894,7485,Ciudad,Artigas y Bortagaray - Liceo No1,375,S,Urbano,planes_circuitales\Salto.pdf
+30,JAD,7486,7996,Ciudad,Artigas y Piedras - Hogar Estudiantil,375,S,Urbano,planes_circuitales\Salto.pdf
+31,JAD,7997,8441,Ciudad,Artigas y Piedras - Hogar Estudiantil,375,S,Urbano,planes_circuitales\Salto.pdf
+32,JAD,8442,8849,Ciudad,Piedras No69 - Colegio María Auxiliadora,375,N,Urbano,planes_circuitales\Salto.pdf
+33,JAD,8850,9245,Ciudad,Piedras No69 - Colegio María Auxiliadora,381,N,Urbano,planes_circuitales\Salto.pdf
+35,JAE,4584,5891,Ciudad,Gobernador de Viana No349 - Escuela No99,393,S,Urbano,planes_circuitales\Salto.pdf
+36,JAE,5892,6877,Ciudad,Gobernador de Viana No349 - Escuela No99,393,S,Urbano,planes_circuitales\Salto.pdf
+37,JAE,6878,7903,Ciudad,Gobernador de Viana No349 - Escuela No99,393,S,Urbano,planes_circuitales\Salto.pdf
+38,JAE,7904,8832,Ciudad,Elías Pascale No385 - Obra Don Calabria,393,S,Urbano,planes_circuitales\Salto.pdf
+39,JAE,8833,9667,Ciudad,Elías Pascale No385 - Obra Don Calabria,393,S,Urbano,planes_circuitales\Salto.pdf
+40,JAE,9668,10393,Ciudad,E. Prati y José P. Varela - Escuela No88,393,N,Urbano,planes_circuitales\Salto.pdf
+41,JAE,10394,11109,Ciudad,E. Prati y José P. Varela - Escuela No88,393,N,Urbano,planes_circuitales\Salto.pdf
+42,JAE,11110,11738,Ciudad,E. Prati y José P. Varela - Escuela No88,393,N,Urbano,planes_circuitales\Salto.pdf
+43,JAE,11739,12372,Ciudad,"José P. Varela No2704 - Caif ""KAREN""",393,S,Urbano,planes_circuitales\Salto.pdf
+44,JAE,12373,12971,Ciudad,Av. Batlle y Diag. Centenario - Colegio Santa Cruz,393,S,Urbano,planes_circuitales\Salto.pdf
+45,JAE,12972,13563,Ciudad,Av. Batlle y Diag. Centenario - Colegio Santa Cruz,393,S,Urbano,planes_circuitales\Salto.pdf
+46,JAE,13564,14123,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+47,JAE,14124,14629,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+48,JAE,14630,15113,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+49,JAE,15114,15589,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+50,JAE,15590,16054,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+51,JAE,16055,16507,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+52,JAE,16508,16931,Ciudad,Agraciada y San Eugenio - Liceo No3,393,S,Urbano,planes_circuitales\Salto.pdf
+53,JAE,16932,17359,Ciudad,Av. Batlle y Bella Unión - Escuela No97,393,S,Urbano,planes_circuitales\Salto.pdf
+54,JAE,17360,17779,Ciudad,Av. Batlle y Bella Unión - Escuela No97,393,S,Urbano,planes_circuitales\Salto.pdf
+55,JAE,17780,18211,Ciudad,Av. Batlle y Bella Unión - Escuela No97,397,S,Urbano,planes_circuitales\Salto.pdf
+56,JBA,1,4828,Ciudad,Uruguay No329 - I.F.D.,410,S,Urbano,planes_circuitales\Salto.pdf
+57,JBA,4829,5890,Ciudad,Uruguay No329 - I.F.D.,410,S,Urbano,planes_circuitales\Salto.pdf
+58,JBA,5891,6642,Ciudad,Uruguay No364 - Centro Dtal. de Salud,410,N,Urbano,planes_circuitales\Salto.pdf
+59,JBA,6643,7328,Ciudad,Av. Barbieri No355 - Jardín No103,410,S,Urbano,planes_circuitales\Salto.pdf
+60,JBA,7329,7881,Ciudad,Av. Barbieri No355 - Jardín No103,410,S,Urbano,planes_circuitales\Salto.pdf
+61,JBA,7882,8406,Ciudad,J. Delgado y D. Lamas - Escuela No5,400,S,Urbano,planes_circuitales\Salto.pdf
+62,JBA,8407,8874,Ciudad,J. Delgado y D. Lamas - Escuela No5,400,S,Urbano,planes_circuitales\Salto.pdf
+63,JBA,8875,9328,Ciudad,J. Delgado y D. Lamas - Escuela No5,400,S,Urbano,planes_circuitales\Salto.pdf
+64,JBA,9329,9762,Ciudad,J. Delgado y D. Lamas - Escuela No5,400,S,Urbano,planes_circuitales\Salto.pdf
+65,JBB,1,7127,Ciudad,Brasil No588 - Oficina de Trabajo de Salto,410,S,Urbano,planes_circuitales\Salto.pdf
+66,JBB,7128,8614,Ciudad,Brasil No743 - ASDEMYA,410,N,Urbano,planes_circuitales\Salto.pdf
+67,JBB,8615,9729,Ciudad,Brasil No743 - ASDEMYA,400,N,Urbano,planes_circuitales\Salto.pdf
+68,JBB,9730,10710,Ciudad,Brasil No765 - A.E.B.U.,400,N,Urbano,planes_circuitales\Salto.pdf
+69,JBB,10711,11494,Ciudad,Brasil No765 - A.E.B.U.,400,N,Urbano,planes_circuitales\Salto.pdf
+70,JBB,11495,12194,Ciudad,Amorin No252 - Alianza Francesa,400,N,Urbano,planes_circuitales\Salto.pdf
+71,JBB,12195,12846,Ciudad,Amorin No252 - Alianza Francesa,400,N,Urbano,planes_circuitales\Salto.pdf
+72,JBB,12847,13431,Ciudad,Dr. Fco. Soca No259 - A.C.J.,400,S,Urbano,planes_circuitales\Salto.pdf
+73,JBB,13432,13910,Ciudad,Dr. Fco. Soca No259 - A.C.J.,400,S,Urbano,planes_circuitales\Salto.pdf
+74,JBB,13911,14369,Ciudad,Brasil No990 - Anexo Colegio Vaz Ferreira,400,N,Urbano,planes_circuitales\Salto.pdf
+75,JBB,14370,14804,Ciudad,Brasil No990 - Anexo Colegio Vaz Ferreira,408,N,Urbano,planes_circuitales\Salto.pdf
+76,JBC,1,5255,Ciudad,Brasil No1009 - Liceo No5,397,S,Urbano,planes_circuitales\Salto.pdf
+77,JBC,5256,6580,Ciudad,Brasil No1009 - Liceo No5,397,S,Urbano,planes_circuitales\Salto.pdf
+78,JBC,6581,7655,Ciudad,Brasil No1009 - Liceo No5,397,S,Urbano,planes_circuitales\Salto.pdf
+79,JBC,7656,8465,Ciudad,Brasil No1009 - Liceo No5,397,S,Urbano,planes_circuitales\Salto.pdf
+80,JBC,8466,9234,Ciudad,Brasil y Feliciano Viera - Escuela No3,397,S,Urbano,planes_circuitales\Salto.pdf
+81,JBC,9235,9892,Ciudad,Brasil y Feliciano Viera - Escuela No3,397,S,Urbano,planes_circuitales\Salto.pdf
+82,JBC,9893,10501,Ciudad,Brasil y Feliciano Viera - Escuela No3,397,S,Urbano,planes_circuitales\Salto.pdf
+83,JBC,10502,11036,Ciudad,Brasil No1191 - Colegio Vaz Ferreira,397,N,Urbano,planes_circuitales\Salto.pdf
+84,JBC,11037,11527,Ciudad,Brasil No1191 - Colegio Vaz Ferreira,397,N,Urbano,planes_circuitales\Salto.pdf
+85,JBC,11528,11959,Ciudad,Brasil No1191 - Colegio Vaz Ferreira,397,N,Urbano,planes_circuitales\Salto.pdf
+86,JBC,11960,12383,Ciudad,Agraciada No1145 - Instituto Crandón,397,N,Urbano,planes_circuitales\Salto.pdf
+87,JBC,12384,12823,Ciudad,Agraciada No1145 - Instituto Crandón,405,N,Urbano,planes_circuitales\Salto.pdf
+88,JBD,1,4511,Ciudad,Dr. Bilbao No48 - Escuela No2,388,N,Urbano,planes_circuitales\Salto.pdf
+89,JBD,4512,5641,Ciudad,Dr. Bilbao No48 - Escuela No2,388,N,Urbano,planes_circuitales\Salto.pdf
+90,JBD,5642,6597,Ciudad,Dr. Bilbao No48 - Escuela No2,388,N,Urbano,planes_circuitales\Salto.pdf
+91,JBD,6598,7375,Ciudad,Agraciada y Dr. Bilbao - Jardín No115,388,S,Urbano,planes_circuitales\Salto.pdf
+92,JBD,7376,8076,Ciudad,Agraciada y Dr. Bilbao - Jardín No115,388,S,Urbano,planes_circuitales\Salto.pdf
+93,JBD,8077,8636,Ciudad,8 de Octubre y Dr. Bilbao - Escuela No105,388,N,Urbano,planes_circuitales\Salto.pdf
+94,JBD,8637,9194,Ciudad,8 de Octubre y Dr. Bilbao - Escuela No105,388,N,Urbano,planes_circuitales\Salto.pdf
+95,JBD,9195,9707,Ciudad,8 de Octubre y Dr. Bilbao - Escuela No105,388,N,Urbano,planes_circuitales\Salto.pdf
+96,JBD,9708,10160,Ciudad,"Av. Barbieri y S. Errandonea - Caif ""NUESTRA SRA. DEL ROSARIO""",388,S,Urbano,planes_circuitales\Salto.pdf
+97,JBD,10161,10581,Ciudad,Juan M. Blanes y 19 de Abril - Club Ferro Carril,388,N,Urbano,planes_circuitales\Salto.pdf
+98,JBD,10582,10990,Ciudad,Juan M. Blanes y 19 de Abril - Club Ferro Carril,388,N,Urbano,planes_circuitales\Salto.pdf
+99,JBE,1,3402,Ciudad,8 de Octubre y Arregui - Estación A.F.E.,410,S,Urbano,planes_circuitales\Salto.pdf
+100,JBE,3403,4386,Ciudad,8 de Octubre y Arregui - Estación A.F.E.,410,S,Urbano,planes_circuitales\Salto.pdf
+101,JBE,4387,5192,Ciudad,Arregui No346 - Instituto ANGLO Zona Este,410,N,Urbano,planes_circuitales\Salto.pdf
+102,JBE,5193,5917,Ciudad,Arregui No346 - Instituto ANGLO Zona Este,410,N,Urbano,planes_circuitales\Salto.pdf
+103,JBE,5918,6538,Ciudad,Av. Batlle No2345 - Escuela No8,400,N,Urbano,planes_circuitales\Salto.pdf
+104,JBE,6539,7149,Ciudad,Av. Batlle No2345 - Escuela No8,400,N,Urbano,planes_circuitales\Salto.pdf
+105,JBE,7150,7699,Ciudad,Av. Batlle No2345 - Escuela No8,400,N,Urbano,planes_circuitales\Salto.pdf
+106,JBE,7700,8175,Ciudad,Av. Batlle No2345 - Escuela No8,400,N,Urbano,planes_circuitales\Salto.pdf
+107,JBE,8176,8638,Ciudad,Luis B. Berres No1305 - Escuela No81,400,S,Urbano,planes_circuitales\Salto.pdf
+108,JBE,8639,9086,Ciudad,Luis B. Berres No1305 - Escuela No81,400,S,Urbano,planes_circuitales\Salto.pdf
+109,JBE,9087,9515,Ciudad,Luis B. Berres No1305 - Escuela No81,400,S,Urbano,planes_circuitales\Salto.pdf
+110,JBE,9516,9946,Ciudad,Luis B. Berres No1305 - Escuela No81,408,S,Urbano,planes_circuitales\Salto.pdf
+111,JCA,1,4199,Pueblo San Antonio,Local del Municipio,394,S,Urbano,planes_circuitales\Salto.pdf
+112,JCA,4200,4898,Pueblo San Antonio,Salón Comunal MEVIR,394,S,Urbano,planes_circuitales\Salto.pdf
+113,JCA,4899,5403,Pueblo San Antonio,Liceo de San Antonio,394,S,Urbano,planes_circuitales\Salto.pdf
+114,JCA,5404,5850,Pueblo San Antonio,Liceo de San Antonio,394,S,Urbano,planes_circuitales\Salto.pdf
+115,JCA,5851,6271,Pueblo San Antonio,Escuela No15,394,N,Urbano,planes_circuitales\Salto.pdf
+116,JCA,6272,6688,Pueblo San Antonio,Escuela No15,396,N,Urbano,planes_circuitales\Salto.pdf
+117,JCB,1,5683,Ciudad,"Luis Menoni S/No esq. M. Elizaincin,  Bo. Burton - Escuela No114",410,S,Urbano,planes_circuitales\Salto.pdf
+118,JCB,5684,7058,Ciudad,"Luis Menoni S/No esq. M. Elizaincin,  Bo. Burton - Escuela No114",410,S,Urbano,planes_circuitales\Salto.pdf
+119,JCB,7059,8157,Ciudad,"Luis Menoni S/No esq. M. Elizaincin,  Bo. Burton - Escuela No114",410,S,Urbano,planes_circuitales\Salto.pdf
+120,JCB,8158,9140,Ciudad,"Luis Menoni S/No esq. M. Elizaincin,  Bo. Burton - Escuela No114",410,S,Urbano,planes_circuitales\Salto.pdf
+121,JCB,9141,10431,Ciudad,"Instrucciones del Año XIII S/No esq. Andresito, Bo. Artigas - Escuela No14",410,S,Urbano,planes_circuitales\Salto.pdf
+122,JCB,10432,11228,Ciudad,"Instrucciones del Año XIII S/No esq. Andresito, Bo. Artigas - Escuela No14",410,S,Urbano,planes_circuitales\Salto.pdf
+123,JCB,11229,11979,Ciudad,"Instrucciones del Año XIII S/No esq. Andresito, Bo. Artigas - Escuela No14",410,S,Urbano,planes_circuitales\Salto.pdf
+124,JCB,11980,12636,Ciudad,"Instrucciones del Año XIII S/No esq. Andresito, Bo. Artigas - Escuela No14",410,S,Urbano,planes_circuitales\Salto.pdf
+125,JCB,12637,13267,Ciudad,"M. Oribe y P. Harriague, Bo. Artigas - Liceo No7",410,S,Urbano,planes_circuitales\Salto.pdf
+126,JCB,13268,13852,Ciudad,"M. Oribe y P. Harriague, Bo. Artigas - Liceo No7",410,S,Urbano,planes_circuitales\Salto.pdf
+127,JCB,13853,14375,Ciudad,"M. Oribe y P. Harriague, Bo. Artigas - Liceo No7",410,S,Urbano,planes_circuitales\Salto.pdf
+128,JCB,14376,14901,Ciudad,"M. Oribe y P. Harriague, Bo. Artigas - Liceo No7",410,S,Urbano,planes_circuitales\Salto.pdf
+129,JCB,14902,15388,Ciudad,"M. Oribe y P. Harriague, Bo. Artigas - Liceo No7",410,S,Urbano,planes_circuitales\Salto.pdf
+130,JCB,15389,15871,Ciudad,"R. Villagrán S/No esq. P. Campbell, Bo. Artigas - Club Gladiador",410,N,Urbano,planes_circuitales\Salto.pdf
+131,JCB,15872,16343,Ciudad,"R. Villagrán S/No esq. P. Campbell, Bo. Artigas - Club Gladiador",400,N,Urbano,planes_circuitales\Salto.pdf
+132,JCB,16344,16777,Ciudad,"Gabriel Pereira S/No, Bo. Uruguay - Escuela No107",400,N,Urbano,planes_circuitales\Salto.pdf
+133,JCB,16778,17228,Ciudad,"Gabriel Pereira S/No, Bo. Uruguay - Escuela No107",400,N,Urbano,planes_circuitales\Salto.pdf
+134,JCB,17229,17663,Ciudad,"Gabriel Pereira S/No, Bo. Uruguay - Escuela No107",400,N,Urbano,planes_circuitales\Salto.pdf
+135,JCB,17664,18091,Ciudad,Apolón y Av. Concordia - Escuela No13,400,S,Urbano,planes_circuitales\Salto.pdf
+136,JCB,18092,18512,Ciudad,Apolón y Av. Concordia - Escuela No13,400,S,Urbano,planes_circuitales\Salto.pdf
+137,JCB,18513,18924,Ciudad,Apolón y Av. Concordia - Escuela No13,400,S,Urbano,planes_circuitales\Salto.pdf
+138,JCB,18925,19361,Ciudad,Apolón y Av. Concordia - Escuela No13,408,S,Urbano,planes_circuitales\Salto.pdf
+139,JCC,1,9027,Ciudad,San Martín No876 - Escuela No98,410,S,Urbano,planes_circuitales\Salto.pdf
+140,JCC,9028,10998,Ciudad,San Martín No876 - Escuela No98,410,S,Urbano,planes_circuitales\Salto.pdf
+141,JCC,10999,12736,Ciudad,San Martín No876 - Escuela No98,410,S,Urbano,planes_circuitales\Salto.pdf
+142,JCC,12737,14292,Ciudad,San Martín No876 - Escuela No98,410,S,Urbano,planes_circuitales\Salto.pdf
+143,JCC,14293,15793,Ciudad,San Martín y Corrientes - Obra Social Don Bosco,410,N,Urbano,planes_circuitales\Salto.pdf
+144,JCC,15794,17088,Ciudad,San Martín y Corrientes - Obra Social Don Bosco,400,N,Urbano,planes_circuitales\Salto.pdf
+145,JCC,17089,18289,Ciudad,San Martín y Corrientes - Obra Social Don Bosco,400,N,Urbano,planes_circuitales\Salto.pdf
+146,JCC,18290,19471,Ciudad,San Martín y Corrientes - Obra Social Don Bosco,400,N,Urbano,planes_circuitales\Salto.pdf
+147,JCC,19472,20451,Ciudad,Juan Etcheverry No1670 - Escuela No11,400,N,Urbano,planes_circuitales\Salto.pdf
+148,JCC,20452,21315,Ciudad,Juan Etcheverry No1670 - Escuela No11,400,N,Urbano,planes_circuitales\Salto.pdf
+149,JCC,21316,22260,Ciudad,Juan Etcheverry No1670 - Escuela No11,400,N,Urbano,planes_circuitales\Salto.pdf
+150,JCC,22261,23081,Ciudad,Juan Etcheverry No1670 - Escuela No11,400,N,Urbano,planes_circuitales\Salto.pdf
+151,JCC,23082,23818,Ciudad,Juan Etcheverry No1670 - Escuela No11,400,N,Urbano,planes_circuitales\Salto.pdf
+152,JCC,23819,24557,Ciudad,Catalina H. de Castaños No1745 - I.P.R.U.,400,N,Urbano,planes_circuitales\Salto.pdf
+153,JCC,24558,25352,Ciudad,Catalina H. de Castaños No1745 - I.P.R.U.,400,N,Urbano,planes_circuitales\Salto.pdf
+154,JCC,25353,26092,Ciudad,"Av. Patulé y Calle 5 - Caif ""Bo. HORACIO QUIROGA""",400,N,Urbano,planes_circuitales\Salto.pdf
+155,JCC,26093,26794,Ciudad,"Industria y Calle 5, Bo. H. Quiroga - Escuela No92",400,S,Urbano,planes_circuitales\Salto.pdf
+156,JCC,26795,27471,Ciudad,"Industria y Calle 5, Bo. H. Quiroga - Escuela No92",400,S,Urbano,planes_circuitales\Salto.pdf
+157,JCC,27472,28116,Ciudad,"Industria y Calle 5, Bo. H. Quiroga - Escuela No92",400,S,Urbano,planes_circuitales\Salto.pdf
+158,JCC,28117,28751,Ciudad,"Industria y Calle 5, Bo. H. Quiroga - Escuela No92",400,S,Urbano,planes_circuitales\Salto.pdf
+159,JCC,28752,29300,Ciudad,Av. Solari No2030 - Escuela No10,400,S,Urbano,planes_circuitales\Salto.pdf
+160,JCC,29301,29860,Ciudad,Av. Solari No2030 - Escuela No10,400,S,Urbano,planes_circuitales\Salto.pdf
+161,JCC,29861,30382,Ciudad,Av. Solari No2030 - Escuela No10,400,S,Urbano,planes_circuitales\Salto.pdf
+162,JCC,30383,30896,Ciudad,Av. Solari No2030 - Escuela No10,400,S,Urbano,planes_circuitales\Salto.pdf
+163,JCC,30897,31409,Ciudad,Av. Solari No2030 - Escuela No10,400,S,Urbano,planes_circuitales\Salto.pdf
+164,JCC,31410,31918,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+165,JCC,31919,32413,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+166,JCC,32414,32867,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+167,JCC,32868,33318,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+168,JCC,33319,33774,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+169,JCC,33775,34209,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+170,JCC,34210,34624,Ciudad,Av. Solari No2034 - Liceo No4,400,S,Urbano,planes_circuitales\Salto.pdf
+171,JCC,34625,35061,Ciudad,Av. Solari No2034 - Liceo No4,404,S,Urbano,planes_circuitales\Salto.pdf
+172,JCD,1,5072,Ciudad,Chile y Rpca. Italiana - Escuela No111,410,S,Urbano,planes_circuitales\Salto.pdf
+173,JCD,5073,6550,Ciudad,Chile y Rpca. Italiana - Escuela No111,410,S,Urbano,planes_circuitales\Salto.pdf
+174,JCD,6551,7799,Ciudad,Chile y Rpca. Italiana - Escuela No111,410,S,Urbano,planes_circuitales\Salto.pdf
+175,JCD,7800,8949,Ciudad,Maciel No335 - Sportivo Cerro,410,S,Urbano,planes_circuitales\Salto.pdf
+176,JCD,8950,10153,Ciudad,Maciel No335 - Sportivo Cerro,410,S,Urbano,planes_circuitales\Salto.pdf
+177,JCD,10154,11165,Ciudad,Av. Paraguay y Cno. del Exodo - Liceo No2,410,S,Urbano,planes_circuitales\Salto.pdf
+178,JCD,11166,12185,Ciudad,Av. Paraguay y Cno. del Exodo - Liceo No2,410,S,Urbano,planes_circuitales\Salto.pdf
+179,JCD,12186,13018,Ciudad,Av. Paraguay y Cno. del Exodo - Liceo No2,410,S,Urbano,planes_circuitales\Salto.pdf
+180,JCD,13019,13860,Ciudad,Av. Paraguay y Cno. del Exodo - Liceo No2,410,S,Urbano,planes_circuitales\Salto.pdf
+181,JCD,13861,14520,Ciudad,Av. Paraguay y Cno. del Exodo - Liceo No2,410,S,Urbano,planes_circuitales\Salto.pdf
+182,JCD,14521,15273,Ciudad,Joaquín Suárez y Maciel - Escuela No64,410,S,Urbano,planes_circuitales\Salto.pdf
+183,JCD,15274,15912,Ciudad,Joaquín Suárez y Maciel - Escuela No64,410,S,Urbano,planes_circuitales\Salto.pdf
+184,JCD,15913,16536,Ciudad,Joaquín Suárez y Maciel - Escuela No64,400,S,Urbano,planes_circuitales\Salto.pdf
+185,JCD,16537,17090,Ciudad,Joaquín Suárez y Maciel - Escuela No64,400,S,Urbano,planes_circuitales\Salto.pdf
+186,JCD,17091,17625,Ciudad,Joaquín Suárez y Maciel - Escuela No64,400,S,Urbano,planes_circuitales\Salto.pdf
+187,JCD,17626,18128,Ciudad,Osimani Llerena y S.Blanco - Salón Comunal COAMVIS,400,N,Urbano,planes_circuitales\Salto.pdf
+188,JCD,18129,18612,Ciudad,Osimani Llerena y S.Blanco - Salón Comunal COAMVIS,400,S,Urbano,planes_circuitales\Salto.pdf
+189,JCD,18613,19090,Ciudad,"Grito de Asencio S/No, Bo. Dos Naciones - Salón Comunal COVIMUS",400,S,Urbano,planes_circuitales\Salto.pdf
+190,JCD,19091,19528,Ciudad,"Pasaje ""J"", Bo. Dos Naciones - Escuela No112",400,S,Urbano,planes_circuitales\Salto.pdf
+191,JCD,19529,19970,Ciudad,"Pasaje ""J"", Bo. Dos Naciones - Escuela No112",400,S,Urbano,planes_circuitales\Salto.pdf
+192,JCD,19971,20411,Ciudad,"Pasaje ""J"", Bo. Dos Naciones - Escuela No112",400,S,Urbano,planes_circuitales\Salto.pdf
+193,JCD,20412,20824,Ciudad,"Pasaje ""J"", Bo. Dos Naciones - Escuela No112",400,S,Urbano,planes_circuitales\Salto.pdf
+194,JCD,20825,21235,Ciudad,"Pasaje ""J"", Bo. Dos Naciones - Escuela No112",400,S,Urbano,planes_circuitales\Salto.pdf
+195,JCD,21236,21673,Ciudad,Av. Líber Seregni No2401 - Salón Comunal BARRIO NORTE,402,N,Urbano,planes_circuitales\Salto.pdf
+196,JCE,1,666,Colonia Osimani Llerena,Saturnino Ribes S/No - Escuela No26,219,S,Rural,planes_circuitales\Salto.pdf
+197,JCE,667,924,Colonia Osimani Llerena,Saturnino Ribes S/No - Escuela No26,219,S,Rural,planes_circuitales\Salto.pdf
+198,JCF,1,1168,Termas del Daymán,Ruta 3 Km. 491 - Escuela No34,262,S,Rural,planes_circuitales\Salto.pdf
+199,JCF,1169,1635,Termas del Daymán,Ruta 3 Km. 491 - Escuela No34,262,S,Rural,planes_circuitales\Salto.pdf
+200,JCF,1636,1954,Termas del Daymán,Ruta 3 Km. 491 - Escuela No34,263,S,Rural,planes_circuitales\Salto.pdf
+201,JCG,1,647,Ciudad,Dr. Morquio No996 - Escuela No9,399,N,Urbano,planes_circuitales\Salto.pdf
+202,JCG,648,1270,Ciudad,Dr. Morquio No996 - Escuela No9,389,N,Urbano,planes_circuitales\Salto.pdf
+203,JCG,1271,1870,Ciudad,Dr. Morquio No996 - Escuela No9,389,N,Urbano,planes_circuitales\Salto.pdf
+204,JCG,1871,2431,Ciudad,Dr. Morquio No996 - Escuela No9,389,N,Urbano,planes_circuitales\Salto.pdf
+205,JCG,2432,2919,Ciudad,Dr. Morquio No1024 - Jardín No124,389,S,Urbano,planes_circuitales\Salto.pdf
+206,JCG,2920,3397,Ciudad,Dr. Morquio No1024 - Jardín No124,389,S,Urbano,planes_circuitales\Salto.pdf
+207,JCG,3398,3860,Ciudad,Wasington Beltrán No1599 - Escuela No117,389,S,Urbano,planes_circuitales\Salto.pdf
+208,JCG,3861,4306,Ciudad,Wasington Beltrán No1599 - Escuela No117,389,S,Urbano,planes_circuitales\Salto.pdf
+209,JCG,4307,4731,Ciudad,Wasington Beltrán No1599 - Escuela No117,389,S,Urbano,planes_circuitales\Salto.pdf
+210,JCG,4732,5159,Ciudad,Wasington Beltrán No1599 - Escuela No117,389,S,Urbano,planes_circuitales\Salto.pdf
+211,JCG,5160,5584,Ciudad,Wasington Beltrán No1599 - Escuela No117,389,S,Urbano,planes_circuitales\Salto.pdf
+212,JCG,5585,6004,Ciudad,Washington Beltrán y Catalán - Liceo No6,389,N,Urbano,planes_circuitales\Salto.pdf
+213,JCG,6005,6411,Ciudad,Washington Beltrán y Catalán - Liceo No6,389,N,Urbano,planes_circuitales\Salto.pdf
+214,JCG,6412,6806,Ciudad,Washington Beltrán y Catalán - Liceo No6,389,N,Urbano,planes_circuitales\Salto.pdf
+215,JCG,6807,7200,Ciudad,Washington Beltrán y Catalán - Liceo No6,389,N,Urbano,planes_circuitales\Salto.pdf
+216,JCG,7201,7645,Ciudad,Washington Beltrán y Catalán - Liceo No6,392,N,Urbano,planes_circuitales\Salto.pdf
+217,JCH,1,446,Ciudad,Orestes Lanza No654 - Escuela No95,400,S,Urbano,planes_circuitales\Salto.pdf
+218,JCH,447,882,Ciudad,Orestes Lanza No654 - Escuela No95,400,S,Urbano,planes_circuitales\Salto.pdf
+219,JCH,883,1327,Ciudad,Orestes Lanza No654 - Escuela No95,400,S,Urbano,planes_circuitales\Salto.pdf
+220,JCH,1328,1762,Ciudad,Orestes Lanza No654 - Escuela No95,400,S,Urbano,planes_circuitales\Salto.pdf
+221,JCH,1763,2187,Ciudad,"C. Williams S/No, Bo. Salto Nuevo - Jardín No130",400,S,Urbano,planes_circuitales\Salto.pdf
+222,JCH,2188,2611,Ciudad,"C. Williams S/No, Bo. Salto Nuevo - Jardín No130",400,S,Urbano,planes_circuitales\Salto.pdf
+223,JCH,2612,3025,Ciudad,Av. Solari y P. Harriague - Escuela No120,400,N,Urbano,planes_circuitales\Salto.pdf
+224,JCH,3026,3436,Ciudad,Av. Solari y P. Harriague - Escuela No120,400,N,Urbano,planes_circuitales\Salto.pdf
+225,JCH,3437,3840,Ciudad,Av. Solari y P. Harriague - Escuela No120,400,N,Urbano,planes_circuitales\Salto.pdf
+226,JCH,3841,4295,Ciudad,Av. Solari y P. Harriague - Escuela No120,397,N,Urbano,planes_circuitales\Salto.pdf
+227,JCI,1,398,Ciudad,Silvestre Blanco No1194 - Escuela No78,357,S,Urbano,planes_circuitales\Salto.pdf
+228,JCI,399,772,Ciudad,Silvestre Blanco No1194 - Escuela No78,357,S,Urbano,planes_circuitales\Salto.pdf
+229,JCI,773,1147,Ciudad,Silvestre Blanco No1194 - Escuela No78,358,S,Urbano,planes_circuitales\Salto.pdf
+230,JCJ,1,134,Ciudad,Nueva Hespérides - Escuela No35,128,S,Urbano,planes_circuitales\Salto.pdf
+231,JCK,1,307,Ciudad,Colonia 18 de Julio - Escuela No31,285,S,Urbano,planes_circuitales\Salto.pdf
+232,JCK,308,605,Ciudad,Colonia 18 de Julio - Escuela No31,285,S,Urbano,planes_circuitales\Salto.pdf
+233,JCL,1,434,Ciudad,"Av. Gautrón y Calle 8, Bo. Caballero - Escuela No127",400,S,Urbano,planes_circuitales\Salto.pdf
+234,JCL,435,861,Ciudad,"Av. Gautrón y Calle 8, Bo. Caballero - Escuela No127",400,S,Urbano,planes_circuitales\Salto.pdf
+235,JCL,862,1289,Ciudad,"Av. Gautrón y Calle 8, Bo. Caballero - Escuela No127",400,S,Urbano,planes_circuitales\Salto.pdf
+236,JCL,1290,1700,Ciudad,"Gaboto No3160, Bo. La Amarilla - Escuela No131",400,S,Urbano,planes_circuitales\Salto.pdf
+237,JCL,1701,2140,Ciudad,"Gaboto No3160, Bo. La Amarilla - Escuela No131",404,S,Urbano,planes_circuitales\Salto.pdf
+238,JDA,1,1482,Colonia Itapebí,Ruta 31 Km. 55 - Escuela No21,217,S,Rural,planes_circuitales\Salto.pdf
+239,JDA,1483,1734,Colonia Itapebí,Ruta 31 Km. 55 - Escuela No21,218,S,Rural,planes_circuitales\Salto.pdf
+240,JDB,1,1183,Pueblo Saucedo,Pueblo Saucedo - Escuela No32,292,S,Rural,planes_circuitales\Salto.pdf
+241,JDC,1,945,Pueblo Palomas,Pueblo Palomas - Escuela No22,164,S,Rural,planes_circuitales\Salto.pdf
+242,JDD,1,4546,Villa Constitución,Av. D. Pérez y Gral. Artigas S/No - Escuela No100,410,S,Urbano,planes_circuitales\Salto.pdf
+243,JDD,4547,5741,Villa Constitución,Av. D. Pérez y Gral. Artigas S/No - Escuela No100,410,S,Urbano,planes_circuitales\Salto.pdf
+244,JDD,5742,6529,Villa Constitución,Treinta y Tres Orientales y G. Oxandabarat - Centro M.E.C.,410,S,Urbano,planes_circuitales\Salto.pdf
+245,JDD,6530,7122,Villa Constitución,Treinta y Tres Orientales S/No - Escuela No7,410,N,Urbano,planes_circuitales\Salto.pdf
+246,JDD,7123,7617,Villa Constitución,Treinta y Tres Orientales S/No - Escuela No7,410,N,Urbano,planes_circuitales\Salto.pdf
+247,JDD,7618,8057,Villa Constitución,25 de Mayo y Treinta y Tres Orientales - Liceo Constitución,410,S,Urbano,planes_circuitales\Salto.pdf
+248,JDD,8058,8481,Villa Constitución,25 de Mayo y Treinta y Tres Orientales - Liceo Constitución,408,S,Urbano,planes_circuitales\Salto.pdf
+249,JDE,1,4375,Pueblo Belén,Solís S/No - Escuela Técnica (U.T.U.),397,S,Urbano,planes_circuitales\Salto.pdf
+250,JDE,4376,5296,Pueblo Belén,Solís S/No - Escuela Técnica (U.T.U.),397,S,Urbano,planes_circuitales\Salto.pdf
+251,JDE,5297,5929,Pueblo Belén,Sánchez y 18 de Julio - Escuela No6,397,S,Urbano,planes_circuitales\Salto.pdf
+252,JDE,5930,6428,Pueblo Belén,Sánchez y 18 de Julio - Escuela No6,397,S,Urbano,planes_circuitales\Salto.pdf
+253,JDE,6429,6845,Pueblo Belén,25 de Mayo S/No - Local del Municipio,397,N,Urbano,planes_circuitales\Salto.pdf
+254,JDF,1,901,Termas del Arapey,Termas del Arapey - Escuela No58,153,S,Rural,planes_circuitales\Salto.pdf
+255,JEA,1,1867,Cuchilla de Giaviyú,C. de Guaviyú - Escuela No52,197,S,Rural,planes_circuitales\Salto.pdf
+256,JEA,1868,2127,Cuchilla de Giaviyú,C. de Guaviyú - Escuela No52,197,S,Rural,planes_circuitales\Salto.pdf
+257,JEB,1,4373,Pueblo Lavalleja,P. Lavalleja - Local del Municipio,364,S,Urbano,planes_circuitales\Salto.pdf
+258,JEB,4374,5117,Pueblo Lavalleja,P. Lavalleja - Local del Centro M.E.C.,364,S,Urbano,planes_circuitales\Salto.pdf
+259,JEB,5118,5680,Pueblo Lavalleja,P. Lavalleja - Escuela No18,364,N,Urbano,planes_circuitales\Salto.pdf
+260,JEB,5681,6114,Pueblo Lavalleja,P. Lavalleja - Escuela No18,364,N,Urbano,planes_circuitales\Salto.pdf
+261,JEB,6115,6512,Pueblo Lavalleja,P. Lavalleja - Escuela No18,367,N,Urbano,planes_circuitales\Salto.pdf
+262,JEC,1,2548,Rincón de Valentín,R. de Valentín - Escuela No23,391,S,Urbano,planes_circuitales\Salto.pdf
+263,JEC,2549,3080,Rincón de Valentín,R. de Valentín - Escuela No23,391,S,Urbano,planes_circuitales\Salto.pdf
+264,JEC,3081,3496,Rincón de Valentín,R. de Valentín - Liceo,391,S,Urbano,planes_circuitales\Salto.pdf
+265,JED,1,739,Puntas de Valentín,P. de Valentín - Escuela No54,177,S,Rural,planes_circuitales\Salto.pdf
+266,JEE,1,404,Paso del Parque del Daymán,P. del Parque - Salón Comunal MEVIR,67,S,Rural,planes_circuitales\Salto.pdf
+267,JEF,1,1958,Pueblo Laureles,P. Laureles - Escuela No30,217,S,Rural,planes_circuitales\Salto.pdf
+268,JEF,1959,2219,Pueblo Laureles,P. Laureles - Escuela No30,218,S,Rural,planes_circuitales\Salto.pdf
+269,JFA,1,2244,Cerros de Vera,C. de Vera - Escuela No25,271,S,Rural,planes_circuitales\Salto.pdf
+270,JFB,1,1398,Paso Cementerio,P. Cementerio - Escuela No44,147,S,Rural,planes_circuitales\Salto.pdf
+271,JFC,1,1260,Pueblo Cayetano,P. Cayetano - Escuela No62,101,S,Rural,planes_circuitales\Salto.pdf
+272,JFD,1,2046,Pueblo Quintana,P.Quintana - Escuela No20,295,S,Rural,planes_circuitales\Salto.pdf
+273,JFE,1,2173,Pueblo Fernández,P. Fernández - Escuela No40,238,S,Rural,planes_circuitales\Salto.pdf
+274,JFE,2174,2453,Pueblo Fernández,P. Fernández - Escuela No40,239,S,Rural,planes_circuitales\Salto.pdf
+275,JFF,1,571,Cambará de Arapey,C. de Arapey - Escuela No41,14,S,Rural,planes_circuitales\Salto.pdf
+276,JFG,1,1262,Sarandí de Arapey,S. de Arapey -Escuela No50,168,S,Rural,planes_circuitales\Salto.pdf

@@ -1,0 +1,132 @@
+Unnamed: 0,Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,60,EBA,1,1583,La Sierra,"Escuela N° 45, Sala Informática",149,S,Rural,87,EDC,9601,Castillos,Jardín de Infantes 104 - Freire y 25 de Agosto al fondo,405,Urb.,118,EEA,17400,17834,Lascano,"Escuela N° 93 - Rincón c/19 de Abril - a la derecha, SalónInicial",397,N,147,EFB,18138,18565,Chuy,"Liceo N° 1 - Gral. Artigas y Gaboto, a la izquierda",400,file
+1.0,EAA,1.0,22509.0,ROCHA,Colegio San José - Ramírez N° 201 - Biblioteca,410.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+2.0,EAA,22510.0,25346.0,ROCHA,Colegio San José - L.S.y Sancho c/Ramírez - Salón 3,410.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+3.0,EAA,25347.0,27796.0,ROCHA,"Colegio San José - L.S.y Sancho c/Ramírez - Ultimo salónpasillo",410.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+4.0,EAA,27797.0,29507.0,ROCHA,A.JU.PEN.RO. - 19 de Abril N° 170,410.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+5.0,EAA,29508.0,30959.0,ROCHA,CEPAR UNI-3 - Treinta y Tres N° 2072,410.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+6.0,EAA,30960.0,32379.0,ROCHA,"Escuela Artigas - Gral. Artigas a la derecha, Salón 6°",410.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+7.0,EAA,32380.0,33774.0,ROCHA,"Escuela Artigas - Gral. Artigas a la derecha, Salón 4°",410.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+8.0,EAA,33775.0,34812.0,ROCHA,"Escuela Artigas - Gral. Artigas a la izquierda, Salón 3°",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+9.0,EAA,34813.0,35779.0,ROCHA,"Escuela Artigas - Gral. Artigas a la izquierda, Salón 1°",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+10.0,EAA,35780.0,36867.0,ROCHA,"Intendencia - Gral. Artigas N° 176, a la izquierda",400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+11.0,EAA,36868.0,37865.0,ROCHA,"Intendencia - Gral. Artigas No 176, a la derecha",400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+12.0,EAA,37866.0,38985.0,ROCHA,"Intendencia - Gral. Artigas No 174, Atención Ciudadana",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+13.0,EAA,38986.0,39941.0,ROCHA,Intendencia - Rodó N° 92,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+14.0,EAA,39942.0,40803.0,ROCHA,B.P.S. por Callejuela Sención a la derecha,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+15.0,EAA,40804.0,41877.0,ROCHA,B.P.S. por Callejuela Sención a la izquierda,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+16.0,EAA,41878.0,42519.0,ROCHA,UNITEC - Sención c/19 de Abril a la derecha,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+17.0,EAA,42520.0,43159.0,ROCHA,Espacio Arte y C.J. - Sención c/19 de Abril a la izquierda,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+18.0,EAA,43160.0,43835.0,ROCHA,INAU - Por Rodó 87,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+19.0,EAA,43836.0,44727.0,ROCHA,Junta Departamental por Lavalleja,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+20.0,EAA,44728.0,45530.0,ROCHA,Sede Retirados Militares - J. Graña N° 172,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+21.0,EAA,45531.0,46106.0,ROCHA,Oficina de Vialidad - Rodó N° 114,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+22.0,EAA,46107.0,46844.0,ROCHA,Jardín de Infantes 108 - Treinta y Tres N° 1991,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+23.0,EAA,46845.0,47466.0,ROCHA,Escuela Varela - Rincón N° 140 a la izquierda,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+32.0,,,,,,,,,,EAA,52698.0,53291.0,ROCHA,Ctro. Cultural Ma. Elida Marquizo - por 18 de Julio N° 2097,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+33.0,,,,,,,,,,EAA,53292.0,53817.0,ROCHA,Ctro. Cultural Ma. Elida Marquizo - por 19 de Abril c/18 de Julio,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+34.0,,,,,,,,,,EAA,53818.0,54346.0,ROCHA,D.G.I. - 19 de Abril N° 109,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+35.0,,,,,,,,,,EAA,54347.0,54865.0,ROCHA,M.T.S.S. - 19 de Abril N° 109,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+36.0,,,,,,,,,,EAA,54866.0,55417.0,ROCHA,"Escuela de Música - 25 de Agosto N° 53, 1er. Salón a laizquierda",400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+37.0,,,,,,,,,,EAA,55418.0,55942.0,ROCHA,Centro Pan y Canela - 25 de Agosto N° 49,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+38.0,,,,,,,,,,EAA,55943.0,56427.0,ROCHA,O.S.E. - 25 de Agosto N° 41,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+39.0,,,,,,,,,,EAA,56428.0,56902.0,ROCHA,"Inspección de Escuelas - Gral. Artigas N° 89. al frente a laderecha",400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+40.0,,,,,,,,,,EAA,56903.0,57369.0,ROCHA,"Escuela Ramírez - Gral. Artigas N° 70, al frente Aula 1",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+41.0,,,,,,,,,,EAA,57370.0,57849.0,ROCHA,"Escuela Ramírez - Gral. Artigas N° 70, a la derecha Aula 3",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+42.0,,,,,,,,,,EAA,57850.0,58373.0,ROCHA,"Escuela Ramírez - Gral Artigas N° 70, Salón de Actos",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+43.0,,,,,,,,,,EAA,58374.0,58901.0,ROCHA,Instituto CADI - 18 de Julio N° 1935,400.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+44.0,,,,,,,,,,EAA,58902.0,59367.0,ROCHA,Asociación de Escribanos - 25 de Agosto N° 108,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+45.0,,,,,,,,,,EAA,59368.0,59812.0,ROCHA,Escuela 43 - por Ansina 1er. salón,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+46.0,,,,,,,,,,EAA,59813.0,60252.0,ROCHA,Escuela 43 - por Ansina 3er. salón,400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+47.0,,,,,,,,,,EAA,60253.0,60689.0,ROCHA,"Escuela 43 - por Agustín Peri, Salón Jardinera",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+48.0,,,,,,,,,,EAA,60690.0,61147.0,ROCHA,"Liceo N° 1 - Batlle y Ordóñez, a la derecha, Salón 6",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+49.0,,,,,,,,,,EAA,61148.0,61579.0,ROCHA,"Liceo N° 1 - Batlle y Ordóñez, a la derecha, Salón 9",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+50.0,,,,,,,,,,EAA,61580.0,62035.0,ROCHA,"Liceo N° 1 - Lucio Sanz y Sancho, Biblioteca",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+51.0,,,,,,,,,,EAA,62036.0,62468.0,ROCHA,"Liceo N° 1 - Lucio Sanz y Sancho, a la izquierda, Salón 18",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+52.0,,,,,,,,,,EAA,62469.0,62897.0,ROCHA,"Liceo N° 3 - Lucio Sanz y Sancho, a la derecha, Salón de 3ro.",400.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,61.0,EBB,1.0,1959.0,Garzón Arriba,Escuela N° 90,297.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,62.0,EBC,1.0,1449.0,Garzón Abajo,Escuela N° 63,111.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,63.0,ECA,1.0,1607.0,Arbolito,Escuela N° 54,24.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,64.0,ECB,1.0,1000.0,Valizas,Escuela N° 61 - Salón a la derecha,211.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,65.0,ECB,1001.0,1246.0,Valizas,Escuela N° 61 - Salón al fondo,212.0,N,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,66.0,ECC,1.0,2216.0,P. 19 de Abril,Escuela N°18,292.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,67.0,ECD,1.0,916.0,Atahona,Escuela N° 26,62.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,68.0,ECE,1.0,3105.0,Velázquez,Escuela N° 35 - Entrada principal - Salón Artes Visuales,324.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,69.0,ECE,3106.0,3701.0,Velázquez,Escuela N° 35 - Entrada principal - Salón Jardinera,324.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,70.0,ECE,3702.0,4081.0,Velázquez,Liceo Local - Entrada principal - Salón 1,324.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,71.0,ECF,1.0,1247.0,Parallé,Escuela Granja N° 42,81.0,S,Rural,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,72.0,ECG,1.0,1760.0,La Paloma,"Centro Cultural - Ruta 15 Km. 1, Biblioteca",392.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,73.0,ECG,1761.0,2870.0,La Paloma,"Centro Cultural - Ruta 15 Km. 1, Salón Arena",392.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,74.0,ECG,2871.0,3684.0,La Paloma,"Centro Cultural - Ruta 15 Km. 1, Auditorio",392.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,75.0,ECG,3685.0,4374.0,La Paloma,"Escuela N° 52 - Ruta 15 Km. 1, Entrada principal",392.0,S,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,76.0,ECG,4375.0,5008.0,La Paloma,"Escuela N° 52 - Ruta 15 Km. 1, Ent. p/Paloma, Salón comedor",392.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,77.0,ECG,5009.0,5560.0,La Paloma,"Escuela N° 52 - Ruta 15 Km. 1, Ent. p/Paloma, a la der. 1er.Salón",392.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,78.0,ECG,5561.0,6050.0,La Paloma,"Escuela N° 52 - Ruta 15 Km. 1, Ent. p/Paloma, a la der. 2do.Salón",392.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,79.0,ECG,6051.0,6516.0,La Paloma,"Jardin de Infantes N° 106 - Entrada por Patio, Salón 5 años",392.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,80.0,ECG,6517.0,6947.0,La Paloma,"Jardin de Infantes N° 106 - Entrada por Patio, Salón 3 años",392.0,N,Urb.,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,9602.0,,,,,S,,88.0,EDC,11191.0,Castillos,Jardín de Infantes 104 - Freire y 25 de Agosto,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,11192.0,,,,,N,,89.0,EDC,12337.0,Castillos,Club Juventud - Treinta y Tres y 19 de Abril,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,12338.0,,,,,N,,90.0,EDC,13304.0,Castillos,Club Juventud - Treinta y Tres y 19 de Abril,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,13305.0,,,,,S,,91.0,EDC,14142.0,Castillos,Escuela N° 5 - Calle Núñez - Salón 9,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,14143.0,,,,,S,,92.0,EDC,14924.0,Castillos,Escuela N° 5 - Calle Núñez - Salón de 1°,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,14925.0,,,,,S,,93.0,EDC,15678.0,Castillos,Escuela N° 5 - Calle Núñez - Salón de Jardinera,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,15679.0,,,,,S,,94.0,EDC,16348.0,Castillos,"Escuela N° 5 - 19 de Abril N° 1590, a la derecha",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,16349.0,,,,,S,,95.0,EDC,16992.0,Castillos,"Escuela N° 5 - 19 de abril N° 1590, a la izquierda",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,16993.0,,,,,N,,96.0,EDC,17585.0,Castillos,Municipio Castillos - 19 de Abril N° 1287,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,17586.0,,,,,N,,97.0,EDC,18199.0,Castillos,"Municipio Castillos - 19 de Abril N° 1287, Biblioteca",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,18200.0,,,,,N,,98.0,EDC,18746.0,Castillos,UTU - 18 de Julio N° 1282,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,18747.0,,,,,N,,99.0,EDC,19236.0,Castillos,UTU - 18 de Julio N° 1294,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,19237.0,,,,,S,,100.0,EDC,19714.0,Castillos,Sala 2 de Mayo - Olivera N° 1261,395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,19715.0,,,,,N,,101.0,EDC,20161.0,Castillos,"Liceo Local - Dr. Ferrer N° 1170, Salón 7",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,20162.0,,,,,N,,102.0,EDC,20589.0,Castillos,"Liceo Local - Dr. Ferrer N° 1170, Salón 11",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,20590.0,,,,,N,,103.0,EDC,21021.0,Castillos,"Liceo Local - Dr. Ferrer N° 1170, Salón 13",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,21022.0,,,,,N,,104.0,EDC,21437.0,Castillos,"Liceo Local - Dr. Ferrer N° 1170, Salón 5",395.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,21438.0,,,,,N,,105.0,EDC,21862.0,Castillos,"Escuela N° 56, Educ. Especial, Contenedor Dr. Ferrer N° 1140",400.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,1.0,,,,,S,,106.0,EEA,8897.0,Lascano,UTU - Eudoxio Vivas y 25 de Agosto al fondo,397.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,8898.0,,,,,S,,107.0,EEA,10490.0,Lascano,UTU - Eudoxio Vivas y 25 de Agosto a la derecha,397.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,10491.0,,,,,N,,108.0,EEA,11411.0,Lascano,Jardín de Infantes - Dr. Fonseca N° 1230,397.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,11412.0,,,,,S,,109.0,EEA,12426.0,Lascano,Asociación Fomento - Dr. Fonseca N° 1175,397.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,12427.0,,,,,S,,110.0,EEA,13187.0,Lascano,Municipio Local - Ituzaingó N° 1227,397.0,Urb.,,,,,,,,,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,119.0,EEA,17835.0,18278.0,Lascano,Liceo Local - B. Eizmendi y Misiones - Salón 1 (fte. Secretaría),397.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,120.0,EEA,18279.0,18690.0,Lascano,Liceo Local - B. Eizmendi y Misiones - Salón 2,397.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,121.0,EEA,18691.0,19120.0,Lascano,Liceo Local - B. Eizmendi y Misiones - Salón 3 (Pegado Adsc.),401.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rural,122.0,EEB,1.0,1379.0,Alférez,Escuela N° 47,100.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,123.0,EFA,1.0,3697.0,18 de Julio,Junta Local de 18 de Julio,342.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,124.0,EFA,3698.0,4246.0,18 de Julio,Escuela N° 12,342.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,125.0,EFA,4247.0,4625.0,18 de Julio,Escuela N° 12,343.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,126.0,EFB,1.0,3737.0,Chuy,"Escuela N° 28 - Avda. Brasil y L. Olivera, Salón de Actos",410.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,127.0,EFB,3738.0,4867.0,Chuy,"Escuela N° 28 - Avda. Brasil y L. Olivera, a la izquierda",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,128.0,EFB,4868.0,5935.0,Chuy,"Escuela N° 28 - Avda. Brasil y L. Olivera, a la izquierda",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,129.0,EFB,5936.0,7096.0,Chuy,"Escuela N° 28 - Avda. Brasil y L. Olivera, a la izquierda",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,130.0,EFB,7097.0,7887.0,Chuy,Oficina de B.P.S. - Numancia N° 149 al frente,410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,131.0,EFB,7888.0,8865.0,Chuy,Oficina de B.P.S. - Numancia N° 149 al fondo,410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,132.0,EFB,8866.0,9896.0,Chuy,"Club San Vicente, Samuel Priliac y Laguna Negra",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,133.0,EFB,9897.0,10685.0,Chuy,"Club San Vicente, Samuel Priliac y Laguna Negra",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,134.0,EFB,10686.0,11474.0,Chuy,Municipio Chuy - Samuel Priliac y Arimón,410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,135.0,EFB,11475.0,12189.0,Chuy,"UTU - Módulos, Francisco de los Santos casi Mauro Silva",410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,136.0,EFB,12190.0,12889.0,Chuy,Juzgado de Paz - Francisco de los Santos N° 575,410.0,N,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,137.0,EFB,12890.0,13539.0,Chuy,"Jardín de Infantes N° 103 - S. Priliac s/n, a la derecha",410.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urb.,138.0,EFB,13540.0,14258.0,Chuy,"Jardín de Infantes N° 103 - S. Priliac s/n, a la derecha Comedor",410.0,S,,,,,,,,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,148.0,EFB,18566.0,18985.0,Chuy,"Liceo N° 1 - Gral. Artigas y Gaboto, a la izquierda",400.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,149.0,EFB,18986.0,19398.0,Chuy,"Liceo N° 2 - San Miguel y Gaboto, a la derecha",400.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,150.0,EFB,19399.0,19818.0,Chuy,"Liceo N° 2 - San Miguel y Gaboto, a la derecha",400.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,151.0,EFB,19819.0,20249.0,Chuy,"Liceo N° 2 - San Miguel y Gaboto, a la izquierda",404.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,152.0,EFC,1.0,1697.0,P. Grande,Centro Cultural - Leopoldo Fernández s/n,343.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,153.0,EFC,1698.0,2431.0,P. Grande,Liceo Local - Leopoldo Fernández a la izquierda,343.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,154.0,EFC,2432.0,3065.0,P. Grande,Liceo Local - Leopoldo Fernández a la derecha,343.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,155.0,EFC,3066.0,3525.0,P. Grande,Escuela N° 29 - Al frente,343.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,156.0,EFC,3526.0,3937.0,P. Grande,Escuela N° 29 - Comedor,345.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,157.0,EFD,1.0,3227.0,Cebollatí,"Escuela N° 55, San Luis c/Rocha, 1er. Salón a la derecha",377.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,158.0,EFD,3228.0,3942.0,Cebollatí,"Escuela N° 55, San Luis c/Rocha, 4to. Salón a la derecha",377.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,159.0,EFD,3943.0,4449.0,Cebollatí,"Centro Cultural ""Lucas Techera"" por San Miguel",377.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,160.0,EFD,4450.0,4862.0,Cebollatí,"Liceo Local, Calle Castillos, a la derecha",378.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,161.0,EFE,1.0,1529.0,Coronilla,Escuela N° 27,68.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,162.0,EFF,1.0,873.0,Quebracho,Escuela N° 33,59.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,163.0,EFG,1.0,1468.0,San Luis,Escuela N° 17 - Comedor,275.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,164.0,EFG,1469.0,1913.0,San Luis,Escuela N° 17 - Salón Liceal,275.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,165.0,EFG,1914.0,2233.0,San Luis,Junta Local de San Luis,276.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,166.0,EFH,1.0,633.0,B. de Chuy,Escuela N° 74,248.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,167.0,EFH,634.0,997.0,B. de Chuy,Escuela N° 74,248.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Rural,,,,,,,,,168.0,EFH,998.0,1279.0,B. de Chuy,CEA/74(UTU) Calle C y 17 mts.,248.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Rural,,,,,,,,,169.0,EFH,1280.0,1540.0,B. de Chuy,Junta Local de Barra de Chuy,249.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,Urb.,,,,,,,,,170.0,EFI,1.0,245.0,P. del Diablo,Escuela N° 96,230.0,planes_circuitales\Rocha.pdf
+,,,,,,,,,,,,,,,,,,,,,,,,,N,,,,,,,,Urb.,,,,,,,,,171.0,EFI,246.0,479.0,P. del Diablo,Escuela N° 96,230.0,planes_circuitales\Rocha.pdf

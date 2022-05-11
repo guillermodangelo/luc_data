@@ -1,0 +1,223 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1.0,TAA,1,21743,Ciudad,Asociación de Jubilados - Ituzaingó No 388,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+2.0,TAA,21744,25125,Ciudad,Asociación de Jubilados - Ituzaingó No 388,410,N,Urbano,planes_circuitales\Tacuarembo.pdf
+3.0,TAA,25126,27856,Ciudad,Casa de la Cultura - Ituzaingó No 364,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+4.0,TAA,27857,29616,Ciudad,Casa de la Cultura - Ituzaingó No 364,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+5.0,TAA,29617,31391,Ciudad,Hogar Estudiantil  (Salón comedor) - Ituzaingó No 352,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+6.0,TAA,31392,33115,Ciudad,Hogar Estudiantil (Sala de estudio) - Ituzaingó No 352,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+7.0,TAA,33116,34521,Ciudad,BPS - Gral. Artigas No 266,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+8.0,TAA,34522,36012,Ciudad,BPS - Gral. Artigas No 266,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+9.0,TAA,36013,37634,Ciudad,Servicio Social - Gral. Artigas No 260,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+10.0,TAA,37635,39067,Ciudad,Servicio Social - Gral. Artigas No 260,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+11.0,TAA,39068,40187,Ciudad,IDT- Archivo y Registro de Contribuyentes - Gral. Flores s/n,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+12.0,TAA,40188,41219,Ciudad,IDT- Oficina de Personal - Gral. Flores s/n,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+13.0,TAA,41220,42380,Ciudad,IDT- Oficina de Dirección de Impositiva - Gral. Flores s/n,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+14.0,TAA,42381,43408,Ciudad,IDT- Oficina Servicios Municipales - Gral. Flores s/n,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+15.0,TAA,43409,44420,Ciudad,Defensoría Pública - Gral. Flores y Joaquín Suarez,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+16.0,TAA,44421,45338,Ciudad,Colegio Jesús Sacramentado - Sarandí No 256,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+17.0,TAA,45339,46304,Ciudad,Colegio Jesús Sacramentado - Sarandí No 256,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+18.0,TAA,46305,47215,Ciudad,Oficina de INAU - Gral. Flores No 252 esq. Sarandí,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+19.0,TAA,47216,49207,Ciudad,Juzgado 3er. Turno - 25 de Agosto No 249,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+20.0,TAA,49208,50025,Ciudad,Escuela N° 8 - 18 de Julio No 470 esq. Lorenzo Carnelli,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+21.0,TAA,50026,50776,Ciudad,Escuela N° 8 - 18 de Julio No 470 esq. Lorenzo Carnelli,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+22.0,TAA,50777,51508,Ciudad,Escuela N° 8 - 18 de Julio No 470 esq. Lorenzo Carnelli,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+23.0,TAA,51509,52358,Ciudad,Oficina de OSE - 18 de Julio esq. Dr. Catalina,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+24.0,TAA,52359,53334,Ciudad,Oficina de OSE - 18 de Julio esq. Dr. Catalina,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+25.0,TAA,53335,54182,Ciudad,Club Tacuarembó - 18 de Julio No 288,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+26.0,TAA,54183,54846,Ciudad,Club Tacuarembó - 18 de Julio No 288,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+27.0,TAA,54847,55594,Ciudad,Club Tacuarembó - 18 de Julio No 288,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+28.0,TAA,55595,56260,Ciudad,Club Democrático - 18 de Julio No 214,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+29.0,TAA,56261,56873,Ciudad,Club Democrático - 18 de Julio No 214,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+30.0,TAA,56874,57549,Ciudad,Escuelas N° 1 y 2  - 18 de Julio esq. Gral. Artigas,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+31.0,TAA,57550,58161,Ciudad,Escuelas N° 1 y 2  - 18 de Julio esq. Gral. Artigas,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+32.0,TAA,58162,58786,Ciudad,Escuelas N° 1 y 2  - 18 de Julio esq. Gral. Artigas,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+33.0,TAA,58787,59412,Ciudad,Impositiva - 18 de Julio y Joaquín  Suárez,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+34.0,TAA,59413,60035,Ciudad,Impositiva - 18 de Julio y Joaquín Suárez,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+35.0,TAA,60036,60620,Ciudad,"IDT- Of. Deporte, Turismo y Juventud - Parque Rodó",400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+36.0,TAA,60621,61297,Ciudad,Direc. de Vialidad - Aparicio Saravia s/n esq. 25 de Mayo,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+37.0,TAA,61298,61899,Ciudad,Direc. de Vialidad - Gral. Rivera s/n,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+38.0,TAA,61900,62481,Ciudad,Direc. de Vialidad - Gral. Rivera s/n,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+39.0,TAA,62482,63039,Ciudad,Escuela No 118 - 25 de Mayo No 66,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+41.0,TAA,63546,64104,Ciudad,Junta Departamental - Luis Batlle No 215,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+42.0,TAA,64105,64678,Ciudad,Junta Departamental - Luis Batlle No 215,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+43.0,TAA,64679,65208,Ciudad,Junta Departamental - Luis Batlle No 215,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+44.0,TAA,65209,65678,Ciudad,CAT - 25 de Mayo No 203 esq. Gral. Artigas,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+45.0,TAA,65679,66144,Ciudad,CAT - 25 de Mayo No 203 esq. Gral. Artigas,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+46.0,TAA,66145,66635,Ciudad,CAT - 25 de Mayo No 203 esq. Gral. Artigas,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+47.0,TAA,66636,67153,Ciudad,BPS - 25 de Mayo No 309,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+48.0,TAA,67154,67659,Ciudad,Inspección de Escuelas - Gral. Rivera No 321,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+49.0,TAA,67660,68188,Ciudad,Liceo N° 3 - 25 de Agosto No 160,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+50.0,TAA,68189,68703,Ciudad,Liceo N° 3 - 25 de Agosto No 160,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+51.0,TAA,68704,69187,Ciudad,Instituto de Formación Docente - Dr. Ivo Ferreira No 320,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+52.0,TAA,69188,69633,Ciudad,Instituto de Formación Docente - Dr. Ivo Ferreira No 320,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+53.0,TAA,69634,70083,Ciudad,Instituto de Formación Docente - Dr. Ivo Ferreira No 320,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+54.0,TAA,70084,70531,Ciudad,Instituto de Formación Docente - Dr. Ivo Ferreira No 320,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+55.0,TAA,70532,70985,Ciudad,UTU - César Ortiz y Ayala esq. Wilson Ferreira,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+56.0,TAA,70986,71438,Ciudad,UTU - César Ortiz y Ayala esq. Wilson Ferreira,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+57.0,TAA,71439,71894,Ciudad,UTU - Líber Seregni s/n entre Ortiz y Ayala y Dr. Catalina,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+58.0,TAA,71895,72350,Ciudad,UTU - Líber Seregni s/n entre Ortiz y Ayala y Dr. Catalina,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+59.0,TAA,72351,72801,Ciudad,Liceo No 1 - Dr. Ivo Ferreira No 355,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+60.0,TAA,72802,73247,Ciudad,Liceo No 1 - Dr. Ivo Ferreira No 355,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+61.0,TAA,73248,73678,Ciudad,Liceo No 1 - Dr. Ivo Ferreira No 355,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+62.0,TAA,73679,74091,Ciudad,Liceo No 1 - Dr. Elías Abdo y Agraciada,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+63.0,TAA,74092,74504,Ciudad,Liceo No 1 - Dr. Elías Abdo y Agraciada,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+64.0,TAA,74505,74925,Ciudad,Liceo No 1 - Dr. Elías Abdo y Agraciada,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+65.0,TAB,1,1645,Bo Ferrocarril,Liceo No 2 - Américo Caorsi s/n,406,S,Urbano,planes_circuitales\Tacuarembo.pdf
+66.0,TAB,1646,2821,Bo Ferrocarril,Liceo No 2 - Américo Caorsi s/n,406,S,Urbano,planes_circuitales\Tacuarembo.pdf
+67.0,TAB,2822,3728,Bo Ferrocarril,Liceo No 2 - Américo Caorsi s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+68.0,TAB,3729,4523,Bo Ferrocarril,Liceo No 2 - Américo Caorsi s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+69.0,TAB,4524,5383,Bo Ferrocarril,Liceo No 2 - ( Gimnasio) - Américo Caorsi s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+70.0,TAB,5384,6101,Bo Ferrocarril,Liceo No 2 - ( Gimnasio) - Américo Caorsi s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+71.0,TAB,6102,6991,Bo Ferrocarril,Salón COMAVITA - Américo Caorsi s/n,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+72.0,TAB,6992,7684,Bo Ferrocarril,Jardín de Infantes No 150 - Américo Caorsi s/n,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+73.0,TAB,7685,8309,Bo Ferrocarril,Jardín de Infantes No 150 - Américo Caorsi s/n,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+74.0,TAB,8310,8908,Bo Ferrocarril,Centro de Barrio No 1 - (Biblioteca) - Pablo Ríos s/n,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+75.0,TAB,8909,9496,Bo Ferrocarril,Centro de Barrio No 1 - (Costurero) - Pablo Ríos s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+76.0,TAB,9497,10098,Bo Ferrocarril,Centro de Barrio No 1 - (INDA) - Pablo Ríos s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+77.0,TAB,10099,10676,Bo Ferrocarril,Centro de Barrio No 1 - (INDA ) - Pablo Ríos s/n,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+78.0,TAB,10677,11187,Bo Ferrocarril,Escuela No 11- Silveira Lizarazú esq. Pablo Ríos,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+79.0,TAB,11188,11722,Bo Ferrocarril,Escuela No 11- Silveira Lizarazú esq. Pablo Ríos,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+81.0,TAB,12214,12680,Bo Ferrocarril,Escuela No 11- Silveira Lizarazú esq. Pablo Ríos,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+82.0,TAB,12681,13160,Bo Ferrocarril,Escuela No 11- Silveira Lizarazú esq. Pablo Ríos,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+83.0,TAB,13161,13642,Bo Ferrocarril,Escuela No 127 - Nieto Clavera esq. Isaac Fernández,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+84.0,TAB,13643,14112,Bo Ferrocarril,Escuela No 127 - Nieto Clavera esq. Isaac Fernández,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+85.0,TAB,14113,14552,Bo Ferrocarril,Escuela No 127 - Nieto Clavera esq. Isaac Fernández,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+86.0,TAB,14553,15001,Bo Ferrocarril,Sede de Retirados Militares  - Maciel No 57,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+87.0,TAB,15002,15435,Bo Ferrocarril,Sede de Retirados Militares  - Maciel No 57,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+88.0,TAB,15436,15873,Bo Torres,Centro de Barrio No 4 - Av. San Martín s/n casi Hilario Correa,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+89.0,TAB,15874,16303,Bo Torres,Centro de Barrio No 4 - Av. San Martín s/n casi Hilario Correa,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+90.0,TAB,16304,16721,Bo Torres,Centro de Barrio No 4 - Av. San Martín s/n casi Hilario Correa,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+91.0,TAB,16722,17128,Bo Torres,Centro de Barrio No 4 - Av. San Martín s/n casi Hilario Correa,396,N,Urbano,planes_circuitales\Tacuarembo.pdf
+92.0,TAB,17129,17555,Bo Torres,CAIF Garabato - Winston Churchill No 555,396,S,Urbano,planes_circuitales\Tacuarembo.pdf
+93.0,TAC,1,338,Bo Artigas,Liceo No 5 - 25 de Mayo casi Periodista Castro,326,S,Urbano,planes_circuitales\Tacuarembo.pdf
+94.0,TAC,339,684,Bo Artigas,Liceo No 5 - 25 de Mayo casi Periodista Castro,326,S,Urbano,planes_circuitales\Tacuarembo.pdf
+95.0,TAD,1,380,Bo Centenario,Escuela No 86 - Av. Domingo Arena No 720,364,S,Urbano,planes_circuitales\Tacuarembo.pdf
+96.0,TAD,381,772,Bo Centenario,Escuela No 86 - Av. Domingo Arena No 720,365,N,Urbano,planes_circuitales\Tacuarembo.pdf
+97.0,TBA,1,2639,Cañas,Escuela No 85,165,S,Rural,planes_circuitales\Tacuarembo.pdf
+98.0,TBA,2640,2909,Cañas,Escuela No 85,166,N,Rural,planes_circuitales\Tacuarembo.pdf
+99.0,TBB,1,2036,Paso del Cerro,Escuela No 36,220,S,Rural,planes_circuitales\Tacuarembo.pdf
+100.0,TBB,2037,2309,Paso del Cerro,Escuela No 36,221,N,Rural,planes_circuitales\Tacuarembo.pdf
+101.0,TBC,1,1507,Bañado de Rocha,Escuela No 21,186,S,Rural,planes_circuitales\Tacuarembo.pdf
+102.0,TBD,1,2530,Cuchilla  Del Ombú,Escuela No 20,309,S,Rural,planes_circuitales\Tacuarembo.pdf
+103.0,TBE,1,3416,Villa Ansina,Escuela No 73 - Ruta 44 s/n,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+104.0,TBE,3417,4175,Villa Ansina,Escuela No 73 - Ruta 44 s/n,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+105.0,TBE,4176,4747,Villa Ansina,Escuela No 73 - Ruta 44 s/n,310,N,Rural,planes_circuitales\Tacuarembo.pdf
+106.0,TBE,4748,5215,Villa Ansina,Escuela No 73 - Ruta 44 s/n,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+107.0,TBE,5216,5651,Villa Ansina,Liceo Local Dr. Mauricio López Lomba - Ruta 44 s/n,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+108.0,TBE,5652,6025,Villa Ansina,Liceo Local Dr. Mauricio López Lomba - Ruta 44 s/n,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+109.0,TBE,6026,6365,Villa Ansina,Liceo Local Dr. Mauricio López Lomba - Ruta 44 s/n,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+110.0,TBE,6366,6694,Villa Ansina,Liceo Local Dr. Mauricio López Lomba - Ruta 44 s/n,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+111.0,TBE,6695,7007,Villa Ansina,Liceo Local Dr. Mauricio López Lomba - Ruta 44 s/n,302,S,Rural,planes_circuitales\Tacuarembo.pdf
+112.0,TCA,1,3026,Bo El Molino,Escuela No 5 - Av. Leandro Gómez esq. Av. Oliver,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+113.0,TCA,3027,3870,Bo El Molino,Escuela No 5 - Av. Leandro Gómez esq. Av. Oliver,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+114.0,TCA,3871,4594,Bo El Molino,Escuela No 5 - Av. Leandro Gómez esq. Av. Oliver,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+115.0,TCA,4595,5178,Bo El Molino,Centro de Barrio No 5 - Av. Oliver s/n,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+116.0,TCA,5179,5715,Bo El Molino,Centro de Barrio No 5 - Av. Oliver s/n,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+117.0,TCA,5716,6202,Bo Montevideo,Polo Tecnológico - Ernesto Michoelson esq. Sarandí,384,N,Urbano,planes_circuitales\Tacuarembo.pdf
+118.0,TCA,6203,6669,Bo Montevideo,Polo Tecnológico - Ernesto Michoelson esq. Sarandí,384,N,Urbano,planes_circuitales\Tacuarembo.pdf
+119.0,TCA,6670,7107,Bo Montevideo,Polo Tecnológico - Ernesto Michoelson esq. Sarandí,384,N,Urbano,planes_circuitales\Tacuarembo.pdf
+121.0,TCA,7536,7938,Bo Montevideo,Escuela No 7 - Avda. Oribe s/n esq. W. Beltrán,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+122.0,TCA,7939,8346,Bo Montevideo,Escuela No 7 - Avda. Oribe s/n esq. W. Beltrán,384,S,Urbano,planes_circuitales\Tacuarembo.pdf
+123.0,TCB,1,1881,La Aldea,Escuela No 18,239,S,Rural,planes_circuitales\Tacuarembo.pdf
+124.0,TCB,1882,2168,La Aldea,Escuela No 18,240,N,Rural,planes_circuitales\Tacuarembo.pdf
+125.0,TCC,1,1997,Zapará,Escuela No 57,210,S,Rural,planes_circuitales\Tacuarembo.pdf
+126.0,TCC,1998,2341,Zapará,Escuela No 57,210,N,Rural,planes_circuitales\Tacuarembo.pdf
+127.0,TCC,2342,2587,Zapará,Escuela No 57,211,N,Rural,planes_circuitales\Tacuarembo.pdf
+128.0,TCD,1,709,Tacuarembó Chico,Escuela No 76,19,S,Rural,planes_circuitales\Tacuarembo.pdf
+,TCE,1,961,Cerro Travieso,Escuela No 76,137,S,Rural,planes_circuitales\Tacuarembo.pdf
+129.0,TCF,1,2075,Paso de Ceferino,Escuela No 35,167,S,Rural,planes_circuitales\Tacuarembo.pdf
+130.0,TCG,1,4192,Bo J. D. López,Central Fútbol Club - Manuel Freire esq. Norberto Ortiz,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+131.0,TCG,4193,5365,Bo J. D. López,Central Fútbol Club - Manuel Freire esq. Norberto Ortiz,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+132.0,TCG,5366,6262,Bo J. D. López,Central Fútbol Club - Manuel Freire esq. Norberto Ortiz,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+133.0,TCG,6263,7061,Bo J. D. López,Pasito Central - Luciano Romero No 509,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+134.0,TCG,7062,7743,Bo J. D. López,Pasito Central - Luciano Romero No 509,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+135.0,TCG,7744,8336,Bo J. D. López,Liceo 4 - José Leguizamón esq. Juan Spikerman,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+136.0,TCG,8337,8950,Bo J. D. López,Liceo 4 - José Leguizamón esq. Juan Spikerman,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+137.0,TCG,8951,9473,Bo J. D. López,Liceo 4 - José Leguizamón esq. Juan Spikerman,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+138.0,TCG,9474,9956,Bo Etcheverry,Escuela Al Aire Libre - Héctor Gutiérrez Ruiz casi Ramón Ortiz,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+139.0,TCG,9957,10438,Bo Etcheverry,Escuela Al Aire Libre - Héctor Gutiérrez Ruiz casi Ramón Ortiz,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+140.0,TCG,10439,10919,Bo Etcheverry,Escuela Al Aire Libre - Héctor Gutiérrez Ruiz casi Ramón Ortiz,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+141.0,TCG,10920,11370,Bo Etcheverry,Escuela Al Aire Libre - Héctor Gutiérrez Ruiz casi Ramón Ortiz,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+142.0,TCG,11371,11813,Bo Etcheverry,Escuela No 124 - Juan Artigas y Hernandarias,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+143.0,TCG,11814,12242,Bo Etcheverry,Escuela No 124 - Juan Artigas y Hernandarias,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+144.0,TCG,12243,12650,Bo Etcheverry,Escuela No 124 - Juan Artigas y Hernandarias,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+145.0,TCG,12651,13069,Bo Etcheverry,Escuela No 124 - Juan Artigas y Hernandarias,402,S,Urbano,planes_circuitales\Tacuarembo.pdf
+146.0,TCH,1,357,Bo San Gabriel,Centro Socio Cultural San Gabriel - Av. Pte. Dr. Jorge Batlle s/n,333,S,Urbano,planes_circuitales\Tacuarembo.pdf
+147.0,TCH,358,706,Bo San Gabriel,Centro Socio Cultural San Gabriel - Av. Pte. Dr. Jorge Batlle s/n,334,S,Urbano,planes_circuitales\Tacuarembo.pdf
+148.0,TDA,1,2141,Villa Tambores,Escuela No 64 - Av. Dr. Alipio Ferreira s/n,240,S,Rural,planes_circuitales\Tacuarembo.pdf
+149.0,TDA,2142,2640,Villa Tambores,Escuela No 64 - Av. Dr. Alipio Ferreira s/n,240,S,Rural,planes_circuitales\Tacuarembo.pdf
+150.0,TDA,2641,2964,Villa Tambores,Escuela No 64 - Av. Dr. Alipio Ferreira s/n,240,S,Rural,planes_circuitales\Tacuarembo.pdf
+151.0,TDA,2965,3226,Villa Tambores,Escuela No 64 - Av. Dr. Alipio Ferreira s/n,241,S,Rural,planes_circuitales\Tacuarembo.pdf
+152.0,TDB,1,3516,Batoví,Escuela No 53,287,S,Rural,planes_circuitales\Tacuarembo.pdf
+153.0,TDB,3517,4110,Batoví,Escuela No 53,287,S,Rural,planes_circuitales\Tacuarembo.pdf
+154.0,TDB,4111,4544,Batoví,Escuela No 53,287,S,Rural,planes_circuitales\Tacuarembo.pdf
+155.0,TDB,4545,4880,Batoví,Escuela No 53,287,N,Rural,planes_circuitales\Tacuarembo.pdf
+156.0,TDB,4881,5179,Batoví,Escuela No 53,288,S,Rural,planes_circuitales\Tacuarembo.pdf
+157.0,TDC,1,3397,Curtina,Escuela No 9,274,S,Rural,planes_circuitales\Tacuarembo.pdf
+158.0,TDC,3398,3872,Curtina,Escuela No 9,274,S,Rural,planes_circuitales\Tacuarembo.pdf
+160.0,TDC,4227,4524,Curtina,Escuela No 9,276,S,Rural,planes_circuitales\Tacuarembo.pdf
+161.0,TDD,1,1636,Paso de los Novillos,Escuela No 22,152,S,Rural,planes_circuitales\Tacuarembo.pdf
+162.0,TDE,1,2475,Clara,Escuela No 58,164,S,Rural,planes_circuitales\Tacuarembo.pdf
+163.0,TDE,2476,2721,Clara,Escuela No 58,164,N,Rural,planes_circuitales\Tacuarembo.pdf
+164.0,TEA,1,1641,Paso Hondo,Escuela No 63,230,S,Rural,planes_circuitales\Tacuarembo.pdf
+165.0,TEB,1,1671,Los Cuadrados,Escuela No 55,144,S,Rural,planes_circuitales\Tacuarembo.pdf
+166.0,TEC,1,870,Carpintería,Escuela No 34,16,S,Rural,planes_circuitales\Tacuarembo.pdf
+167.0,TED,1,5424,San Gregorio de Polanco,Jardín 156 - Ramón Silva No 149,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+168.0,TED,5425,6249,San Gregorio de Polanco,Jardín 156 - Ramón Silva No 149,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+169.0,TED,6250,6895,San Gregorio de Polanco,Escuela No 3 - Arturo Mollo esq. Varela,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+170.0,TED,6896,7444,San Gregorio de Polanco,Escuela No 3 - Arturo Mollo esq. Varela,310,S,Rural,planes_circuitales\Tacuarembo.pdf
+171.0,TED,7445,7910,San Gregorio de Polanco,BPS-San Gregorio - Gral. Artigas casi Arturo Mollo,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+172.0,TED,7911,8376,San Gregorio de Polanco,Escuela No 147 - José Pedro Varela y Amadeo Abriola,300,N,Rural,planes_circuitales\Tacuarembo.pdf
+173.0,TED,8377,8786,San Gregorio de Polanco,Escuela No 147 - José Pedro Varela y Amadeo Abriola,300,N,Rural,planes_circuitales\Tacuarembo.pdf
+174.0,TED,8787,9168,San Gregorio de Polanco,Escuela No 147 - José Pedro Varela y Amadeo Abriola,300,N,Rural,planes_circuitales\Tacuarembo.pdf
+175.0,TED,9169,9516,San Gregorio de Polanco,Liceo Local - José Pedro Varela y Pedro María Chiesa,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+176.0,TED,9517,9844,San Gregorio de Polanco,Liceo Local - José Pedro Varela y Pedro María Chiesa,300,S,Rural,planes_circuitales\Tacuarembo.pdf
+177.0,TED,9845,10159,San Gregorio de Polanco,Liceo Local - José Pedro Varela y Pedro María Chiesa,301,S,Rural,planes_circuitales\Tacuarembo.pdf
+178.0,TFA,1,2610,Achar,Escuela No 4,260,S,Rural,planes_circuitales\Tacuarembo.pdf
+179.0,TFA,2611,3006,Achar,Escuela No 4,260,S,Rural,planes_circuitales\Tacuarembo.pdf
+180.0,TFA,3007,3288,Achar,Escuela No 4,260,S,Rural,planes_circuitales\Tacuarembo.pdf
+181.0,TFB,1,1390,Peralta,Escuela No 67,156,S,Rural,planes_circuitales\Tacuarembo.pdf
+182.0,TFB,1391,1589,Peralta,Escuela No 67,156,N,Rural,planes_circuitales\Tacuarembo.pdf
+183.0,TFC,1,976,Cardozo Grande,Escuela No 10,30,S,Rural,planes_circuitales\Tacuarembo.pdf
+184.0,TFD,1,13143,Paso de los Toros,Liceo No 1 - Aparicio Saravia entre A. Puyol y Wilson Ferreira,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+185.0,TFD,13144,15521,Paso de los Toros,Liceo No 1 - Aparicio Saravia entre A. Puyol y Wilson Ferreira,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+186.0,TFD,15522,17382,Paso de los Toros,Liceo No 1 - Aparicio Saravia entre A. Puyol y Wilson Ferreira,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+187.0,TFD,17383,18678,Paso de los Toros,Liceo No 1 - Aparicio Saravia entre A. Puyol y Wilson Ferreira,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+188.0,TFD,18679,19907,Paso de los Toros,Complejo Municipal -  Wilson Ferreira No 475,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+189.0,TFD,19908,20847,Paso de los Toros,Complejo Municipal -  Wilson Ferreira No 475,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+190.0,TFD,20848,21933,Paso de los Toros,Escuela  No 12 - 18 de Julio  entre V. Bálsamo y P. B. de Godoy,410,N,Urbano,planes_circuitales\Tacuarembo.pdf
+191.0,TFD,21934,23275,Paso de los Toros,Escuela  No 12 - 18 de Julio  entre V. Bálsamo y P. B. de Godoy,410,N,Urbano,planes_circuitales\Tacuarembo.pdf
+192.0,TFD,23276,24270,Paso de los Toros,Escuela  No 12 - 18 de Julio  entre V. Bálsamo y P. B. de Godoy,410,N,Urbano,planes_circuitales\Tacuarembo.pdf
+193.0,TFD,24271,25356,Paso de los Toros,Escuela  No 12 - 18 de Julio  entre V. Bálsamo y P. B. de Godoy,410,N,Urbano,planes_circuitales\Tacuarembo.pdf
+194.0,TFD,25357,26052,Paso de los Toros,BPS - D.G.I. Leandro Gómez No 534,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+195.0,TFD,26053,26881,Paso de los Toros,BPS - D.G.I. Leandro Gómez No 534,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+196.0,TFD,26882,27619,Paso de los Toros,BPS - D.G.I. Leandro Gómez No 534,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+197.0,TFD,27620,28291,Paso de los Toros,Gimnasio Local - Sarandí No 382,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+198.0,TFD,28292,29037,Paso de los Toros,Gimnasio Local - Sarandí No 382,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+200.0,TFD,29619,30201,Paso de los Toros,Municipio Local - Sarandí No 500 esq. Leandro Gómez,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+201.0,TFD,30202,30793,Paso de los Toros,Hogar Estudiantil - José Pedro Varela No 434,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+202.0,TFD,30794,31317,Paso de los Toros,Hogar Estudiantil - José Pedro Varela No 434,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+203.0,TFD,31318,31819,Paso de los Toros,Hogar Estudiantil - José Pedro Varela No 434,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+204.0,TFD,31820,32339,Paso de los Toros,Casa de los Deportes - Dr. Julio Monestier No 423,410,S,Urbano,planes_circuitales\Tacuarembo.pdf
+205.0,TFD,32340,32796,Paso de los Toros,Escuela No 141 - José Pedro Varela Esq. Gral. Artigas,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+206.0,TFD,32797,33239,Paso de los Toros,Escuela No 141 - José Pedro Varela Esq. Gral. Artigas,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+207.0,TFD,33240,33703,Paso de los Toros,Escuela de UTU - Brigadier Gral. Manuel Oribe No 338,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+208.0,TFD,33704,34145,Paso de los Toros,Escuela de UTU - Brigadier Gral. Manuel Oribe No 338,400,S,Urbano,planes_circuitales\Tacuarembo.pdf
+209.0,TFD,34146,34572,Paso de los Toros,Escuela No 80 - Francisco Dorrego No 915,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+210.0,TFD,34573,34996,Paso de los Toros,Escuela No 80 - Francisco Dorrego No 915,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+211.0,TFD,34997,35409,Paso de los Toros,Escuela No 80 - Francisco Dorrego No 915,400,N,Urbano,planes_circuitales\Tacuarembo.pdf
+212.0,TFD,35410,35838,Paso de los Toros,Escuela No 80 - Francisco Dorrego No 915,402,N,Urbano,planes_circuitales\Tacuarembo.pdf
+213.0,TGA,1,2213,Punta de Carretera,Escuela No 116,179,S,Rural,planes_circuitales\Tacuarembo.pdf
+214.0,TGA,2214,2438,Punta de Carretera,Escuela No 116,180,N,Rural,planes_circuitales\Tacuarembo.pdf
+215.0,TGB,1,2174,Punta de Cinco Sauces,Escuela No 40,156,S,Rural,planes_circuitales\Tacuarembo.pdf
+216.0,TGB,2175,2372,Punta de Cinco Sauces,Escuela No 40,156,S,Rural,planes_circuitales\Tacuarembo.pdf
+217.0,TGC,1,3889,Las Toscas de Caraguatá,Escuela No 122,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+218.0,TGC,3890,4501,Las Toscas de Caraguatá,Escuela No 122,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+219.0,TGC,4502,4935,Las Toscas de Caraguatá,Escuela No 122,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+220.0,TGC,4936,5304,Las Toscas de Caraguatá,Liceo Las Toscas de Caraguatá,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+221.0,TGC,5305,5625,Las Toscas de Caraguatá,Liceo Las Toscas de Caraguatá,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+222.0,TGC,5626,5925,Las Toscas de Caraguatá,Liceo Las Toscas de Caraguatá,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+223.0,TGC,5926,6201,Las Toscas de Caraguatá,Liceo Las Toscas de Caraguatá,266,S,Rural,planes_circuitales\Tacuarembo.pdf
+224.0,TGD,1,3564,Caraguatá al Norte,Escuela No 38,242,S,Rural,planes_circuitales\Tacuarembo.pdf
+225.0,TGD,3565,3899,Caraguatá al Norte,Escuela No 38,242,S,Rural,planes_circuitales\Tacuarembo.pdf
+226.0,TGE,1,761,Rincón de Pereira,Escuela No 79,201,S,Rural,planes_circuitales\Tacuarembo.pdf

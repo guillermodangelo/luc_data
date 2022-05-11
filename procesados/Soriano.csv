@@ -1,0 +1,178 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,Unnamed: 0,MAA,57868,58530,Mercedes,Club El Remanso - Cassinoni y Paysandú,400,N,Urbano,77468,77946,"Escuela No 104, Giménez 797",S,MBA,2635,3149,Villa Soriano,"Escuela No 6, Villa Soriano",289,Rural,MCA,31497,32003,Dolores,"Escuela No 2, Puig 1552",410,MED,1,920,San Martín,"Escuela No 34, San Martin",65,MGA,532,Arroyo Corto,"Escuela No 74, Arroyo Corto",77,file
+1,MAA,1.0,23144,Mercedes,"Liceo ""Campos"", Zapican 131",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+2,MAA,23145.0,25966,Mercedes,"Liceo ""Campos"", Zapican 131",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+3,MAA,25967.0,28094,Mercedes,"Liceo ""Campos"", Zapican 131",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+4,MAA,28095.0,30136,Mercedes,"Liceo ""Campos"", Zapican 131",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+5,MAA,30137.0,31888,Mercedes,"UNI 3, De Castro y Careaga 652",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+6,MAA,31889.0,33852,Mercedes,"Intendencia, Giménez 643",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+7,MAA,33853.0,35036,Mercedes,"Intendencia, Giménez 643",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+8,MAA,35037.0,36514,Mercedes,"Biblioteca ""Giménez"", Giménez y 28 de Febrero",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+9,MAA,36515.0,37624,Mercedes,"Biblioteca ""Giménez"", Giménez y 28 de Febrero",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+10,MAA,37625.0,38663,Mercedes,"Registro de Traslaciones, Paysandú 681",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+11,MAA,38664.0,39831,Mercedes,"Policlinica Municipal, Ituzaingó 71",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+12,MAA,39832.0,40971,Mercedes,"Circulo Policial, De Castro y Careaga 617",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+13,MAA,40972.0,42085,Mercedes,"Escuela No 10, W. Ferreira Aldunate 477",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+14,MAA,42086.0,43203,Mercedes,"Escuela No 10, W. Ferreira Aldunate 477",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+15,MAA,43204.0,44240,Mercedes,"Escuela No 10, W. Ferreira Aldunate 477",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+16,MAA,44241.0,45202,Mercedes,"Escuela No 10, W. Ferreira Aldunate 477",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+17,MAA,45203.0,46051,Mercedes,"Jupavime, Ituzaingó 436",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+18,MAA,46052.0,46908,Mercedes,"Esc. Tec. ""W. Lockhart"", Giménez y Artigas",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+19,MAA,46909.0,47824,Mercedes,"Esc. Tec. ""W. Lockhart"", Giménez y Artigas",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+20,MAA,47825.0,48824,Mercedes,"Esc. Tec. ""W. Lockhart"", Giménez y Artigas",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+21,MAA,48825.0,49581,Mercedes,"B.P.S., Braceras 271",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+22,MAA,49582.0,50648,Mercedes,"B.P.S., De Castro y Careaga 508",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+23,MAA,50649.0,51483,Mercedes,"Escuela del Hogar, Colon 419",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+24,MAA,51484.0,52271,Mercedes,"Escuela No 1, Sánchez e/ Colón y 18 de Julio",410,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+MAA,52272,53114.0,Mercedes,"Iniciales Col. San Miguel, Artigas 466",410,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,33.0,MAA,58531.0,59330.0,Mercedes,"Areas Pedagogicas, W. Ferreira Aldunate 678",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,34.0,MAA,59331.0,60382.0,Mercedes,"Alianza Francesa, Ferrería 650",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,35.0,MAA,60383.0,61106.0,Mercedes,"Escuela Americana, 18 de Julio 538",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,36.0,MAA,61107.0,61758.0,Mercedes,"Escuela Americana, 18 de Julio 538",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,37.0,MAA,61759.0,62477.0,Mercedes,"Asoc. Jub. ""33 Orientales"", Casagrande 705",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,38.0,MAA,62478.0,63154.0,Mercedes,"Escuela No 7, Casagrande y Artigas",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,39.0,MAA,63155.0,63756.0,Mercedes,"Escuela No 7, Casagrande y Artigas",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,40.0,MAA,63757.0,64342.0,Mercedes,"Club Asencio, Colón 642",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,41.0,MAA,64343.0,65010.0,Mercedes,"Salón PRIS, Garibaldi 934",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,42.0,MAA,65011.0,65623.0,Mercedes,"Salón PRIS, Garibaldi 934",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,43.0,MAA,65624.0,66226.0,Mercedes,"Covianalpa I, Gomensoro y Don Bosco",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,44.0,MAA,66227.0,66815.0,Mercedes,"Club Asencio, Colón 642",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,45.0,MAA,66816.0,67382.0,Mercedes,"Escuela No 24, Lavalleja 444",400.0,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,46.0,MAA,67383.0,67985.0,Mercedes,"Escuela No 24, Lavalleja 444",400.0,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,47.0,MAA,67986.0,68551.0,Mercedes,"Escuela No 11, Paysandú 1048",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,48.0,MAA,68552.0,69084.0,Mercedes,"Escuela No 11, Paysandú 1048",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,49.0,MAA,69085.0,69653.0,Mercedes,"Escuela No 11, Paysandú 1048",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,50.0,MAA,69654.0,70254.0,Mercedes,"Centro Papelero, De Castro y Careaga 934",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,51.0,MAA,70255.0,70825.0,Mercedes,"OSE, W. Ferreira Aldunate 507",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,52.0,MAA,70826.0,71355.0,Mercedes,"OSE, W. Ferreira Aldunate 507",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,53.0,MAA,71356.0,71896.0,Mercedes,"Asoc. Rural, 18 de Julio 231",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,54.0,MAA,71897.0,72430.0,Mercedes,"Dpto. Acción Social y Familia, 18 de Julio y G¡ménez",400.0,S,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,55.0,MAA,72431.0,72963.0,Mercedes,"Hogar Estudiantil, 18 de Julio 280",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,56.0,MAA,72964.0,73453.0,Mercedes,"Centro Adolescentes, De Castro y Careaga 836",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,57.0,MAA,73454.0,73970.0,Mercedes,"Escuela No 46, Rivas 366",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,58.0,MAA,73971.0,74462.0,Mercedes,"Escuela No 46, Rivas 366",400.0,N,Urbano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,66.0,MAA,,,Mercedes,,400.0,,Urbano,77947.0,78411.0,"Escuela No 104, Giménez 797",S,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,67.0,MAA,,,Mercedes,,400.0,,Urbano,78412.0,78875.0,"Liceo G. Cardozo, Oribe 622",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,68.0,MAA,,,Mercedes,,400.0,,Urbano,78876.0,79342.0,"Liceo G. Cardozo, Oribe 622",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,69.0,MAA,,,Mercedes,,400.0,,Urbano,79343.0,79804.0,"Liceo G. Cardozo, Oribe 622",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,70.0,MAA,,,Mercedes,,400.0,,Urbano,79805.0,80307.0,"Liceo G. Cardozo, Oribe 622",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,71.0,MAA,,,Mercedes,,400.0,,Urbano,80308.0,80784.0,"Hogar Español, Haedo y W. Ferreira Aldunate",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,72.0,MAA,,,Mercedes,,400.0,,Urbano,80785.0,81219.0,"Casa de la Cultura, W. Ferreira Aldunate e Ituzaingo",S,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,73.0,MAA,,,Mercedes,,400.0,,Urbano,81220.0,81676.0,"Escuela No 4, W. Ferreira Aldunate 621",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,74.0,MAA,,,Mercedes,,400.0,,Urbano,81677.0,82114.0,"Escuela No 4, W. Ferreira Aldunate 621",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,75.0,MAA,,,Mercedes,,400.0,,Urbano,82115.0,82554.0,"Escuela No 4, W. Ferreira Aldunate 621",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,76.0,MAA,,,Mercedes,,400.0,,Urbano,82555.0,82989.0,"Escuela No 4, W. Ferreira Aldunate 621",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,77.0,MAA,,,Mercedes,,400.0,,Urbano,82990.0,83424.0,"Liceo Zanzi, W. Ferreira Aldunate 632",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,78.0,MAA,,,Mercedes,,400.0,,Urbano,83425.0,83874.0,"Liceo Zanzi, W. Ferreira Aldunate 632",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,79.0,MAA,,,Mercedes,,400.0,,Urbano,83875.0,84313.0,"Liceo Zanzi, W. Ferreira Aldunate 632",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,80.0,MAA,,,Mercedes,,400.0,,Urbano,84314.0,84772.0,"Esc. Tec. Blanes Viale, Haedo 458",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,81.0,MAA,,,Mercedes,,400.0,,Urbano,84773.0,85207.0,"Esc. Tec. Blanes Viale, Haedo 458",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,82.0,MAA,,,Mercedes,,400.0,,Urbano,85208.0,85669.0,"Esc. Tec. Blanes Viale, Haedo 458",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,83.0,MAA,,,Mercedes,,400.0,,Urbano,85670.0,86098.0,"Asoc. Retirados Policiales, Pozzolo 368",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,84.0,MAA,,,Mercedes,,400.0,,Urbano,86099.0,86528.0,"Espacio Rural (ex Esc. No 122), Asencio 548",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,85.0,MAA,,,Mercedes,,400.0,,Urbano,86529.0,86954.0,"Oficina de la Juventud, Detomasi 415",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,86.0,MAA,,,Mercedes,,400.0,,Urbano,86955.0,87375.0,"Jardín No 109, De Castro y Careaga 464",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,87.0,MAA,,,Mercedes,,400.0,,Urbano,87376.0,87801.0,"Sociedad Italiana, Colón 382",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,88.0,MAA,,,Mercedes,,400.0,,Urbano,87802.0,88221.0,"Sociedad Italiana (Salón Inmigrantes), Colón 382",S,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,89.0,MAA,,,Mercedes,,400.0,,Urbano,88222.0,88631.0,"Escuela No 39, Colón 1259",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,90.0,MAA,,,Mercedes,,400.0,,Urbano,88632.0,89046.0,"Escuela No 39, Colón 1259",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,91.0,MAA,,,Mercedes,,400.0,,Urbano,89047.0,89451.0,"Escuela No 41, P. Hors c/ Lavalleja",N,,,,,,,,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,99.0,,,,,,,N,,,,,,MBA,3150.0,3519.0,Villa Soriano,"Escuela No 6, Villa Soriano",289.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,100.0,,,,,,,N,,,,,,MBA,3520.0,3845.0,Villa Soriano,"Junta Local, Villa Soriano",292.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,101.0,,,,,,,S,,,,,,MBB,1.0,339.0,Las Maulas,"Escuela No 83, Bizcocho",25.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,101.0,,,,,,,S,,,,,,MBC,1.0,421.0,Bizcocho,"Escuela No 83, Bizcocho",37.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,102.0,,,,,,,S,,,,,,MBD,1.0,3461.0,Ejido de Mercedes,"Escuela No 27, Ejido de Mercedes",224.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,103.0,,,,,,,N,,,,,,MBD,3462.0,3826.0,Ejido de Mercedes,"Escuela No 32, Ejido de Mercedes",224.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,104.0,,,,,,,N,,,,,,MBD,3827.0,4082.0,Ejido de Mercedes,"Escuela No 25, Ejido de Mercedes",225.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,105.0,,,,,,,S,,,,,,MBE,1.0,911.0,Pamer,"Escuela No 110, Pamer",157.0,Rural,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,106.0,,,,,,,S,,,,,,MCA,1.0,12375.0,Dolores,"B.P.S., Asencio 1500",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,107.0,,,,,,,S,,,,,,MCA,12376.0,14496.0,Dolores,"B.P.S., Asencio 1500",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,108.0,,,,,,,N,,,,,,MCA,14497.0,16052.0,Dolores,"AJUPENDOL, Gomensoro 1220",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,109.0,,,,,,,N,,,,,,MCA,16053.0,17284.0,Dolores,"Frontón Progreso, Asencio y E. Barros",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,110.0,,,,,,,N,,,,,,MCA,17285.0,18298.0,Dolores,"AJUPENDOL, Gomensoro 1140",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,111.0,,,,,,,N,,,,,,MCA,18299.0,19401.0,Dolores,"AJUPENDOL, Gomensoro 1140",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,112.0,,,,,,,N,,,,,,MCA,19402.0,20398.0,Dolores,"Escuela No 113, 18 de Julio 1504",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,113.0,,,,,,,N,,,,,,MCA,20399.0,21316.0,Dolores,"Escuela No 113, 18 de Julio 1504",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,114.0,,,,,,,N,,,,,,MCA,21317.0,22254.0,Dolores,"Escuela No 97, Rivera y Rio Negro",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,115.0,,,,,,,N,,,,,,MCA,22255.0,23083.0,Dolores,"Escuela No 97, Rivera y Rio Negro",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,116.0,,,,,,,N,,,,,,MCA,23084.0,23873.0,Dolores,"Escuela No 58, 33 Orientales 1302",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,117.0,,,,,,,N,,,,,,MCA,23874.0,24673.0,Dolores,"Escuela No 58, 33 Orientales 1302",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,118.0,,,,,,,N,,,,,,MCA,24674.0,25301.0,Dolores,"Club del Niño ""Gurisitos"", Gadea 1610",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,119.0,,,,,,,N,,,,,,MCA,25302.0,25927.0,Dolores,"Escuela del Hogar, 18 de Julio y T. Gómez",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,120.0,,,,,,,N,,,,,,MCA,25928.0,26584.0,Dolores,"Club Unión, Asencio 1424",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,121.0,,,,,,,N,,,,,,MCA,26585.0,27172.0,Dolores,"Club Libertad, López Crespo y Bottinelli",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,122.0,,,,,,,N,,,,,,MCA,27173.0,27727.0,Dolores,"Escuela No 102, Barrenechea 1925",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,123.0,,,,,,,N,,,,,,MCA,27728.0,28292.0,Dolores,"Escuela No 102, Barrenechea 1925",410.0,Urbano,,,,,,,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,131.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,32004.0,32488.0,Dolores,"Escuela No 2, Puig 1552",410.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,132.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,32489.0,32943.0,Dolores,"Liceo No 2, Vázquez 1168",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,133.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,32944.0,33394.0,Dolores,"Casa de la Cultura, Asencio 1415",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,134.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,33395.0,33848.0,Dolores,"Club Peñarol,  18 de Julio y Gomensoro",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,135.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,33849.0,34295.0,Dolores,"UTU, Cheveste 1207",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,136.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,34296.0,34778.0,Dolores,"UTU, Cheveste 1207",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,137.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,34779.0,35216.0,Dolores,"UTU, Cheveste 1207",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,138.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,35217.0,35649.0,Dolores,"Escuela No 40, Asencio y Agraciada",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,139.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,35650.0,36066.0,Dolores,"Escuela No 40, Asencio y Agraciada",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,140.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,36067.0,36496.0,Dolores,"Jardin No 116, 18 de Julio 1747",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,141.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,36497.0,36922.0,Dolores,"AMDOL, Puig 1438",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,142.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,36923.0,37355.0,Dolores,"Municipio, Artigas 1157",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,143.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,37356.0,37765.0,Dolores,"Escuela No 112, Asencio 2201",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,144.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,37766.0,38175.0,Dolores,"Escuela No 112, Asencio 2201",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,145.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,38176.0,38586.0,Dolores,"Escuela No 15, Ruta 96",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,146.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,38587.0,38992.0,Dolores,"Escuela No 15, Ruta 96",400.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,147.0,,,,,,,N,Urbano,,,,,,,,,,,,MCA,38993.0,39415.0,Dolores,"Club del Niño ""Palomitas"", Ruta 96 (ex Hogar Infantil)",409.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,148.0,,,,,,,S,Rural,,,,,,,,,,,,MCB,1.0,1201.0,La Concordia,"Escuela Agraria, La Concordia",291.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,149.0,,,,,,,S,Rural,,,,,,,,,,,,MDA,1.0,3416.0,Agraciada,"Junta Local, Agraciada",300.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,150.0,,,,,,,N,Rural,,,,,,,,,,,,MDA,3417.0,3943.0,Agraciada,"Biblioteca Popular, Agraciada",300.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,151.0,,,,,,,N,Rural,,,,,,,,,,,,MDA,3944.0,4270.0,Agraciada,"Escuela No 3, Agraciada",292.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,151.0,,,,,,,N,Rural,,,,,,,,,,,,MDB,1.0,587.0,El Espinillo,"Escuela No 3, Agraciada",32.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,152.0,,,,,,,S,Rural,,,,,,,,,,,,MDC,1.0,1418.0,Cañada Nieto,"Escuela No 23, Cañada Nieto",268.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,153.0,,,,,,,S,Rural,,,,,,,,,,,,MDC,1419.0,1740.0,Cañada Nieto,"Escuela No 23, Cañada Nieto",268.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,154.0,,,,,,,S,Rural,,,,,,,,,,,,MDD,1.0,586.0,Palo Solo,"Escuela No 13, Palo Solo",203.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,155.0,,,,,,,S,Rural,,,,,,,,,,,,MDE,1.0,922.0,Cañada Paraguaya,"Escuela No 20, Cañada Paraguaya",72.0,,,,,,,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,163.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,MEE,1.0,2021.0,José E. Rodó,"Municipio, José E. Rodó",259.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,164.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MEE,2022.0,2516.0,José E. Rodó,"Escuela No 45, José E. Rodó",259.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,165.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MEE,2517.0,2886.0,José E. Rodó,"Escuela No 45, José E. Rodó",259.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,166.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MEE,2887.0,3170.0,José E. Rodó,"Casa Parroquial, José E. Rodó",259.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,167.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MEE,3171.0,3450.0,José E. Rodó,"Casa de la Cultura, José E. Rodó",262.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,168.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,MEF,1.0,2054.0,Colonia Larrañaga,"Escuela No 52, Colonia Larrañaga",153.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,169.0,,,,,,,,,,,,S,,,,,,,Urbano,,,,,,,MFA,1.0,6875.0,Cardona,"Escuela No 115, Regules y Lavalleja",404.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,170.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,6876.0,8487.0,Cardona,"Liceo Cardona, Lavalleja y Gallinal",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,171.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,8488.0,9697.0,Cardona,"Liceo Cardona, Lavalleja y Gallinal",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,172.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,9698.0,10683.0,Cardona,"Liceo Cardona, Lavalleja y Gallinal",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,173.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,10684.0,11559.0,Cardona,"Liceo Cardona, Lavalleja y Gallinal",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,174.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,11560.0,12310.0,Cardona,"Sede Obreros Viales, Pacheco c/ Libertad",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,175.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,12311.0,12961.0,Cardona,"Municipio de Cardona, Lavalleja y R. Sosa",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,176.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,12962.0,13563.0,Cardona,"Casa de la Cultura, Pacheco y Libertad",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,177.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,13564.0,14128.0,Cardona,"Club UNION, J. Suarez c/ Mendiondo",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,178.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,14129.0,14640.0,Cardona,"UTU, Lavalleja y Mistral",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,179.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,14641.0,15137.0,Cardona,"UTU, Lavalleja y Mistral",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,180.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,15138.0,15593.0,Cardona,"Casa Fértil, Rivera y J. Suárez",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,181.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,15594.0,16048.0,Cardona,"Escuela No 9, Bvar. Cardona y R. Sosa",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,182.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,16049.0,16487.0,Cardona,"Escuela No 54, Pacheco y J. de Ibarbourou",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,183.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,16488.0,16917.0,Cardona,"Escuela No 54, Pacheco y J. de Ibarbourou",394.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,184.0,,,,,,,,,,,,N,,,,,,,Urbano,,,,,,,MFA,16918.0,17326.0,Cardona,"Escuela No 54, Pacheco y J. de Ibarbourou",395.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,185.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,MFB,1.0,2024.0,Santa Catalina,"Escuela No 37, Santa Catalina",276.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,186.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,MFB,2025.0,2590.0,Santa Catalina,"Escuela No 37, Santa Catalina",276.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,187.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MFB,2591.0,2935.0,Santa Catalina,"Salón Mpal. Uruguay, Santa Catalina",276.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,188.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,MFB,2936.0,3235.0,Santa Catalina,"Junta Local, Santa Catalina",277.0,,,,,,planes_circuitales\Soriano.pdf
+,,,,,,,,,196.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGB,430.0,Rincón de Cololó,"Escuela No 38, Rincón de Cololó",33.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,197.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGC,352.0,San Dios,"Escuela No 19, San Dios",27.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,198.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGD,1375.0,Sacachispas,"Escuela No 18, Sacachispas",241.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,199.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1376.0,,,,,MGD,1678.0,Sacachispas,"Escuela No 18, Sacachispas",242.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,200.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGE,154.0,Sacachispas,"Escuela No 18, Sacachispas",27.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,201.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGF,1342.0,Palmar- El Tala,"Junta Local, Palmar",218.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,202.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,1343.0,,,,,MGF,1599.0,Palmar- El Tala,"Salón Mevir, El Tala",218.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,203.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGG,371.0,La Laguna,"Escuela No 80, La Laguna-El Cabelludo",2.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,203.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGH,315.0,El Cabelludo,"Escuela No 80, La Laguna-El Cabelludo",12.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,204.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGI,408.0,Coquimbo-Sarandí,"Escuela No 56, Coquimbo-Sarandí",34.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,205.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGJ,2601.0,Palmitas,"Municipio, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,206.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,2602.0,,,,,MGJ,3225.0,Palmitas,"Municipio, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,207.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,3226.0,,,,,MGJ,3738.0,Palmitas,"Liceo, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,208.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,3739.0,,,,,MGJ,4136.0,Palmitas,"Liceo, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,209.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,4137.0,,,,,MGJ,4512.0,Palmitas,"Escuela No 47, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,210.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,4513.0,,,,,MGJ,4865.0,Palmitas,"Jardín No 121, Palmitas",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,211.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,4866.0,,,,,MGJ,5178.0,Palmitas,"Estación AFE, Palmitas",305.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,212.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGK,2594.0,Egaña,"Escuela No 44, Egaña",289.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,213.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,2595.0,,,,,MGK,3125.0,Egaña,"Escuela No 44, Egaña",289.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,214.0,,,,,,,,,,,,N,,,,,,,Rural,,,,,,,,3126.0,,,,,MGK,3445.0,Egaña,"Junta Local, Egaña",289.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,215.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,1.0,,,,,MGL,453.0,Risso,"Escuela No 48, Risso",310.0,planes_circuitales\Soriano.pdf
+,,,,,,,,,216.0,,,,,,,,,,,,S,,,,,,,Rural,,,,,,,,454.0,,,,,MGL,788.0,Risso,"Escuela No 48, Risso",305.0,planes_circuitales\Soriano.pdf

@@ -1,0 +1,149 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1.0,RAA,1,6008,Ciudad,Jardin No 91-Barrio LaCalera,400,S,Urb.,planes_circuitales\Durazno.pdf
+2.0,RAA,6009,7216,Ciudad,Escuela   No 9- Barrio La calera,400,S,Urb.,planes_circuitales\Durazno.pdf
+3.0,RAA,7217,8192,Ciudad,Escuela   No 9- Barrio La calera,400,S,Urb.,planes_circuitales\Durazno.pdf
+4.0,RAA,8193,9004,Ciudad,CO.BUSU-Caif-Pueblo Nuevo,400,S,Urb.,planes_circuitales\Durazno.pdf
+5.0,RAA,9005,9746,Ciudad,CO.BUSU-Comedor- Pueblo Nuevo,400,S,Urb.,planes_circuitales\Durazno.pdf
+6.0,RAA,9747,10468,Ciudad,CO.BUSU-Comedor- Pueblo Nuevo,400,S,Urb.,planes_circuitales\Durazno.pdf
+7.0,RAA,10469,11126,Ciudad,GIMNASIO -Varona -Pueblo Nuevo,400,S,Urb.,planes_circuitales\Durazno.pdf
+8.0,RAA,11127,11747,Ciudad,Escuela No 75 M.Salaberry  2868,400,S,Urb.,planes_circuitales\Durazno.pdf
+9.0,RAA,11748,12348,Ciudad,Escuela No 75 M.Salaberry  2868,400,S,Urb.,planes_circuitales\Durazno.pdf
+10.0,RAA,12349,12904,Ciudad,Salon Comunal -1-CO.VI.NU.VI,400,S,Urb.,planes_circuitales\Durazno.pdf
+11.0,RAA,12905,13462,Ciudad,Escuela No 8 -Manuel Oribe  580,400,S,Urb.,planes_circuitales\Durazno.pdf
+12.0,RAA,13463,14011,Ciudad,Escuela No 8 -Manuel Oribe  580,400,S,Urb.,planes_circuitales\Durazno.pdf
+13.0,RAA,14012,14517,Ciudad,Liceo No 2- W. Ferreira y Muñoz,400,S,Urb.,planes_circuitales\Durazno.pdf
+14.0,RAA,14518,14986,Ciudad,Liceo No 2- W. Ferreira y Muñoz,400,S,Urb.,planes_circuitales\Durazno.pdf
+15.0,RAA,14987,15453,Ciudad,Liceo No 2- W. Ferreira y Muñoz,400,S,Urb.,planes_circuitales\Durazno.pdf
+16.0,RAA,15454,15911,Ciudad,Escuela No 65 Joaquin Suarez No200,400,S,Urb.,planes_circuitales\Durazno.pdf
+17.0,RAA,15912,16338,Ciudad,Escuela No 85  J. Suarez y F G. Perez,400,S,Urb.,planes_circuitales\Durazno.pdf
+18.0,RAA,16339,16769,Ciudad,Escuela No 85  J. Suarez y F G. Perez,400,S,Urb.,planes_circuitales\Durazno.pdf
+19.0,RAA,16770,17190,Ciudad,Escuela No 10 A. Ferreiro y Batlle,400,S,Urb.,planes_circuitales\Durazno.pdf
+20.0,RAA,17191,17609,Ciudad,Escuela No 10 A. Ferreiro y Batlle,400,S,Urb.,planes_circuitales\Durazno.pdf
+21.0,RAA,17610,18024,Ciudad,Gimnasio La Guayreña,400,S,Urb.,planes_circuitales\Durazno.pdf
+22.0,RAA,18025,18429,Ciudad,Escuela No 7 L. Gomez No 195,400,S,Urb.,planes_circuitales\Durazno.pdf
+23.0,RAA,18430,18848,Ciudad,Escuela No 7 L. Gomez No 195,399,S,Urb.,planes_circuitales\Durazno.pdf
+24.0,RAB,1,11893,Ciudad,Col. San Luis  Wilson Ferreira No 726,410,S,Urb.,planes_circuitales\Durazno.pdf
+25.0,RAB,11894,14271,Ciudad,Col. San Luis  Wilson Ferreira No 726,410,S,Urb.,planes_circuitales\Durazno.pdf
+26.0,RAB,14272,15782,Ciudad,Escuela No 1-E. Piriz No 778,410,S,Urb.,planes_circuitales\Durazno.pdf
+27.0,RAB,15783,16978,Ciudad,Escuela No 1-E. Piriz No 780,410,S,Urb.,planes_circuitales\Durazno.pdf
+28.0,RAB,16979,17931,Ciudad,Escuela No 1-E. Piriz No 780,400,S,Urb.,planes_circuitales\Durazno.pdf
+29.0,RAB,17932,18940,Ciudad,Escuela No 2 - Manuel Oribe No 805,400,S,Urb.,planes_circuitales\Durazno.pdf
+30.0,RAB,18941,19802,Ciudad,Escuela No 2 - Manuel Oribe No 805,400,S,Urb.,planes_circuitales\Durazno.pdf
+32.0,RAB,20601,21438,Ciudad,Dep. Des.Ambiental -E. Piriz 733,400,S,Urb.,planes_circuitales\Durazno.pdf
+33.0,RAB,21439,22161,Ciudad,Jardin No  83 - Manuel Oribe No 705,400,S,Urb.,planes_circuitales\Durazno.pdf
+34.0,RAB,22162,22886,Ciudad,Jardin No  83 - Manuel Oribe No 705,400,S,Urb.,planes_circuitales\Durazno.pdf
+35.0,RAB,22887,23605,Ciudad,Sala Lavalleja- Batlle y E. Piriz,400,S,Urb.,planes_circuitales\Durazno.pdf
+36.0,RAB,23606,24211,Ciudad,Biblioteca Municipal - Batlle y E. Piriz,400,S,Urb.,planes_circuitales\Durazno.pdf
+37.0,RAB,24212,24851,Ciudad,Museo Rivera - Manuel Oribe No 775,400,S,Urb.,planes_circuitales\Durazno.pdf
+38.0,RAB,24852,25497,Ciudad,Museo Rivera - Manuel Oribe No 775,400,S,Urb.,planes_circuitales\Durazno.pdf
+39.0,RAB,25498,26039,Ciudad,Cons. Musica - Zorrilla   No 770,400,S,Urb.,planes_circuitales\Durazno.pdf
+40.0,RAB,26040,26603,Ciudad,Casa de la Cultura - Penza No  719,400,S,Urb.,planes_circuitales\Durazno.pdf
+41.0,RAB,26604,27118,Ciudad,Casa de la Cultura - Penza No  719,400,S,Urb.,planes_circuitales\Durazno.pdf
+42.0,RAB,27119,27591,Ciudad,Insp.  de Escuela - 18 de Julio No 466,400,S,Urb.,planes_circuitales\Durazno.pdf
+43.0,RAB,27592,28085,Ciudad,Insp.  de Escuela - 18 de Julio No 466,400,S,Urb.,planes_circuitales\Durazno.pdf
+44.0,RAB,28086,28522,Ciudad,Centro de Lenguas - Herrera No 786,400,S,Urb.,planes_circuitales\Durazno.pdf
+45.0,RAB,28523,28957,Ciudad,MIDES - 19 de Abril  829,400,S,Urb.,planes_circuitales\Durazno.pdf
+46.0,RAB,28958,29450,Ciudad,Ministerio de Trabajo  - Rivera 382,400,S,Urb.,planes_circuitales\Durazno.pdf
+47.0,RAB,29451,29867,Ciudad,Liceo 3 - 18 de Julio y Varela,400,S,Urb.,planes_circuitales\Durazno.pdf
+48.0,RAB,29868,30295,Ciudad,Liceo 3 - 18 de Julio y Varela,400,S,Urb.,planes_circuitales\Durazno.pdf
+49.0,RAB,30296,30705,Ciudad,Inst. Form.Docente - 18 de Julio y Larrañaga,400,S,Urb.,planes_circuitales\Durazno.pdf
+50.0,RAB,30706,31138,Ciudad,Inst. Form.Docente - 18 de Julio y Larrañaga,403,S,Urb.,planes_circuitales\Durazno.pdf
+51.0,RAC,1,508,Ciudad,CAIF- BUEM - Bo Vista Linda,382,S,Urb.,planes_circuitales\Durazno.pdf
+52.0,RAC,509,982,Ciudad,Gimnasio . Barrio Vista Linda,382,S,Urb.,planes_circuitales\Durazno.pdf
+53.0,RAC,983,1445,Ciudad,Escuela No 35- C.Maria de Pena S/N,382,S,Urb.,planes_circuitales\Durazno.pdf
+54.0,RAC,1446,1877,Ciudad,Escuela No 35- C.Maria de Pena S/N,382,S,Urb.,planes_circuitales\Durazno.pdf
+55.0,RAC,1878,2288,Ciudad,Gimnasio Barrio Moroni,382,S,Urb.,planes_circuitales\Durazno.pdf
+56.0,RAC,2289,2692,Ciudad,Gimnasio Barrio Moroni,382,S,Urb.,planes_circuitales\Durazno.pdf
+57.0,RAC,2693,3086,Ciudad,UTEC - Maciel y Morquio,382,S,Urb.,planes_circuitales\Durazno.pdf
+58.0,RAC,3087,3502,Ciudad,UTEC - Maciel y Morquio,384,S,Urb.,planes_circuitales\Durazno.pdf
+59.0,RAD,1,127,Ciudad,Escuela No 96-  Barrio Duran,95,S,Urb.,planes_circuitales\Durazno.pdf
+60.0,RBA,1,2668,Santa Bernardina,Gim.Municipal - Santa Bernardina,324,S,Urb.,planes_circuitales\Durazno.pdf
+61.0,RBA,2669,3502,Santa Bernardina,Escuela No 11 - Santa Bernardina,324,S,Urb.,planes_circuitales\Durazno.pdf
+63.0,RBA,3957,4318,Santa Bernardina,Sportivo Yi - Santa Bernardina,325,S,U,planes_circuitales\Durazno.pdf
+64.0,RBB,1,797,Puntas de Tejera,Escuela  No 36,23,S,Rur.,planes_circuitales\Durazno.pdf
+65.0,RBC,1,1909,Ombues de Oribe,Escuela No 18,105,S,Rur.,planes_circuitales\Durazno.pdf
+66.0,RBC,1910,2038,Ombues de Oribe,Escuela No 18,102,S,Rur.,planes_circuitales\Durazno.pdf
+67.0,RBD,1,11045,Ciudad,Banco P. Social - 19  de Abril No 935,410,S,Urb.,planes_circuitales\Durazno.pdf
+68.0,RBD,11046,12868,Ciudad,Banco P. Social - 19  de Abril No 935,410,S,Urb.,planes_circuitales\Durazno.pdf
+69.0,RBD,12869,14177,Ciudad,Liceo Rubino - Artigas y Varela,410,S,Urb.,planes_circuitales\Durazno.pdf
+70.0,RBD,14178,15187,Ciudad,Liceo Rubino - Artigas y Varela,410,S,Urb.,planes_circuitales\Durazno.pdf
+71.0,RBD,15188,16220,Ciudad,Casa de los Dep - Penza y  Saravia,410,S,Urb.,planes_circuitales\Durazno.pdf
+72.0,RBD,16221,17117,Ciudad,Casa de los Dep - Penza y  Saravia,410,S,Urb.,planes_circuitales\Durazno.pdf
+73.0,RBD,17118,17947,Ciudad,Esc. Tecnica Herrera No 1098,410,S,Urb.,planes_circuitales\Durazno.pdf
+74.0,RBD,17948,18684,Ciudad,INAU - Herrera  No 990,410,S,Urb.,planes_circuitales\Durazno.pdf
+75.0,RBD,18685,19481,Ciudad,M.G.A.P - Herrera No  991,410,S,Urb.,planes_circuitales\Durazno.pdf
+76.0,RBD,19482,20109,Ciudad,Def. de oficio - Artigas 569,410,S,Urb.,planes_circuitales\Durazno.pdf
+77.0,RBD,20110,20784,Ciudad,Dep. de Servicios  -Penza No 933,410,S,Urb.,planes_circuitales\Durazno.pdf
+78.0,RBD,20785,21420,Ciudad,Div. Obras Municipal - Artigas No 479,410,S,Urb.,planes_circuitales\Durazno.pdf
+79.0,RBD,21421,22024,Ciudad,Intendencia Dptal - Herrera No 908,410,S,Urb.,planes_circuitales\Durazno.pdf
+80.0,RBD,22025,22580,Ciudad,Intendencia Dptal - Herrera No 916,410,S,Urb.,planes_circuitales\Durazno.pdf
+81.0,RBD,22581,23117,Ciudad,Intendencia Dptal - Herrera No 916,410,S,Urb.,planes_circuitales\Durazno.pdf
+82.0,RBD,23118,23617,Ciudad,Junta Dptal - Herrera No 880,410,S,Urb.,planes_circuitales\Durazno.pdf
+83.0,RBD,23618,24101,Ciudad,Junta Dptal - Herrera No 880,410,S,Urb.,planes_circuitales\Durazno.pdf
+84.0,RBD,24102,24588,Ciudad,Prom. Social - Tuboras y 19 de Abril,410,S,Urb.,planes_circuitales\Durazno.pdf
+85.0,RBD,24589,25042,Ciudad,Prom. Social - Tuboras y 19 de Abril,410,S,Urb.,planes_circuitales\Durazno.pdf
+86.0,RBD,25043,25503,Ciudad,Escuela No 6 - 19 de Abril No 1045,410,S,Urb.,planes_circuitales\Durazno.pdf
+87.0,RBD,25504,25940,Ciudad,Escuela No 6 - 19 de Abril No 1045,410,S,Urb.,planes_circuitales\Durazno.pdf
+88.0,RBD,25941,26365,Ciudad,Insp. Secundaria  19 de Abril No 1061,410,S,Urb.,planes_circuitales\Durazno.pdf
+89.0,RBD,26366,26790,Ciudad,CECAP- Lavalleja No 1190,402,S,Urb.,planes_circuitales\Durazno.pdf
+90.0,RCA,1,1413,Colonia Rosell y Rius,Escuela No 47,152,S,Rur.,planes_circuitales\Durazno.pdf
+91.0,RCB,1,1406,Paso Castro,Escuela No 17,100,S,Rur.,planes_circuitales\Durazno.pdf
+92.0,RCC,1,1399,Pueblo Gral. Laguna,Escuela No 12,208,S,Urb.,planes_circuitales\Durazno.pdf
+94.0,RCD,1,4362,Villa Carmen,Escuela No 4,348,S,Urb.,planes_circuitales\Durazno.pdf
+95.0,RCD,4363,5205,Villa Carmen,Escuela No 4,348,S,Urb.,planes_circuitales\Durazno.pdf
+96.0,RCD,5206,5785,Villa Carmen,Liceo Oficial,348,S,Urb.,planes_circuitales\Durazno.pdf
+97.0,RCD,5786,6251,Villa Carmen,U.T.U,348,S,Urb.,planes_circuitales\Durazno.pdf
+98.0,RCD,6252,6677,Villa Carmen,Centro MEC,348,S,Urb.,planes_circuitales\Durazno.pdf
+99.0,RCD,6678,7052,Villa Carmen,Municipio,348,S,Urb.,planes_circuitales\Durazno.pdf
+100.0,RCE,1,553,Tomas Cuadra,Escuela No 55,79,S,Rur.,planes_circuitales\Durazno.pdf
+101.0,RCF,1,562,Salinas,Escuela No 21,20,S,Rur.,planes_circuitales\Durazno.pdf
+102.0,RCG,1,327,Sauce del Yi -Esc.53,Escuela No 15,4,S,Rur.,planes_circuitales\Durazno.pdf
+,RCH,1,581,Maestre campo,Escuela No 15,24,S,Rur.,planes_circuitales\Durazno.pdf
+103.0,RDA,1,3889,Cerro Chato,Escuela No 68,360,S,Urb.,planes_circuitales\Durazno.pdf
+104.0,RDA,3890,4410,Cerro Chato,Escuela No 68,360,S,Urb.,planes_circuitales\Durazno.pdf
+105.0,RDB,1,472,Puntas de Malbajar,Escuela No 69,23,S,Rur.,planes_circuitales\Durazno.pdf
+106.0,RDC,1,951,Chacras  Sdi. del Yi,Escuela No 19,347,S,Urb.,planes_circuitales\Durazno.pdf
+107.0,RDD,1,510,Sarandi del Yi,Escuela No 74,208,S,Urb.,planes_circuitales\Durazno.pdf
+108.0,RDD,511,731,Sarandi del Yi,Escuela No 74,208,S,Urb.,planes_circuitales\Durazno.pdf
+109.0,RDE,1,9643,Sarandi del Yi,B.Prevsion Social - Sdi. Del Yi,397,S,Urb.,planes_circuitales\Durazno.pdf
+110.0,RDE,9644,11602,Sarandi del Yi,Casa de la Cultura,387,S,Urb.,planes_circuitales\Durazno.pdf
+111.0,RDE,11603,12653,Sarandi del Yi,Oficina de OSE Sdi. Del Yi,387,S,Urb.,planes_circuitales\Durazno.pdf
+112.0,RDE,12654,13498,Sarandi del Yi,Liceo Oficial,387,S,Urb.,planes_circuitales\Durazno.pdf
+113.0,RDE,13499,14315,Sarandi del Yi,Liceo Oficial,387,S,Urb.,planes_circuitales\Durazno.pdf
+114.0,RDE,14316,15033,Sarandi del Yi,Taller A. Plasticas,387,S,Urb.,planes_circuitales\Durazno.pdf
+115.0,RDE,15034,15706,Sarandi del Yi,Escuela No 5,387,S,Urb.,planes_circuitales\Durazno.pdf
+116.0,RDE,15707,16319,Sarandi del Yi,Escuela No 5,387,S,Urb.,planes_circuitales\Durazno.pdf
+117.0,RDE,16320,16829,Sarandi del Yi,Jardin  No  90,387,S,Urb.,planes_circuitales\Durazno.pdf
+118.0,RDE,16830,17326,Sarandi del Yi,Esc. Tecnica Sdi. Del Yi,387,S,Urb.,planes_circuitales\Durazno.pdf
+119.0,RDE,17327,17817,Sarandi del Yi,Esc. Tecnica Sdi. Del YI,387,S,Urb.,planes_circuitales\Durazno.pdf
+120.0,RDE,17818,18257,Sarandi del Yi,Escuela No 3,387,S,Urb.,planes_circuitales\Durazno.pdf
+121.0,RDE,18258,18683,Sarandi del Yi,Escuela No 3,387,S,Urb.,planes_circuitales\Durazno.pdf
+122.0,RDE,18684,19091,Sarandi del Yi,Municipio,387,S,Urb.,planes_circuitales\Durazno.pdf
+123.0,RDE,19092,19494,Sarandi del Yi,Municipio,388,S,Urb.,planes_circuitales\Durazno.pdf
+124.0,REA,1,1726,Blanquillo,Junta Local,313,S,Urb.,planes_circuitales\Durazno.pdf
+125.0,REA,1727,2225,Blanquillo,Escuela No 32,313,S,Urb.,planes_circuitales\Durazno.pdf
+126.0,REA,2226,2581,Blanquillo,Escuela No 32,313,S,Urb.,planes_circuitales\Durazno.pdf
+127.0,REB,1,1967,Capilla Farruco,Escuela No 24,129,S,Rur.,planes_circuitales\Durazno.pdf
+128.0,REC,1,682,Cerrezuelo,Escuela No 54,41,,Rur.,planes_circuitales\Durazno.pdf
+129.0,RED,1,1467,Cuchilla de Ramirez,Escuela No 57,164,S,Rur.,planes_circuitales\Durazno.pdf
+130.0,REE,1,3448,La Paloma,Centro MEC,330,S,Urb.,planes_circuitales\Durazno.pdf
+131.0,REE,3449,4083,La Paloma,Liceo Oficial,330,S,Urb.,planes_circuitales\Durazno.pdf
+132.0,REE,4084,4555,La Paloma,Escuela  No 33,330,S,Urb.,planes_circuitales\Durazno.pdf
+133.0,REE,4556,4914,La Paloma,Escuela  No 33,331,S,Urb.,planes_circuitales\Durazno.pdf
+134.0,REF,1,436,San J.de las Cañas,Escuela No 40,65,S,Rur.,planes_circuitales\Durazno.pdf
+135.0,RFA,1,1419,H. De Carpinteria,Escuela No 30,83,S,Rur.,planes_circuitales\Durazno.pdf
+136.0,RFB,1,251,Aguas Buenas,Escuela No 13,85,S,Rur.,planes_circuitales\Durazno.pdf
+137.0,RFC,1,2500,San Jorge,Escuela No 34,256,S,Rur.,planes_circuitales\Durazno.pdf
+138.0,RFC,2501,2810,San Jorge,Escuela No 34,256,S,Rur.,planes_circuitales\Durazno.pdf
+139.0,RFD,1,1152,Cuchilla del Rincon,Escuela No 63,88,S,Rur.,planes_circuitales\Durazno.pdf
+140.0,RFE,1,1834,Blanquillo,Liceo Oficial,158,S,Urb.,planes_circuitales\Durazno.pdf
+141.0,RFF,1,2020,Chileno,Escuela  N° 37,199,S,Rur.,planes_circuitales\Durazno.pdf
+142.0,RGA,1,2950,Carlos Reyles,Escuela No 22 -  C. Reyles,358,S,Urb.,planes_circuitales\Durazno.pdf
+143.0,RGA,2951,3531,Carlos Reyles,Junta Local,358,S,Urb.,planes_circuitales\Durazno.pdf
+144.0,RGA,3532,3913,Carlos Reyles,Liceo Oficial,359,S,Urb.,planes_circuitales\Durazno.pdf
+145.0,RGB,1,3039,Pueblo Centenario,Jardin Infante - Centenario,400,S,Urb.,planes_circuitales\Durazno.pdf
+146.0,RGB,3040,3572,Pueblo Centenario,Escuela No 39,400,S,Urb.,planes_circuitales\Durazno.pdf
+147.0,RGB,3573,4002,Pueblo Centenario,Gimnasio Muicipal,408,S,Urb.,planes_circuitales\Durazno.pdf
+148.0,RGC,1,1039,Baygorria,Escuela No 72,98,S,Rur.,planes_circuitales\Durazno.pdf
+149.0,RGD,1,734,Los Tapes,Escuela No 50,32,S,Rur.,planes_circuitales\Durazno.pdf
+,RGE,1,1009,Feliciano,Escuela No 50,89,S,Rur.,planes_circuitales\Durazno.pdf

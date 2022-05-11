@@ -1,0 +1,180 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1,QAA,1,19912,U. Barreiro No 3418,Centro Cultural Florida,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+2,QAA,19913,22390,U. Barreiro No 3418,Centro Cultural Florida,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+3,QAA,22391,24704,Pocho Fernandez N° 444,Instituto Normal,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+4,QAA,24705,26178,Pocho Fernandez N° 444,Instituto Normal,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+5,QAA,26179,27746,Joaquín Suarez No 3437,Liceo No 2,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+6,QAA,27747,28792,Joaquín Suarez No 3437,Liceo No 2,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+7,QAA,28793,30041,Joaquín Suarez No 3437,Liceo No 2,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+8,QAA,30042,31421,Joaquín Suarez No 3437,Liceo No 2,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+9,QAA,31422,32515,Joaquín Suarez No 3437,Liceo No 2,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+10,QAA,32516,33398,Joaquín Suarez No 3437,Liceo No 2,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+11,QAA,33399,34123,Joaquín Suarez No 3437,Liceo No 2,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+12,QAA,34124,34957,Gral. Flores esq. Independencia,Colegio del Huerto,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+13,QAA,34958,35853,Gral. Flores esq. Independencia,Colegio del Huerto,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+14,QAA,35854,36780,Gral. Flores esq. Independencia,Colegio del Huerto,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+15,QAA,36781,37855,Gral. Flores esq. Independencia,Colegio del Huerto,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+16,QAA,37856,38829,Antonio Ma Fernandez esq. Rodó,Escuela No 1 Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+17,QAA,38830,39502,Antonio Ma Fernandez esq. Rodó,Escuela No 1 Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+18,QAA,39503,40236,Antonio Ma Fernandez esq. Rodó,Escuela No 1 Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+19,QAA,40237,41003,Antonio Ma Fernandez esq. Rodó,Escuela No 1 Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+20,QAA,41004,42066,Antonio Ma Fernandez esq. Rodó,Escuela No 1 Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+21,QAA,42067,42700,Gral. Venancio Flores No 541,U.T.U.,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+22,QAA,42701,43289,Gral. Venancio Flores No 541,U.T.U.,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+23,QAA,43290,43892,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+24,QAA,43893,44678,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+25,QAA,44679,45496,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+26,QAA,45497,46370,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+27,QAA,46371,46984,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+28,QAA,46985,47603,18 de Julio esq. Batlle y Ordoñez,U.T.U.,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+29,QAA,47604,48201,Independencia esq. 18 de Julio,Escuela No 2 Varela,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+30,QAA,48202,48789,Independencia esq. 18 de Julio,Escuela No 2 Varela,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+31,QAA,48790,49356,Calleros esq. Z.Michelini,Liceo No 3,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+33,QAA,50108,50674,Calleros esq. Z.Michelini,Liceo No 3,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+34,QAA,50675,51202,Calleros esq. Z.Michelini,Liceo No 3,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+35,QAA,51203,51752,Calleros esq. Z.Michelini,Liceo No 3,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+36,QAA,51753,52326,A. Saravia casi Z. Michelini,Jardín de Infantes No 117,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+37,QAA,52327,52869,A. Saravia casi Z. Michelini,Jardín de Infantes No 117,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+38,QAA,52870,53409,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+39,QAA,53410,53939,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+40,QAA,53940,54563,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+41,QAA,54564,55090,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+42,QAA,55091,55599,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+43,QAA,55600,56082,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+44,QAA,56083,56638,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+45,QAA,56639,57114,U. Barreiro esq. M. Oribe,Liceo No 1,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+46,QAA,57115,57644,Juan I Cardozo esq Batlle y Ordoñez,Asociación de Pasivos,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+47,QAA,57645,58206,Juan I Cardozo esq Batlle y Ordoñez,Asociación de Pasivos,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+48,QAA,58207,58753,Batlle y Ordoñez casi Cardozo,Asociación de Pasivos,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+49,QAA,58754,59224,Batlle y Ordoñez casi Cardozo,Asociación de Pasivos,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+50,QAA,59225,59686,Juan I Cardozo esq Antonio Ma Fernandez,Escuela No 103 de Recueperación,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+51,QAA,59687,60140,Juan I Cardozo esq Antonio Ma Fernandez,Escuela No 103 de Recueperación,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+52,QAA,60141,60600,Pocho Fernandez No 3550,Escuela No 4,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+53,QAA,60601,61065,Pocho Fernandez No 3550,Escuela No 4,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+54,QAA,61066,61533,Pocho Fernandez (entrada puerta del medio),Escuela No 4,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+55,QAA,61534,61989,Pocho Fernandez (entrada puerta del medio),Escuela No 4,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+56,QAA,61990,62480,Pocho Fernandez (entrada salón de Actos),Escuela No 4,400.0,si,Urbano,planes_circuitales\Florida.pdf
+57,QAA,62481,62920,Independencia No 755,Centro Democrático,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+58,QAA,62921,63356,Independencia No 755,Centro Democrático,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+59,QAA,63357,63797,Independencia No 755,Centro Democrático,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+60,QAA,63798,64221,Independencia No 755,Centro Democrático,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+61,QAA,64222,64643,José Enrique Rodo No 120,Escuela No 51 - San Cono,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+62,QAA,64644,65077,José Enrique Rodo No 120,Escuela No 51 - San Cono,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+63,QAA,65078,65524,José Enrique Rodo No 120,Escuela No 51 - San Cono,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+65,QAA,65974,66427,Baltrasar Brum N°669,"Escuela No 123 de Música ""Joaquín Piera""",400.0,NO,Urbano,planes_circuitales\Florida.pdf
+66,QAA,66428,66866,Av. Artigas No 1195,Escuela No 8,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+67,QAA,66867,67284,Av. Artigas No 1195,Escuela No 8,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+68,QAA,67285,67698,Av. Artigas No 1195,Escuela No 8,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+69,QAA,67699,68112,Pocho Fernandez N° 3320,Club Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+70,QAA,68113,68528,Pocho Fernandez N° 3320,Club Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+71,QAA,68529,68948,Pocho Fernandez N° 3320,Club Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+72,QAA,68949,69365,Pocho Fernandez N° 3320,Club Artigas,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+73,QAA,69366,69773,Independencia N° 1320,Escuela N° 3,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+74,QAA,69774,70177,Independencia N° 1320,Escuela N °3,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+75,QAA,70178,70579,Independencia esq. 24 de Abril,C.E.R.P,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+76,QAA,70580,70982,Independencia esq. 24 de Abril,C.E.R.P,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+77,QAA,70983,71468,Independencia esq. 24 de Abril,C.E.R.P,402.0,SI,Urbano,planes_circuitales\Florida.pdf
+78,QBA,1,4134,18 de Julio y Avda. Artigas,Escuela No 9 -  La Cruz,237.0,SI,Rural,planes_circuitales\Florida.pdf
+79,QBA,4135,4498,18 de Julio y Avda. Artigas,Escuela No 9  - La Cruz,237.0,SI,Rural,planes_circuitales\Florida.pdf
+80,QBA,4499,4761,18 de Julio y Avda. Artigas,Escuela No 9  - La Cruz,239.0,SI,Rural,planes_circuitales\Florida.pdf
+81,QBB,1,3761,Ruta 5 Km 74.500,Liceo Mendoza Grande,250.0,SI,Rural,planes_circuitales\Florida.pdf
+82,QBB,3762,4305,Ruta 5 Km 74.500,Liceo Mendoza Grande,250.0,SI,Rural,planes_circuitales\Florida.pdf
+83,QBB,4306,4637,Ruta 5 Km 74.500,Liceo Mendoza Grande,250.0,SI,Rural,planes_circuitales\Florida.pdf
+84,QBB,4638,4901,Ruta 5 Km 74.500,Liceo Mendoza Grande,252.0,SI,Rural,planes_circuitales\Florida.pdf
+85,QBC,1,826,Ruta 6 Km 92.500 y Ruta 12,Escuela No 88 - Las Piedritas  (ARIAS),30.0,SI,Rural,planes_circuitales\Florida.pdf
+86,QBD,1,1200,Ruta  56 Y 6,Escuela No 101 -  San Gabriel,304.0,SI,Rural,planes_circuitales\Florida.pdf
+87,QBE,1,330,Ruta 5 Km 93.500,Escuela No 18 -  Juncal,86.0,SI,Rural,planes_circuitales\Florida.pdf
+88,QBF,1,478,Ex Ruta 5 Km 79,Escuela No 52 -  Mendoza Chico,286.0,SI,Rural,planes_circuitales\Florida.pdf
+89,QBF,479,835,Ex Ruta 5 Km 79,Escuela No 52  - Mendoza Chico,286.0,SI,Rural,planes_circuitales\Florida.pdf
+90,QBF,836,1141,Ex Ruta 5 km 79,Escuela No 52  - Mendoza Chico,286.0,SI,Rural,planes_circuitales\Florida.pdf
+91,QBG,1,717,Camino Vecinal a Palermo,Escuela No 27 -  La Macana,226.0,SI,Rural,planes_circuitales\Florida.pdf
+92,QBG,718,972,Camino Vecinal a Palermo,Escuela No 27 -  La Macana,227.0,SI,Rural,planes_circuitales\Florida.pdf
+93,QBH,1,584,Ruta 5 Km 105.500,Escuela No 61 - Santa Teresa,215.0,SI,Rural,planes_circuitales\Florida.pdf
+94,QBI,1,606,Ruta 5 Km 127.500,Escuela No 14  - Pintado,231.0,SI,Rural,planes_circuitales\Florida.pdf
+95,QCA,1,8668,Faustino Harrison No 969,Liceo Sarandí Grande,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+97.0,QCA,10221,11292,Faustino Harrison No 969,Liceo Sarandí Grande,410.0,SI,Urbano,planes_circuitales\Florida.pdf
+98.0,QCA,11293,12161,Faustino Harrison No 969,Liceo Sarandí Grande,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+99.0,QCA,12162,12900,Faustino Harrison No 969,Liceo Sarandí Grande,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+100.0,QCA,12901,13530,Faustino Harrison No 969,Liceo Sarandí Grande,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+101.0,QCA,13531,14070,Faustino Harrison No 969,Liceo Sarandí Grande,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+102.0,QCA,14071,14684,F.Harrison  No 845,Escuela No 38 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+103.0,QCA,14685,15174,F.Harrison  No 845,Escuela No 38 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+104.0,QCA,15175,15645,F.Harrison  No 845,Escuela No 38 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+105.0,QCA,15646,16107,F.Harrison  No 845,Escuela No 38 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+106.0,QCA,16108,16538,Edina F. de Molina No 914,Escuela No 7 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+107.0,QCA,16539,16961,Edina F. de Molina No 914,Escuela No 7 - Sarandí Grande,400.0,NO,Urbano,planes_circuitales\Florida.pdf
+108.0,QCA,16962,17372,Edina F. de Molina No 786,Escuela No 113 -  Sarandí Grande,400.0,SI,Urbano,planes_circuitales\Florida.pdf
+109.0,QCA,17373,17790,Edina F. de Molina No 786,Escuela No 113  - Sarandí Grande,404.0,SI,Urbano,planes_circuitales\Florida.pdf
+110.0,QCB,1,622,Ruta  5 Km 138.500,Escuela No 81 - Sauce de Maciel,17.0,SI,Rural,planes_circuitales\Florida.pdf
+111.0,QCC,1,410,Ruta 58 Km 27,Escuela No 87 -  Cuch. Sto Domingo,48.0,SI,Rural,planes_circuitales\Florida.pdf
+112.0,CD Puntas de Maci,"l1",1762,Ruta 5 km 152. 500,Escuela No 29 - Puntas de Maciel,245.0,SI,Rural,planes_circuitales\Florida.pdf
+,QCF Arroyo Sarandí,1,211,17,,,,,planes_circuitales\Florida.pdf
+113.0,QCE,1,1826,Sarandí y 25 de Agosto,Escuela No 11 - Goñi,215.0,SI,Rural,planes_circuitales\Florida.pdf
+114.0,QDA,1,2963,18 de Julio S/N,Salón Parroquial - Chamizo,355.0,SI,Rural,planes_circuitales\Florida.pdf
+115.0,QDA,2964,3610,18 de Julio S/N,Salón Parroquial - Chamizo,356.0,SI,Rural,planes_circuitales\Florida.pdf
+116.0,QDA,3611,4018,25 de Agosto S/N,Escuela No 19 - Chamizo,356.0,SI,Rural,planes_circuitales\Florida.pdf
+117.0,QDB,1,1425,Ruta 94 Km 94,Escuela No 15 - La Escobilla,126.0,SI,Rural,planes_circuitales\Florida.pdf
+118.0,QDC,1,6366,L. A. de Herrara esq. Rodó,Liceo de Casupá,313.0,SI,Rural,planes_circuitales\Florida.pdf
+,QEE Milán,1,826,9,,,,,planes_circuitales\Florida.pdf
+119.0,QDC,6367,7136,L. A. de Herrera esq. Rodó,Liceo  Casupá,315.0,SI,Rural,planes_circuitales\Florida.pdf
+120.0,QDC,7137,7740,L. A. de Herrera esq. Rodó,Liceo  Casupá,315.0,SI,Rural,planes_circuitales\Florida.pdf
+121.0,QDC,7741,8262,L. A. de Herrera esq. Rodó,Liceo  Casupá,315.0,SI,Rural,planes_circuitales\Florida.pdf
+122.0,QDC,8263,8682,L. A. de Herrera esq. Artigas,Club Social Casupá,315.0,NO,Rural,planes_circuitales\Florida.pdf
+123.0,QDC,8683,9063,L. A. de Herrera esq. Artigas,Club Social Casupá,315.0,NO,Rural,planes_circuitales\Florida.pdf
+124.0,QDC,9064,9422,L. A. de Herrera esq. Artigas,Escuela No 34  - Casupá,315.0,SI,Rural,planes_circuitales\Florida.pdf
+125.0,QDC,9423,9752,L. A. de Herrera esq. Artigas,Escuela No 34 - Casupá,315.0,SI,Rural,planes_circuitales\Florida.pdf
+127,QDD,5502,6217,Independencia esq. Piedra Alta,Club Centenario- Fray Marcos,320.0,SI,Rural,planes_circuitales\Florida.pdf
+128,QDD,6218,6780,Gral. Artigas S/N (Entrada principal),Escuela No 45 - Fray Marcos,320.0,NO,Rural,planes_circuitales\Florida.pdf
+129,QDD,6781,7244,Gral. Artigas S/N (Entrada principal),Escuela No 45 - Fray Marcos,320.0,NO,Rural,planes_circuitales\Florida.pdf
+130,QDD,7245,7648,Gral. Artigas S/N  (Entrada por la Plaza),Escuela No 45 -  Fray Marcos,320.0,NO,Rural,planes_circuitales\Florida.pdf
+131,QDD,7649,8015,Gral. Artigas S/N  (Entrada por la Plaza),Escuela No 45 - Fray Marcos,320.0,NO,Rural,planes_circuitales\Florida.pdf
+132,QDD,8016,8359,Independencia 1081,Liceo Fray Marcos,320.0,SI,Rural,planes_circuitales\Florida.pdf
+133,QDD,8360,8687,Independencia 1081,Liceo Fray Marcos,320.0,SI,Rural,planes_circuitales\Florida.pdf
+134,QDE,1,1149,Ramón Juani y Ruta 7,Escuela No 26 - Reboledo,379.0,SI,Rural,planes_circuitales\Florida.pdf
+135,QEA Sta.Lucía Chic,1,516,Ruta 6 Km 123.500,Escuela No 98 - Tornero,4.0,SI,Rural,planes_circuitales\Florida.pdf
+,QEB Tornero,1,334,15,,,,,planes_circuitales\Florida.pdf
+136,QEC,1,1153,Ruta 5 Km 100,Escuela No 62 - Talita,88.0,SI,Rural,planes_circuitales\Florida.pdf
+137,QED,1,943,Camino Vecinal a La Macana,Escuela No 32 - San Gerónimo,117.0,SI,Rural,planes_circuitales\Florida.pdf
+138,QEF,1,2045,Ruta 7 Km 142.500,Escuela No 17 -  Cerro Colorado,300.0,SI,Rural,planes_circuitales\Florida.pdf
+,QEG Cerro Copetón,1,515,19,,,,,planes_circuitales\Florida.pdf
+139,QEF,2046,2632,Ruta 7 Km 142.500,Escuela No 17 -  Cerro Colorado,317.0,SI,Rural,planes_circuitales\Florida.pdf
+140,QEF,2633,3026,Ruta 7 Km 142.500,Liceo  Cerro Colorado,317.0,NO,Rural,planes_circuitales\Florida.pdf
+141,QEF,3027,3361,Ruta 7 Km 142.500,Liceo  Cerro Colorado,317.0,NO,Rural,planes_circuitales\Florida.pdf
+142,QFA,1,3626,Ruta 6 Km 182 y Av. Centenario,Escuela No 28 - Capilla del Sauce,300.0,SI,Rural,planes_circuitales\Florida.pdf
+,QGA La Palma,1,340,13,,,,,planes_circuitales\Florida.pdf
+143,QFA,3627,4153,Ruta 6 Km 182 y Av. Centenario,Escuela No 28 -  Capilla del Sauce,334.0,SI,Rural,planes_circuitales\Florida.pdf
+144,QFA,4154,4519,Ruta 6 Km 182 y Av. Centenario,Escuela No 28 - Capilla del Sauce,335.0,SI,Rural,planes_circuitales\Florida.pdf
+145,QFB,1,984,Ruta 6 Km 172,Escuela No 60 - Montecoral,83.0,SI,Rural,planes_circuitales\Florida.pdf
+146,QFC,1,1517,Ruta 42 Km 49,Escuela No 16 - Polanco del Yí,94.0,SI,Rural,planes_circuitales\Florida.pdf
+,QFF  Castro,1,110,18,,,,,planes_circuitales\Florida.pdf
+147,QFD,1,839,Ruta 6 Km 155,Escuela No 48 - Estación Gallinal,24.0,SI,Rural,planes_circuitales\Florida.pdf
+148,QFE,1,608,Ruta 6 Km 195 camino vecinal,Escuela No 95 - Molles de Timote,66.0,SI,Rural,planes_circuitales\Florida.pdf
+149,GB Molles de Pesca,"o1",249,Yí y Camino Nacional,Salón MEVIR- Nico Perez,6.0,SI,Rural,planes_circuitales\Florida.pdf
+,QGD,1,3093,340,,,,,planes_circuitales\Florida.pdf
+150,QGD,3094,3532,Sta. Lucía esq. Uruguay,Escuela No 21 - Nico Perez,346.0,NO,Rural,planes_circuitales\Florida.pdf
+151,GE Paso R. de Man,".1",557,Ruta 7 Km 180,Escuela No 20 - Illescas,33.0,SI,Rural,planes_circuitales\Florida.pdf
+QGF Illescas,1,873,94,,,,,,planes_circuitales\Florida.pdf
+153.0,QGC Valentines,1,770,Calle G S/N,Junta Local - Cerro Chato,31.0,SI,Rural,planes_circuitales\Florida.pdf
+,QGH,1,2252,297,,,,,planes_circuitales\Florida.pdf
+154.0,QGI,1,283,Ruta 6 Km 170,Escuela No 46 - Las Chilcas,37.0,SI,Rural,planes_circuitales\Florida.pdf
+155.0,QHA,1,3986,25 de Agosto s/n,Asociación de Pasivos - 25 de Mayo,289.0,SI,Rural,planes_circuitales\Florida.pdf
+156.0,QHA,3987,4713,Av. Artigas esq. O. Rava,Salón Comunal - 25 de Mayo,289.0,NO,Rural,planes_circuitales\Florida.pdf
+157.0,QHA,4714,5216,Independencia esq. Rivera,Liceo 25 de Mayo,289.0,SI,Rural,planes_circuitales\Florida.pdf
+158.0,QHA,5217,5642,Independencia esq. Rivera,Liceo 25 de Mayo,289.0,NO,Rural,planes_circuitales\Florida.pdf
+159.0,QHA,5643,5981,Independencia esq. Rivera,Liceo 25 de Mayo,289.0,NO,Rural,planes_circuitales\Florida.pdf
+160.0,QHA,5982,6289,Av. Artigas esq. O. Rava,Escuela N° 5  -  25 de Mayo,289.0,NO,Rural,planes_circuitales\Florida.pdf
+161.0,QHA,6290,6584,Av. Artigas esq. O. Rava,Escuela N° 5  -  25 de Mayo,290.0,NO,Rural,planes_circuitales\Florida.pdf
+162.0,QHB,1,850,Ruta 77,Escuela No 54 - Berrondo,217.0,SI,Rural,planes_circuitales\Florida.pdf
+163.0,QHC,1,1121,Ruta 5 Km 102.500,Escuela No 25 - Villa Vieja,107.0,SI,Rural,planes_circuitales\Florida.pdf
+164.0,QHE,1,3002,R.Cabaña Nùñez s/n,Liceo Cardal,273.0,SI,Rural,planes_circuitales\Florida.pdf
+165.0,QHE,3003,3611,R.Cabaña Nùñez s/n,Liceo Cardal,273.0,SI,Rural,planes_circuitales\Florida.pdf
+166.0,QHE,3612,4049,R.Cabaña Nùñez s/n,Liceo Cardal,273.0,SI,Rural,planes_circuitales\Florida.pdf
+167.0,QHE,4050,4372,R.Cabaña Nùñez s/n,Escuela N° 24 - Cardal,273.0,NO,Rural,planes_circuitales\Florida.pdf
+168.0,QHE,4373,4655,R.Cabaña Nùñez s/n,Escuela N° 24 - Cardal,273.0,NO,Rural,planes_circuitales\Florida.pdf
+169.0,QHF,1,3061,Juan José Aguiar  esq. Juan de León,Club Social 25 de Agosto,310.0,SI,Rural,planes_circuitales\Florida.pdf
+170.0,QHF,3062,3795,Juan José Aguiar  esq. Juan de León,Club Social 25 de Agosto,311.0,SI,Rural,planes_circuitales\Florida.pdf
+171.0,QHF,3796,4220,Juan de León esq. Juan José Aguiar,Salón Comunal - 25 de Agosto,311.0,NO,Rural,planes_circuitales\Florida.pdf
+172.0,QHF,4221,4598,Juan de León esq. Juan José Aguiar,Salón Comunal - 25 de Agosto,311.0,NO,Rural,planes_circuitales\Florida.pdf
+173.0,QHF,4599,4930,Ramón Alvarez s/n,Escuela N° 47 - 25 de Agosto,311.0,NO,Rural,planes_circuitales\Florida.pdf
+174.0,QHG,1,346,Ruta 77 Km 6.500,Escuela No 73 -  Estación Independencia,198.0,SI,Rural,planes_circuitales\Florida.pdf
+175.0,QHG,347,569,Ruta 77 Km 6.500,Escuela No 73 -  Estación Independencia,198.0,SI,Rural,planes_circuitales\Florida.pdf

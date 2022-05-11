@@ -1,0 +1,232 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1,OAA,1,4073,SAN JOSÉ DE MAYO,"Salón INVE 2, 18 de Julio y Rocha",387,S,URBANO,planes_circuitales\San_Jose.pdf
+2,OAA,4074,5048,SAN JOSÉ DE MAYO,"Salón INVE 2, 18 de Julio y Rocha. Barbacoa.",387,N,URBANO,planes_circuitales\San_Jose.pdf
+3,OAA,5049,5908,SAN JOSÉ DE MAYO,"Escuela Pública No 83, 18 de Julio y Rocha",387,N,URBANO,planes_circuitales\San_Jose.pdf
+4,OAA,5909,6677,SAN JOSÉ DE MAYO,"Escuela Pública No 83, 18 de Julio y Rocha",387,N,URBANO,planes_circuitales\San_Jose.pdf
+5,OAA,6678,7406,SAN JOSÉ DE MAYO,"Salón Parroquial, 18 de Julio y Rocha",387,S,URBANO,planes_circuitales\San_Jose.pdf
+6,OAA,7407,7941,SAN JOSÉ DE MAYO,"Liceo No 3, Soriano s/n",387,S,URBANO,planes_circuitales\San_Jose.pdf
+7,OAA,7942,8510,SAN JOSÉ DE MAYO,"Liceo No 3, Soriano s/n",387,S,URBANO,planes_circuitales\San_Jose.pdf
+8,OAA,8511,9040,SAN JOSÉ DE MAYO,"Liceo No 3, Soriano s/n",387,S,URBANO,planes_circuitales\San_Jose.pdf
+9,OAA,9041,9557,SAN JOSÉ DE MAYO,"Salón Parroquial Barrio Colón, Pelossi 132 esq. Ellauri",387,S,URBANO,planes_circuitales\San_Jose.pdf
+10,OAA,9558,10049,SAN JOSÉ DE MAYO,"Salón Comunal Barrio Colón, Pelossi esq. Ellauri",387,S,URBANO,planes_circuitales\San_Jose.pdf
+11,OAA,10050,10494,SAN JOSÉ DE MAYO,"Salón Comunal Barrio Colón, Pelossi esq. Ellauri",387,S,URBANO,planes_circuitales\San_Jose.pdf
+12,OAA,10495,10935,SAN JOSÉ DE MAYO,"Escuela Pública No 53, Aparicio Saravia S/N",387,S,URBANO,planes_circuitales\San_Jose.pdf
+13,OAA,10936,11351,SAN JOSÉ DE MAYO,"Escuela Pública No 53, Aparicio Saravia S/N",387,S,URBANO,planes_circuitales\San_Jose.pdf
+14,OAA,11352,11768,SAN JOSÉ DE MAYO,"Escuela Pública No 53, Aparicio Saravia S/N",387,S,URBANO,planes_circuitales\San_Jose.pdf
+15,OAA,11769,12182,SAN JOSÉ DE MAYO,"Escuela Pública No 53, Aparicio Saravia S/N",387,S,URBANO,planes_circuitales\San_Jose.pdf
+16,OAA,12183,12578,SAN JOSÉ DE MAYO,"Club Centenario, Ituzaingó 370",387,S,URBANO,planes_circuitales\San_Jose.pdf
+17,OAA,12579,13001,SAN JOSÉ DE MAYO,"Club Centenario, Ituzaingó 370",392,S,URBANO,planes_circuitales\San_Jose.pdf
+18,OAB,1,4971,SAN JOSÉ DE MAYO,DGI - Treinta y Tres 351 esq.Vidal,383,S,URBANO,planes_circuitales\San_Jose.pdf
+19,OAB,4972,5875,SAN JOSÉ DE MAYO,"Escuela Pública No 45, Asamblea y Artigas",383,N,URBANO,planes_circuitales\San_Jose.pdf
+20,OAB,5876,6584,SAN JOSÉ DE MAYO,"Escuela Pública No 45, Asamblea y Artigas",383,N,URBANO,planes_circuitales\San_Jose.pdf
+21,OAB,6585,7166,SAN JOSÉ DE MAYO,UTEC - Gral. José Artigas 456. Esq. Ciganda,383,S,URBANO,planes_circuitales\San_Jose.pdf
+22,OAB,7167,7666,SAN JOSÉ DE MAYO,UTEC - Gral. José Artigas 456. Esq. Ciganda,383,S,URBANO,planes_circuitales\San_Jose.pdf
+23,OAB,7667,8115,SAN JOSÉ DE MAYO,UTEC - Gral. José Artigas 456. Esq. Ciganda,383,S,URBANO,planes_circuitales\San_Jose.pdf
+24,OAB,8116,8529,SAN JOSÉ DE MAYO,"Dirección Dep. de Salud, Ituzaingó 474",389,N,URBANO,planes_circuitales\San_Jose.pdf
+25,OAC,1,5384,SAN JOSÉ DE MAYO,BPS - Treinta y Tres esq. Ciganda,400,S,URBANO,planes_circuitales\San_Jose.pdf
+26,OAC,5385,6318,SAN JOSÉ DE MAYO,"Hogar Católico, 25 de Mayo 485",400,N,URBANO,planes_circuitales\San_Jose.pdf
+27,OAC,6319,7126,SAN JOSÉ DE MAYO,"Hogar Católico, 25 de Mayo 485",400,N,URBANO,planes_circuitales\San_Jose.pdf
+28,OAC,7127,7741,SAN JOSÉ DE MAYO,"Escuela Pública No 68, Brasil entre 25 de Mayo y Sarandí",400,N,URBANO,planes_circuitales\San_Jose.pdf
+29,OAC,7742,8264,SAN JOSÉ DE MAYO,"Escuela Pública No 68, Brasil entre 25 de Mayo y Sarandí",400,N,URBANO,planes_circuitales\San_Jose.pdf
+31,OAC,8744,9165,SAN JOSÉ DE MAYO,"ANTEL - Sala Videoconferencias, Ciganda entre Sarandí y Colón",399,S,URBANO,planes_circuitales\San_Jose.pdf
+32,OAD,1,4612,SAN JOSÉ DE MAYO,"Centro de Salud ASSE, Vidal 867",388,S,URBANO,planes_circuitales\San_Jose.pdf
+33,OAD,4613,5543,SAN JOSÉ DE MAYO,"Salón Comunal UCOVITA, Herrera S/No",388,S,URBANO,planes_circuitales\San_Jose.pdf
+34,OAD,5544,6431,SAN JOSÉ DE MAYO,"Salón Comunal UCOVITA, Herrera S/No",388,S,URBANO,planes_circuitales\San_Jose.pdf
+35,OAD,6432,7190,SAN JOSÉ DE MAYO,"Escuela Pública No 50, Di Martino y Ciganda",388,N,URBANO,planes_circuitales\San_Jose.pdf
+36,OAD,7191,7865,SAN JOSÉ DE MAYO,"Escuela Pública No 50, Di Martino y Ciganda",388,N,URBANO,planes_circuitales\San_Jose.pdf
+37,OAD,7866,8416,SAN JOSÉ DE MAYO,"Escuela Pública No 100, Durazno 1090",388,N,URBANO,planes_circuitales\San_Jose.pdf
+38,OAD,8417,8958,SAN JOSÉ DE MAYO,"Escuela Pública No 100, Durazno 1090",388,N,URBANO,planes_circuitales\San_Jose.pdf
+39,OAD,8959,9430,SAN JOSÉ DE MAYO,"Escuela Pública No 100, Durazno 1090",388,N,URBANO,planes_circuitales\San_Jose.pdf
+40,OAD,9431,9894,SAN JOSÉ DE MAYO,"Inst. Form. Docente, Batlle y Ordoñez 810",388,S,URBANO,planes_circuitales\San_Jose.pdf
+41,OAD,9895,10354,SAN JOSÉ DE MAYO,"Inst. Form. Docente, Batlle y Ordoñez 810",388,S,URBANO,planes_circuitales\San_Jose.pdf
+42,OAD,10355,10795,SAN JOSÉ DE MAYO,"Inst. Form. Docente, Batlle y Ordoñez 810",388,S,URBANO,planes_circuitales\San_Jose.pdf
+43,OAD,10796,11236,SAN JOSÉ DE MAYO,"Inst. Form. Docente, Batlle y Ordoñez 810",388,S,URBANO,planes_circuitales\San_Jose.pdf
+44,OAD,11237,11641,SAN JOSÉ DE MAYO,"Inst. Form. Docente, Batlle y Ordoñez 810",388,S,URBANO,planes_circuitales\San_Jose.pdf
+45,OAD,11642,12054,SAN JOSÉ DE MAYO,"Junta Departamental, Ciganda esq. Rincón",394,S,URBANO,planes_circuitales\San_Jose.pdf
+46,OBA,1,4699,SAN JOSÉ DE MAYO,"Casa de la Cultura,Salón de Actos, Ituzaingó 633.",376,S,URBANO,planes_circuitales\San_Jose.pdf
+47,OBA,4700,5648,SAN JOSÉ DE MAYO,"Casa de la Cultura,Salón de Actos, Ituzaingó 633.",376,S,URBANO,planes_circuitales\San_Jose.pdf
+48,OBA,5649,6367,SAN JOSÉ DE MAYO,"Casa de la Cultura, Ituzaingó 633",376,N,URBANO,planes_circuitales\San_Jose.pdf
+49,OBA,6368,6920,SAN JOSÉ DE MAYO,"Escuela Pública No 46, Artigas 625",376,N,URBANO,planes_circuitales\San_Jose.pdf
+50,OBA,6921,7424,SAN JOSÉ DE MAYO,"Escuela Pública No 46, Artigas 625",376,N,URBANO,planes_circuitales\San_Jose.pdf
+51,OBA,7425,7866,SAN JOSÉ DE MAYO,"Escuela Pública No 46, Artigas 625",376,S,URBANO,planes_circuitales\San_Jose.pdf
+52,OBA,7867,8267,SAN JOSÉ DE MAYO,"Escuela Pública No 46, Artigas 625",379,S,URBANO,planes_circuitales\San_Jose.pdf
+53,OBB,1,4394,SAN JOSÉ DE MAYO,"Esc. Tec. María Espínola (UTU), Sarandí 694",364,S,URBANO,planes_circuitales\San_Jose.pdf
+54,OBB,4395,5276,SAN JOSÉ DE MAYO,"Esc. Tec. María Espínola (UTU), Sarandí 694",364,S,URBANO,planes_circuitales\San_Jose.pdf
+55,OBB,5277,5987,SAN JOSÉ DE MAYO,"Esc. Tec. María Espínola (UTU), Sarandí 694",364,S,URBANO,planes_circuitales\San_Jose.pdf
+56,OBB,5988,6556,SAN JOSÉ DE MAYO,"Sede Club San Lorenzo, Oribe 624 entre 18 de Julio y Bengoa",364,S,URBANO,planes_circuitales\San_Jose.pdf
+57,OBB,6557,7047,SAN JOSÉ DE MAYO,"Liceo Dr. A. Espínola, Sarandí 624",364,S,URBANO,planes_circuitales\San_Jose.pdf
+58,OBB,7048,7496,SAN JOSÉ DE MAYO,"Liceo Dr. A. Espínola, Sarandí 624",364,N,URBANO,planes_circuitales\San_Jose.pdf
+59,OBB,7497,7895,SAN JOSÉ DE MAYO,"Liceo Dr. A. Espínola, Sarandí 624",370,N,URBANO,planes_circuitales\San_Jose.pdf
+61,OBC,4337,5298,SAN JOSÉ DE MAYO,"Escuela Pública No 52,  Frugoni y Batlle Berres",400,S,URBANO,planes_circuitales\San_Jose.pdf
+62,OBC,5299,6134,SAN JOSÉ DE MAYO,"Jardín de Infantes No 110, Ansina y Frugoni",400,S,URBANO,planes_circuitales\San_Jose.pdf
+63,OBC,6135,6794,SAN JOSÉ DE MAYO,"Jardín de Infantes No 110, Ansina y Frugoni",400,S,URBANO,planes_circuitales\San_Jose.pdf
+64,OBC,6795,7364,SAN JOSÉ DE MAYO,"Escuela Pública No 102, Av. Italia 1214.",400,S,URBANO,planes_circuitales\San_Jose.pdf
+65,OBC,7365,7874,SAN JOSÉ DE MAYO,"Escuela Pública No 102, Av. Italia 1214.",400,S,URBANO,planes_circuitales\San_Jose.pdf
+66,OBC,7875,8332,SAN JOSÉ DE MAYO,"Liceo No 2, Antonio Pan esq. Ansina",400,S,URBANO,planes_circuitales\San_Jose.pdf
+67,OBC,8333,8778,SAN JOSÉ DE MAYO,"Liceo No 2, Antonio Pan esq. Ansina",400,S,URBANO,planes_circuitales\San_Jose.pdf
+68,OBC,8779,9214,SAN JOSÉ DE MAYO,"Liceo No 2, Antonio Pan esq. Ansina",400,S,URBANO,planes_circuitales\San_Jose.pdf
+69,OBC,9215,9629,SAN JOSÉ DE MAYO,"Salón Plaza Arriaga, Luis Batlle Berres 864",390,N,URBANO,planes_circuitales\San_Jose.pdf
+70,OBD,1,3812,SAN JOSÉ DE MAYO,"Estadio Casto Martínez Laguarda, Av.  Larriera S/No",385,S,URBANO,planes_circuitales\San_Jose.pdf
+71,OBD,3813,4712,SAN JOSÉ DE MAYO,"Estadio Casto Martínez Laguarda, Av.  Larriera S/No",385,S,URBANO,planes_circuitales\San_Jose.pdf
+72,OBD,4713,5424,SAN JOSÉ DE MAYO,"Escuela Pública No 51, Di Martino y C. Marín",385,N,URBANO,planes_circuitales\San_Jose.pdf
+73,OBD,5425,6170,SAN JOSÉ DE MAYO,"Escuela Pública No 51, Di Martino y C. Marín",385,N,URBANO,planes_circuitales\San_Jose.pdf
+74,OBD,6171,6763,SAN JOSÉ DE MAYO,Salon Comunal Barrio Industrial. Guayabos 707,385,S,URBANO,planes_circuitales\San_Jose.pdf
+75,OBD,6764,7272,SAN JOSÉ DE MAYO,"Sede C.A. Central, 25 de Mayo e Instrucciones",385,N,URBANO,planes_circuitales\San_Jose.pdf
+76,OBD,7273,7806,SAN JOSÉ DE MAYO,"Escuela Pública No 103, 25 de Mayo e Instrucciones",385,N,URBANO,planes_circuitales\San_Jose.pdf
+77,OBD,7807,8294,SAN JOSÉ DE MAYO,"Escuela Pública No 103, 25 de Mayo e Instrucciones",385,N,URBANO,planes_circuitales\San_Jose.pdf
+78,OBD,8295,8732,SAN JOSÉ DE MAYO,"Escuela Pública No 103, 25 de Mayo e Instrucciones",385,N,URBANO,planes_circuitales\San_Jose.pdf
+79,OBD,8733,9192,SAN JOSÉ DE MAYO,"Salón Comunal Barrio Las Palmas, C.Marín y R. P. Martínez",385,N,URBANO,planes_circuitales\San_Jose.pdf
+80,OBD,9193,9613,SAN JOSÉ DE MAYO,"Salón Comunal Barrio Las Palmas, C.Marín y R. P. Martínez",385,N,URBANO,planes_circuitales\San_Jose.pdf
+81,OBD,9614,10032,SAN JOSÉ DE MAYO,Colegio OUR SCHOOL. Av. Manuel D. Rodriguez 237. Primaria,385,S,URBANO,planes_circuitales\San_Jose.pdf
+82,OBD,10033,10435,SAN JOSÉ DE MAYO,Colegio OUR SCHOOL. Av. Manuel D. Rodriguez 237. Primaria,385,S,URBANO,planes_circuitales\San_Jose.pdf
+83,OBD,10436,10833,SAN JOSÉ DE MAYO,Colegio OUR SCHOOL. Av. Manuel D. Rodriguez 237. Secundaria,385,S,URBANO,planes_circuitales\San_Jose.pdf
+84,OBD,10834,11261,SAN JOSÉ DE MAYO,"Asociación de  Retirados y Pensionistas Militares, Av. Larriera 1337",389,S,URBANO,planes_circuitales\San_Jose.pdf
+85,OCA,1,2583,JUAN SOLER,"Escuela Pública No57, Alcides esq. Soler",268,S,RURAL,planes_circuitales\San_Jose.pdf
+86,OCA,2584,3256,JUAN SOLER,"Escuela Pública No57, Alcides esq. Soler",268,S,RURAL,planes_circuitales\San_Jose.pdf
+87,OCA,3257,3612,JUAN SOLER,"Salón MÉVIR, San José entre Montevideo y Florida",270,N,RURAL,planes_circuitales\San_Jose.pdf
+88,OCB,1,2509,FAGINA,"Escuela Pública No 7, Cno. Guaycurú",214,N,RURAL,planes_circuitales\San_Jose.pdf
+89,OCB,2510,2790,FAGINA,"Escuela Pública No 7, Cno. Guaycurú",214,N,RURAL,planes_circuitales\San_Jose.pdf
+91,OCD,1,1460,CRUZ DE LOS CAMINOS,"Escuela Pública No 71, Ruta 3 Km 101.500",217,S,RURAL,planes_circuitales\San_Jose.pdf
+92,OCE,1,895,CHAMIZO,"Escuela Pública No 8, Ruta 3 Km 111.700",128,S,RURAL,planes_circuitales\San_Jose.pdf
+93,OCF,1,947,SAN GREGORIO,"Escuela Pública No 43, Ruta 3 y Dinorah N. de Poey",130,S,RURAL,planes_circuitales\San_Jose.pdf
+94,OCG,1,1942,CHAMIZO,"Escuela Pública No 8, Ruta 3 Km 111.700",272,S,RURAL,planes_circuitales\San_Jose.pdf
+95,OCH,1,345,CARRETA QUEMADA,"Salón MEVIR, Ruta 45 km 107",90,S,RURAL,planes_circuitales\San_Jose.pdf
+96,ODA,1,7019,RODRÍGUEZ,"Liceo Local, Diego Lamas S/No",387,S,URBANO,planes_circuitales\San_Jose.pdf
+97,ODA,7020,7863,RODRÍGUEZ,"Liceo Local, Diego Lamas S/No",387,S,URBANO,planes_circuitales\San_Jose.pdf
+98,ODA,7864,8544,RODRÍGUEZ,"Asociación de Jubilados y Pensionistas, Diego Lamas S/No",387,S,URBANO,planes_circuitales\San_Jose.pdf
+99,ODA,8545,9141,RODRÍGUEZ,"Asociación de Jubilados y Pensionistas, Diego Lamas S/No",387,S,URBANO,planes_circuitales\San_Jose.pdf
+100,ODA,9142,9613,RODRÍGUEZ,"Escuela Pública N° 47, J. González y L. Jude S/No",387,N,URBANO,planes_circuitales\San_Jose.pdf
+101,ODA,9614,10071,RODRÍGUEZ,"Escuela Pública N° 47, J. González y L. Jude S/No",387,N,URBANO,planes_circuitales\San_Jose.pdf
+102,ODA,10072,10544,RODRÍGUEZ,Jardín de Infantes N°109. J. González y L. Jude S/No,387,S,URBANO,planes_circuitales\San_Jose.pdf
+103,ODA,10545,10954,RODRÍGUEZ,Jardín de Infantes N°109. J. González y L. Jude S/No,393,S,URBANO,planes_circuitales\San_Jose.pdf
+104,ODB,1,2257,RINCÓN DE ALBANO,"Escuela Publica Na 11, Ruta 45 km. 75.800",178,S,RURAL,planes_circuitales\San_Jose.pdf
+105,ODB,2258,2512,RINCÓN DE ALBANO,"Escuela Pública No 11, Ruta 45 km 75.800",179,N,RURAL,planes_circuitales\San_Jose.pdf
+106,ODC,1,1510,RINCÓN DE LA TORRE,"Capilla San Miguel, Carretera a Rincon de la Torre S/No",157,S,RURAL,planes_circuitales\San_Jose.pdf
+107,ODD,1,1796,RAIGÓN,"Escuela Pública No 9, J. P. Varela S/No",300,S,RURAL,planes_circuitales\San_Jose.pdf
+108,ODD,1797,2201,RAIGÓN,"Escuela Pública No 9, J. P. Varela S/No",300,S,RURAL,planes_circuitales\San_Jose.pdf
+109,ODD,2202,2534,RAIGÓN,"Escuela Pública No 9, J. P. Varela S/No",291,N,RURAL,planes_circuitales\San_Jose.pdf
+110,ODE,1,1201,RINCÓN DE ARIAS,"Escuela Pública No 39, Camino La Colorada S/No",88,S,RURAL,planes_circuitales\San_Jose.pdf
+111,ODF,1,2065,PASO DE CAME,"Escuela Pública No 19, Ruta 45 Km 101",189,S,RURAL,planes_circuitales\San_Jose.pdf
+112,ODF,2066,2316,PASO DE CAME,"Escuela Pública No 19, Ruta 45 Km 101",190,N,RURAL,planes_circuitales\San_Jose.pdf
+113,ODG,1,1236,ARROYO DE LA VIRGEN,"Escuela Pública No 13, Ruta 79 y Cno. El Cantante",76,N,RURAL,planes_circuitales\San_Jose.pdf
+114,ODH,1,1686,PUEBLO NUEVO,"Escuela Pública No 63, Ruta 11 Km 79.500",310,S,RURAL,planes_circuitales\San_Jose.pdf
+115,ODH,1687,2238,PUEBLO NUEVO,"Escuela Pública No 63, Ruta 11 Km 79.500",310,S,RURAL,planes_circuitales\San_Jose.pdf
+116,ODH,2239,2585,PUEBLO NUEVO,"Escuela Pública No 63, Ruta 11 Km 79.500",300,S,RURAL,planes_circuitales\San_Jose.pdf
+117,ODH,2586,2916,PUEBLO NUEVO,"Escuela Pública No 63, Ruta 11 Km 79.500",304,S,RURAL,planes_circuitales\San_Jose.pdf
+118,ODI,1,782,VILLA ITUZAINGÓ,"Escuela Pública No 59, P. More y B. More de Melo",233,S,RURAL,planes_circuitales\San_Jose.pdf
+119,ODI,783,1181,VILLA ITUZAINGÓ,"Escuela Pública No 59, P. More y B. More de Melo",233,S,RURAL,planes_circuitales\San_Jose.pdf
+121,OEA,1,4098,LIBERTAD,"Colegio San José, Secundaria, Gral José Artigas 784",410,S,URBANO,planes_circuitales\San_Jose.pdf
+122,OEA,4099,5419,LIBERTAD,"Escuela Pública No 99, Colón 1099.",410,S,URBANO,planes_circuitales\San_Jose.pdf
+123,OEA,5420,6221,LIBERTAD,"Escuela Pública No 99, Colón 1099.",410,S,URBANO,planes_circuitales\San_Jose.pdf
+124,OEA,6222,6977,LIBERTAD,"Escuela Pública No 99, Colón 1099.",400,S,URBANO,planes_circuitales\San_Jose.pdf
+125,OEA,6978,8288,LIBERTAD,"Escuela Pública No 49, San José esq. Clauzolles",400,N,URBANO,planes_circuitales\San_Jose.pdf
+126,OEA,8289,9173,LIBERTAD,"Escuela Pública No 49, San José esq. Clauzolles",400,N,URBANO,planes_circuitales\San_Jose.pdf
+127,OEA,9174,9737,LIBERTAD,"Escuela Pública No 49, San José esq. Clauzolles",400,N,URBANO,planes_circuitales\San_Jose.pdf
+128,OEA,9738,10322,LIBERTAD,"Salón Don Bosco, San José esq. 25 de Agosto S/No",400,N,URBANO,planes_circuitales\San_Jose.pdf
+129,OEA,10323,10901,LIBERTAD,"Club Social El Asador, 25 de Agosto S/No",400,N,URBANO,planes_circuitales\San_Jose.pdf
+130,OEA,10902,11472,LIBERTAD,"Club Social El Asador, 25 de Agosto S/No",400,N,URBANO,planes_circuitales\San_Jose.pdf
+131,OEA,11473,11999,LIBERTAD,"Escuela Técnica  (UTU), 25 de Agosto esq.  Morquio S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+132,OEA,12000,12475,LIBERTAD,"Escuela Técnica  (UTU), 25 de Agosto esq.  Morquio S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+133,OEA,12476,12953,LIBERTAD,"Escuela Técnica  (UTU), 25 de Agosto esq.  Morquio S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+134,OEA,12954,13430,LIBERTAD,"Escuela Técnica  (UTU), 25 de Agosto esq.  Morquio S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+135,OEA,13431,13878,LIBERTAD,"Escuela Pública N° 86, Sarandí esq. 19 de Abril S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+136,OEA,13879,14316,LIBERTAD,"Escuela Pública N° 86, Sarandí esq. 19 de Abril S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+137,OEA,14317,14759,LIBERTAD,"Jardín de Infantes No 113, Calle 17 metros esq. 19 de abril",400,S,URBANO,planes_circuitales\San_Jose.pdf
+138,OEA,14760,15181,LIBERTAD,"Jardín de Infantes No 113, Calle 17 metros esq. 19 de abril",400,S,URBANO,planes_circuitales\San_Jose.pdf
+139,OEA,15182,15612,LIBERTAD,"Jardín de Infantes No 113, Calle 17 metros esq. 19 de abril",400,S,URBANO,planes_circuitales\San_Jose.pdf
+140,OEA,15613,16020,LIBERTAD,"AJUPEN, San José 800 bis.",400,S,URBANO,planes_circuitales\San_Jose.pdf
+141,OEA,16021,16428,LIBERTAD,"Liceo Local, Clauzolles 794",400,S,URBANO,planes_circuitales\San_Jose.pdf
+142,OEA,16429,16833,LIBERTAD,"Liceo Local, Clauzolles 794",400,S,URBANO,planes_circuitales\San_Jose.pdf
+143,OEA,16834,17260,LIBERTAD,"Liceo Local, Clauzolles 794",400,S,URBANO,planes_circuitales\San_Jose.pdf
+144,OEB,1,2188,COLONIA ITALIA,"Escuela Pública No17, Ruta 45 Km 59.700",281,S,RURAL,planes_circuitales\San_Jose.pdf
+145,OEB,2189,2604,COLONIA ITALIA,"Escuela Pública No17, Ruta 45 Km 59.700",282,S,RURAL,planes_circuitales\San_Jose.pdf
+146,OEC,1,2336,PUNTAS DE VALDÉZ,"Escuela Pública No 26, Salón al frente, Ruta 1 (vieja) Km 61",367,S,URBANO,planes_circuitales\San_Jose.pdf
+147,OEC,2337,2981,PUNTAS DE VALDÉZ,"Escuela Pública No 26, Salón al frente, Ruta 1 (vieja) Km 61",367,S,URBANO,planes_circuitales\San_Jose.pdf
+148,OEC,2982,3505,PUNTAS DE VALDÉZ,"Escuela Pública No 26, Salón al frente, Ruta 1 (vieja) Km 61",367,S,URBANO,planes_circuitales\San_Jose.pdf
+149,OEC,3506,3917,PUNTAS DE VALDÉZ,"Escuela Pública No 26, Ruta 1 (vieja) Km 61",367,N,URBANO,planes_circuitales\San_Jose.pdf
+151,OED,1,1954,VILLA MARÍA,"Escuela Púlica No 22, Ruta 3 km 72",265,S,RURAL,planes_circuitales\San_Jose.pdf
+152,OED,1955,2335,VILLA MARÍA,"Escuela Púlica No 22, Ruta 3 km 72",265,S,RURAL,planes_circuitales\San_Jose.pdf
+153,OED,2336,2612,VILLA MARÍA,"Salón MEVIR, Camino a Rincón del Pino esq.  Gavilán",266,N,RURAL,planes_circuitales\San_Jose.pdf
+154,OEE,1,1821,RAFAEL PERAZZA,"Club de Abuelos,  Calle 1810 N°533",339,S,URBANO,planes_circuitales\San_Jose.pdf
+155,OEE,1822,2524,RAFAEL PERAZZA,"Club de Abuelos,  Calle 1810 N°533",339,S,URBANO,planes_circuitales\San_Jose.pdf
+156,OEE,2525,3004,RAFAEL PERAZZA,"CAIF MarÍa Auxiliadora, Instrucciones 580",339,S,URBANO,planes_circuitales\San_Jose.pdf
+157,OEE,3005,3382,RAFAEL PERAZZA,"Gimnasio DPT, Calle 1810 esq. Ansina",339,S,URBANO,planes_circuitales\San_Jose.pdf
+158,OEE,3383,3744,RAFAEL PERAZZA,"Gimnasio DPT, Calle 1810 esq. Ansina",343,S,URBANO,planes_circuitales\San_Jose.pdf
+159,OEF,1,1298,RINCÓN DEL PINO,"Escuela Pública No 2, Ruta 1 Km 77.200",263,S,RURAL,planes_circuitales\San_Jose.pdf
+160,OEG,1,1648,MANGRULLO,"Escuela Pública No6, Camino a Voulminot Km 80",271,S,RURAL,planes_circuitales\San_Jose.pdf
+161,OEG,1649,2003,MANGRULLO,"Escuela Pública No6, Camino a Voulminot Km 80",271,S,RURAL,planes_circuitales\San_Jose.pdf
+162,OEH,1,5191,KIYÚ,"Escuela Pública No 65, Carretera a Kiyú",248,S,RURAL,planes_circuitales\San_Jose.pdf
+163,OEH,5192,5734,KIYÚ,"Escuela Pública No 65, Carretera a Kiyú",248,S,RURAL,planes_circuitales\San_Jose.pdf
+164,OEH,5735,6012,KIYÚ,"Escuela Pública No 65, Carretera a Kiyú",250,N,RURAL,planes_circuitales\San_Jose.pdf
+165,OEI,1,5726,COLONIA WILSON,"Escuela Pública No 76, Salón al fondo, Camino a Colonia Wilson.",232,S,RURAL,planes_circuitales\San_Jose.pdf
+166,OEI,5727,7104,COLONIA WILSON,"Escuela Pública No 76, Camino a Colonia Wilson",232,N,RURAL,planes_circuitales\San_Jose.pdf
+167,OEI,7105,7387,COLONIA WILSON,"Escuela Pública No 76, Camino a Colonia Wilson",234,N,RURAL,planes_circuitales\San_Jose.pdf
+168,OFA,1,2883,CAÑADA GRANDE,"Club Social y Deportivo La Paz, Ruta 3 Km 82",262,S,RURAL,planes_circuitales\San_Jose.pdf
+169,OFA,2884,3346,CAÑADA GRANDE,"Club Social y Deportivo La Paz, Ruta 3 Km 82",262,S,RURAL,planes_circuitales\San_Jose.pdf
+170,OFA,3347,3643,CAÑADA GRANDE,"Club Social y Deportivo La Paz, Ruta 3 Km 82",264,N,RURAL,planes_circuitales\San_Jose.pdf
+171,OFB,1,2805,ARROYO LLANO,Escuela No 18. Ruta 3 km 83.500,226,S,RURAL,planes_circuitales\San_Jose.pdf
+172,OFB,2806,3078,PASO DEL CARRETÓN,Escuela No 18. Ruta 3 km 83.500,226,N,RURAL,planes_circuitales\San_Jose.pdf
+173,OFC,1,2326,ESTACIÓN GONZÁLEZ,"Salón MEVIR, Ruta 23 Km 112",247,S,RURAL,planes_circuitales\San_Jose.pdf
+174,OFC,2327,2619,ESTACIÓN GONZÁLEZ,"Escuela Pública No 56, Ruta 23 Km 112",247,N,RURAL,planes_circuitales\San_Jose.pdf
+175,OFD,1,2107,CAP. MANUEL ARTIGAS,"Salón MEVIR  Mal Abrigo, Calle B esq. Cerros Negros",233,S,RURAL,planes_circuitales\San_Jose.pdf
+176,OFD,2108,2406,CAP. MANUEL ARTIGAS,"Escuela Pública No 60, Ruta 23 km. 124",234,N,RURAL,planes_circuitales\San_Jose.pdf
+177,OFE,1,2256,BELLA VISTA,"Escuela Pública No 4, Ruta 11 Km 24.500",230,S,RURAL,planes_circuitales\San_Jose.pdf
+178,OFE,2257,2556,BELLA VISTA,"Escuela Pública No 4, Ruta 11 Km 24.500",230,N,RURAL,planes_circuitales\San_Jose.pdf
+179,OFF,1,3850,ECILDA PAULLIER,"Liceo José Larguero, Ruta 11 S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+181,OFF,4841,5530,ECILDA PAULLIER,"Asociación Rural Ecilda Paullier, Ruta 11 S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+182,OFF,5531,6112,ECILDA PAULLIER,"Club Atlético Artigas, Ruta 11 S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+183,OFF,6113,6657,ECILDA PAULLIER,"Escuela Pública No 48, Rivera S/No",400,N,URBANO,planes_circuitales\San_Jose.pdf
+184,OFF,6658,7123,ECILDA PAULLIER,"Escuela Pública No 48, Rivera S/No",400,N,URBANO,planes_circuitales\San_Jose.pdf
+185,OFF,7124,7558,ECILDA PAULLIER,"Asociación de Jubilados, Pensionistas y Abuelos, Gral. Oribe casi Ruta 11",400,S,URBANO,planes_circuitales\San_Jose.pdf
+186,OFF,7559,7977,ECILDA PAULLIER,"Asociación de Jubilados, Pensionistas y Abuelos, Gral. Oribe casi Ruta 11",408,S,URBANO,planes_circuitales\San_Jose.pdf
+187,OFG,1,2396,COSTAS DE PEREIRA,"Escuela Pública No 87, Ruta 1 Km 84.500",300,S,RURAL,planes_circuitales\San_Jose.pdf
+188,OFG,2397,2772,COSTAS DE PEREIRA,"Escuela Pública No 87, Ruta 1 Km 84.500",309,S,RURAL,planes_circuitales\San_Jose.pdf
+189,OGA,1,953,PLAYA PASCUAL,"Escuela Pública No 66, Ruta 1 (vieja) Km 32",410,S,URBANO,planes_circuitales\San_Jose.pdf
+190,OGA,954,1805,PLAYA PASCUAL,"Escuela Pública No 66, Ruta 1 (vieja) Km 32",410,S,URBANO,planes_circuitales\San_Jose.pdf
+191,OGA,1806,2515,PLAYA PASCUAL,"Escuela Pública No 66, Ruta 1 (vieja) Km 32",410,S,URBANO,planes_circuitales\San_Jose.pdf
+192,OGA,2516,3211,PLAYA PASCUAL,"Jardín de Infantes No 111, Ruta 1 (vieja) Km 32",410,N,URBANO,planes_circuitales\San_Jose.pdf
+193,OGA,3212,3859,PLAYA PASCUAL,"Jardín de Infantes No 111, Ruta 1 (vieja) Km 32",410,N,URBANO,planes_circuitales\San_Jose.pdf
+194,OGA,3860,4388,PLAYA PASCUAL,"Escuela Pública No 101, Santos Garrido esq. Alcides de María",400,S,URBANO,planes_circuitales\San_Jose.pdf
+195,OGA,4389,4895,PLAYA PASCUAL,"Escuela Pública No 101, Santos Garrido esq. Alcides de María",400,S,URBANO,planes_circuitales\San_Jose.pdf
+196,OGA,4896,5373,PLAYA PASCUAL,"Escuela Pública No 101, Santos Garrido esq. Alcides de María",400,S,URBANO,planes_circuitales\San_Jose.pdf
+197,OGA,5374,5844,PLAYA PASCUAL,"Escuela Pública No 101, Santos Garrido esq. Alcides de María",400,S,URBANO,planes_circuitales\San_Jose.pdf
+198,OGA,5845,6299,PLAYA PASCUAL,"Liceo Playa Pascual,  Mariscal Nazzasi esq. Boca Junior",400,S,URBANO,planes_circuitales\San_Jose.pdf
+199,OGA,6300,6751,PLAYA PASCUAL,"Liceo Playa Pascual,  Mariscal Nazzasi esq. Boca Junior",400,S,URBANO,planes_circuitales\San_Jose.pdf
+200,OGA,6752,7176,PLAYA PASCUAL,"Liceo Playa Pascual,  Mariscal Nazzasi esq. Boca Junior",400,S,URBANO,planes_circuitales\San_Jose.pdf
+201,OGA,7177,7593,PLAYA PASCUAL,"Escuela Pública No 118, River Plate S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+202,OGA,7594,8002,PLAYA PASCUAL,"Escuela Pública No 118, River Plate S/No",400,S,URBANO,planes_circuitales\San_Jose.pdf
+203,OGA,8003,8436,PLAYA PASCUAL,"Escuela Pública No 118, River Plate S/No",406,S,URBANO,planes_circuitales\San_Jose.pdf
+204,OGB,1,890,AUTÓDROMO,"Escuela Publica No 89, Salon 3, Uruguay esq. Paysandú",389,S,URBANO,planes_circuitales\San_Jose.pdf
+205,OGB,891,1531,AUTÓDROMO,"Escuela Pública No 89, Uruguay esq. Paysandú",389,N,URBANO,planes_circuitales\San_Jose.pdf
+206,OGB,1532,2107,AUTÓDROMO,"Escuela Pública No 89, Uruguay esq. Paysandú",389,N,URBANO,planes_circuitales\San_Jose.pdf
+207,OGB,2108,2664,AUTÓDROMO,"Escuela Pública No 89, Uruguay esq. Paysandú",389,N,URBANO,planes_circuitales\San_Jose.pdf
+208,OGB,2665,3141,PENINO,"Escuela Pública No 117, Ruta 1 (vieja) km 29",389,S,URBANO,planes_circuitales\San_Jose.pdf
+209,OGB,3142,3601,PENINO,"Escuela Pública No 117, Ruta 1 (vieja) km 29",389,S,URBANO,planes_circuitales\San_Jose.pdf
+211,OGB,4048,4465,PENINO,"Escuela Pública No 117, Ruta 1 (vieja) km 29",389,S,URBANO,planes_circuitales\San_Jose.pdf
+212,OGB,4466,4887,PENINO,"Escuela Pública No 117, Ruta 1 (vieja) km 29",389,S,URBANO,planes_circuitales\San_Jose.pdf
+213,OGB,4888,5295,PENINO,"CAIF Los Maragatitos, Diagonal 18 esq. Av. 8",389,N,URBANO,planes_circuitales\San_Jose.pdf
+214,OGB,5296,5697,PENINO,"Escuela Técnica (UTU), Ruta 1 (vieja) Km 29",389,S,URBANO,planes_circuitales\San_Jose.pdf
+215,OGB,5698,6101,PENINO,"Escuela Técnica (UTU), Ruta 1 (vieja) Km 29",395,S,URBANO,planes_circuitales\San_Jose.pdf
+216,OGC,1,908,PARQUE POSTEL,"Liceo No 1, Ruta 1(vieja) Km 26",385,S,URBANO,planes_circuitales\San_Jose.pdf
+217,OGC,909,1648,PARQUE POSTEL,"Liceo No 1, Ruta 1(vieja) Km 26",385,S,URBANO,planes_circuitales\San_Jose.pdf
+218,OGC,1649,2267,PARQUE POSTEL,"Liceo No 1, Ruta 1(vieja) Km 26",385,N,URBANO,planes_circuitales\San_Jose.pdf
+219,OGC,2268,2818,PARQUE POSTEL,"CAIF CUPACAM, Córdoba esq. Madrid",385,S,URBANO,planes_circuitales\San_Jose.pdf
+220,OGC,2819,3311,PARQUE POSTEL,"CAIF CUPACAM, Córdoba esq. Madrid",385,S,URBANO,planes_circuitales\San_Jose.pdf
+221,OGC,3312,3773,SAN FERNANDO,"Escuela Pública Especial No 119, Florida esq. Ruta  1 (vieja)",385,S,URBANO,planes_circuitales\San_Jose.pdf
+222,OGC,3774,4196,SAN FERNANDO,"Iglesia de J.S.U.D. , Rivera esq. San José",385,S,URBANO,planes_circuitales\San_Jose.pdf
+223,OGC,4197,4604,SAN FERNANDO,"Iglesia de J.S.U.D. , Rivera esq. San José",385,S,URBANO,planes_circuitales\San_Jose.pdf
+224,OGC,4605,4999,SAN FERNANDO,"Escuela Pública No 108, Rivera esq. Río Negro",385,N,URBANO,planes_circuitales\San_Jose.pdf
+225,OGC,5000,5401,SAN FERNANDO,"Escuela Pública No 108, Rivera esq. Río Negro",393,N,URBANO,planes_circuitales\San_Jose.pdf
+226,OGD,1,667,VILLA RIVES,"Salón Sindical de ISUSA, Ruta 1 Km 24.100",345,S,URBANO,planes_circuitales\San_Jose.pdf
+227,OGD,668,1152,VILLA RIVES,"Salón Sindical de ISUSA, Ruta 1 Km 24.100",345,S,URBANO,planes_circuitales\San_Jose.pdf
+228,OGD,1153,1523,VILLA RIVES,"Escuela Pública N°88, Ruta 1 (vieja) Km 24",345,N,URBANO,planes_circuitales\San_Jose.pdf
+229,OGE,1,1014,DELTA EL TIGRE,"Liceo Delta El Tigre, Boreal S/No",397,S,URBANO,planes_circuitales\San_Jose.pdf
+230,OGE,1015,1865,DELTA EL TIGRE,"Liceo Delta El Tigre, Boreal S/No",397,S,URBANO,planes_circuitales\San_Jose.pdf
+231,OGE,1866,2508,DELTA EL TIGRE,"Liceo Delta El Tigre, Boreal S/No",397,S,URBANO,planes_circuitales\San_Jose.pdf
+232,OGE,2509,3081,DELTA EL TIGRE,"Escuela Pública N°121, Mandalay entre Curiales y Esperanza",397,S,URBANO,planes_circuitales\San_Jose.pdf
+233,OGE,3082,3557,DELTA EL TIGRE,"Escuela Pública N°121, Mandalay entre Curiales y Esperanza",397,S,URBANO,planes_circuitales\San_Jose.pdf
+234,OGE,3558,4008,DELTA EL TIGRE,"Escuela Pública N°121, Mandalay entre Curiales y Esperanza",397,S,URBANO,planes_circuitales\San_Jose.pdf
+235,OGE,4009,4440,DELTA EL TIGRE,"Escuela Publica N°96, Las Perlas esq. Java",397,N,URBANO,planes_circuitales\San_Jose.pdf
+236,OGE,4441,4883,DELTA EL TIGRE,"Escuela Publica N°96, Las Perlas esq. Java",397,N,URBANO,planes_circuitales\San_Jose.pdf
+237,OGE,4884,5299,DELTA EL TIGRE,"Guarderia Delta, Las Perlas entre Malaca y Java",397,S,URBANO,planes_circuitales\San_Jose.pdf
+238,OGE,5300,5715,DELTA EL TIGRE,"Guarderia Delta, Las Perlas entre Malaca y Java",402,S,URBANO,planes_circuitales\San_Jose.pdf

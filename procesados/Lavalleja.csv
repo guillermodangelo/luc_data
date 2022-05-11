@@ -1,0 +1,146 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1,SAA,1,18182,Minas,B.P.S.- Roosevelt 665,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+2,SAA,18183,20546,Minas,B.P.S.- Roosevelt 665,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+3,SAA,20547,22630,Minas,D.G.I.-Roosevelt 653,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+4,SAA,22631,24535,Minas,CLUB MINAS-Treinta y Tres 648,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+5,SAA,24536,25826,Minas,CLUB MINAS-Treinta y Tres 648,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+6,SAA,25827,27245,Minas,JUZGADO DE PAZ-T.y Tres 638,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+7,SAA,27246,28414,Minas,HOGAR ESTUDIANTIL-T.y Tres 681,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+8,SAA,28415,29489,Minas,HOGAR ESTUDIANTIL-T.y Tres 681,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+9,SAA,29490,30515,Minas,JARDIN  No 111-Williman y E. Moré,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+10,SAA,30516,31485,Minas,JARDIN  No 111-Williman y E. Moré,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+11,SAA,31486,32685,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+12,SAA,32686,33489,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+13,SAA,33490,34352,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+14,SAA,34353,35173,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+15,SAA,35174,36152,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+16,SAA,36153,36791,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+17,SAA,36792,37442,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+18,SAA,37443,38357,Minas,LICEO No 3-Ituzaingó y E. Ladós,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+19,SAA,38358,39378,Minas,LICEO No 2-Dr. Rivero y Guernica,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+20,SAA,39379,39986,Minas,LICEO No 2-Dr. Rivero y Guernica,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+21,SAA,39987,40780,Minas,LICEO No 2-Dr. Rivero y Guernica,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+22,SAA,40781,41397,Minas,ESCUELA No 7-Z.Michellini y Guernica,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+23,SAA,41398,42169,Minas,COLEGIO SAN JOSÉ-Avda. Artigas 1266,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+24,SAA,42170,42715,Minas,COLEGIO SAN JOSÉ-Avda. Artigas 1266,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+25,SAA,42716,43342,Minas,ESCUELA No 11-Avda.Artigas s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+26,SAA,43343,43930,Minas,ESCUELA No 11-Avda.Artigas s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+27,SAA,43931,44524,Minas,ESCUELA No 11-Avda.Artigas s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+28,SAA,44525,45137,Minas,ESCUELA No 11-Avda.Artigas s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+29,SAA,45138,45742,Minas,ESCUELA No 8-J.Batlle y Ord.884,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+30,SAA,45743,46283,Minas,ESCUELA No 8-J.Batlle y Ord.884,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+31,SAA,46284,46822,Minas,ESCUELA No 8-J.Batlle y Ord.884,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+32,SAA,46823,47350,Minas,ESCUELA No 8-J.Batlle y Ord.884,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+33,SAA,47351,47931,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+34,SAA,47932,48436,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+35,SAA,48437,48934,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+36,SAA,48935,49415,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+37,SAA,49416,49908,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+38,SAA,49909,50407,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+39,SAA,50408,50934,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+40,SAA,50935,51423,Minas,LICEO FABINI-J.Batlle y Ord.704,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+41,SAA,51424,51868,Minas,TEATRO LAVALLEJA-J.Batlle y Ord. 715,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+42,SAA,51869,52302,Minas,TEATRO LAVALLEJA-J.Batlle y Ord. 715,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+43,SAA,52303,52737,Minas,ESCUELA DE MÚSICA-B.Silveira 633,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+44,SAA,52738,53172,Minas,ESCUELA No 2-25 de Mayo 691,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+45,SAA,53173,53626,Minas,ESCUELA No 2-25 de Mayo 691,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+46,SAA,53627,54086,Minas,ESCUELA No 2-25 de Mayo 691,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+47,SAA,54087,54522,Minas,ESCUELA No 2-25 de Mayo 691,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+48,SAA,54523,54947,Minas,INST.FORM.EDUCACIÓN-18 de Julio s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+49,SAA,54948,55366,Minas,INST.FORM.EDUCACIÓN-18 de Julio s/n,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+50,SAA,55367,55780,Minas,ESCUELA No 1-Roosevelt 741,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+51,SAA,55781,56195,Minas,ESCUELA No 1-Roosevelt 741,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+52,SAA,56196,56604,Minas,ESCUELA No 1-Roosevelt 741,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+53,SAA,56605,57013,Minas,ESCUELA No 1-Roosevelt 741,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+54,SAA,57014,57473,Minas,C.RETIRADOS POLICIALES-R.Pérez del P.,402,S,Urbano,planes_circuitales\Lavalleja.pdf
+55,SBA,1,13129,Minas,CASA DE LA CULTURA- Lavalleja 543,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+56,SBA,13130,15326,Minas,CASA DE LA CULTURA- Lavalleja 543,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+57,SBA,15327,17042,Minas,COLEGIO DEL VERDÚN - Lavalleja 572,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+58,SBA,17043,18435,Minas,COLEGIO DEL VERDÚN - Lavalleja 572,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+59,SBA,18436,19481,Minas,COLEGIO DEL VERDÚN - Lavalleja 572,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+60,SBA,19482,20419,Minas,COLEGIO DEL VERDÚN - Lavalleja 572,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+61,SBA,20420,21423,Minas,INSPECCIÓN DE ESCUELAS - Rodó 428,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+62,SBA,21424,22372,Minas,INSPECCIÓN DE ESCUELAS - Rodó 428,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+63,SBA,22373,23207,Minas,ESCUELA No 108 - Treinta y Tres,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+64,SBA,23208,24072,Minas,DIR.GRAL. DE REGISTROS-25 de Mayo 566,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+65,SBA,24073,24718,Minas,INST.EDUC.INTEGRAL - 25 de Mayo,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+66,SBA,24719,25423,Minas,INST.EDUC.INTEGRAL - 25 de Mayo,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+67,SBA,25424,26268,Minas,C.ITALIANO G.GARIBALDI - 25 de Mayo728,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+68,SBA,26269,26903,Minas,JUNTA DEPARTAMENTAL - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+69,SBA,26904,27505,Minas,JUNTA DEPARTAMENTAL - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+70,SBA,27506,28132,Minas,INTENDENCIA DPTAL. - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+71,SBA,28133,28740,Minas,INTENDENCIA DPTAL. - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+72,SBA,28741,29302,Minas,INTENDENCIA DPTAL. - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+73,SBA,29303,29922,Minas,INTENDENCIA DPTAL. - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+74,SBA,29923,30438,Minas,INTENDENCIA DPTAL. - J.Batlle y Ord.546,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+75,SBA,30439,30986,Minas,ASOC.ESCRIBANOS - J. Batlle y Ord.,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+76,SBA,30987,31479,Minas,JARDÍN No 109 - Rodó 744,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+77,SBA,31480,31973,Minas,JARDÍN No 109 - Rodó 744,410,N,Urbano,planes_circuitales\Lavalleja.pdf
+78,SBA,31974,32461,Minas,UTU - Avda. Varela y J. Suárez,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+79,SBA,32462,32966,Minas,UTU - Avda. Varela y J. Suárez,410,S,Urbano,planes_circuitales\Lavalleja.pdf
+80,SBA,32967,33400,Minas,UTU - Avda. Varela y J. Suárez,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+81,SBA,33401,33829,Minas,UTU - Avda. Varela y J. Suárez,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+82,SBA,33830,34270,Minas,UTU - Avda. Varela y J. Suárez,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+83,SBA,34271,34694,Minas,UTU - Avda. Varela y J. Suárez,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+84,SBA,34695,35103,Minas,OF. CATASTRO - 18 de Julio486,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+85,SBA,35104,35511,Minas,JARDÍN No 114 - Rondeau y 18 de Julio,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+86,SBA,35512,35921,Minas,JARDÍN No 114 - Rondeau y 18 de Julio,400,N,Urbano,planes_circuitales\Lavalleja.pdf
+87,SBA,35922,36372,Minas,ESCUELA No 10 - W.Beltrán y Rondeau,406,S,Urbano,planes_circuitales\Lavalleja.pdf
+88,SCA,1,1770,Aguas Blancas,ESCUELA No 58  - Ruta 81,166,S,Rural,planes_circuitales\Lavalleja.pdf
+89,SCB,1,1467,Ruta 8 Km.96,ESCUELA No 66 - Ruta 8 Km. 96,160,S,Rural,planes_circuitales\Lavalleja.pdf
+90,SCC,1,5839,Solís,CASA DE LA CULTURA - Avda. Fabini,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+91,SCC,5840,6767,Solís,CASA DE LA CULTURA - Avda. Fabini,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+92,SCC,6768,7511,Solís,LICEO CUNA DE FABINI - Avda. Fabini,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+93,SCC,7512,8062,Solís,LICEO CUNA DE FABINI - Avda. Fabini,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+94,SCC,8063,8540,Solís,LICEO CUNA DE FABINI - Avda. Fabini,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+95,SCC,8541,8972,Solís,ESCUELA No 5 - J.P. Varela y 19 de Abril,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+96,SCC,8973,9382,Solís,ESCUELA No 5 - J.P. Varela y 19 de Abril,391,S,Urbano,planes_circuitales\Lavalleja.pdf
+97,SDA,1,2855,Barrancas,"ESCUELA No 34 - Ruta 12 Km.312,200",165,S,Rural,planes_circuitales\Lavalleja.pdf
+98,SDA,2856,3091,Barrancas,"ESCUELA No 34 - Ruta 12 Km.312,200",165,S,Rural,planes_circuitales\Lavalleja.pdf
+99,SDB,1,3276,Villa del Rosario,LICEO VILLA ROSARIO - Ruta 12 Km.317,218,S,Rural,planes_circuitales\Lavalleja.pdf
+100,SDB,3277,3609,Villa del Rosario,LICEO VILLA ROSARIO - Ruta 12 Km.317,218,S,Rural,planes_circuitales\Lavalleja.pdf
+101,SDB,3610,3852,Villa del Rosario,LICEO VILLA ROSARIO - Ruta 12 Km.317,220,S,Rural,planes_circuitales\Lavalleja.pdf
+102,SDC,1,2679,Estación Solís,ESCUELA No 17 - Estación Solís,169,S,Rural,planes_circuitales\Lavalleja.pdf
+103,SDC,2680,2977,Estación Solís,ESCUELA No 17 - Estación Solís,170,S,Rural,planes_circuitales\Lavalleja.pdf
+104,SEA,1,851,Santa Lucía,ESCUELA No 89 - Alto de Santa Lucía,42,S,Rural,planes_circuitales\Lavalleja.pdf
+105,SEB,1,1396,El Soldado,ESCUELA No 73 - Cno. al Soldado,235,S,Rural,planes_circuitales\Lavalleja.pdf
+106,SEC,1,3804,Casupá,"ESCUELA No 48 - Ruta 40 Km. 30,500",305,S,Rural,planes_circuitales\Lavalleja.pdf
+107,SED,1,429,Chamamé,ESCUELA No 44 - Ruta 40,20,S,Rural,planes_circuitales\Lavalleja.pdf
+SEE,1,234,Casupá Chico,LOCAL DON AURELIO - Casupá Chico,13,S,Rural,,planes_circuitales\Lavalleja.pdf
+108.0,SFA,1,387,Manguera Azul,ESCUELA No 70 - Ruta 108 Km. 182,25,S,Rural,planes_circuitales\Lavalleja.pdf
+,SFB,1,562,Ladrillos,ESCUELA No 70 - Ruta 108 Km. 182,21,S,Rural,planes_circuitales\Lavalleja.pdf
+109.0,SFC,1,1938,Polanco,ESCUELA No 65 - Ruta 108 Km.175,253,S,Rural,planes_circuitales\Lavalleja.pdf
+110.0,SFD,1,2478,Barriga Negra,ESCUELA No 57 - Barriga Negra,200,S,Rural,planes_circuitales\Lavalleja.pdf
+111.0,SGA,1,1438,Marmarajá,ESCUELA No 36 - Ruta 8 Km. 150,110,S,Rural,planes_circuitales\Lavalleja.pdf
+112.0,SGB,1,1277,Paso de los Troncos,ESCUELA No 25 - Ruta 8 Km. 162,119,S,Rural,planes_circuitales\Lavalleja.pdf
+113.0,SGC,1,3769,Mariscala,ESCUELA No 13 - Avda. Artigas,334,S,Urbano,planes_circuitales\Lavalleja.pdf
+114.0,SGC,3770,4448,Mariscala,ESCUELA No 13 - Avda. Artigas,334,S,Urbano,planes_circuitales\Lavalleja.pdf
+115.0,SGC,4449,4970,Mariscala,ESCUELA No 13 - Avda. Artigas,334,S,Urbano,planes_circuitales\Lavalleja.pdf
+116.0,SGC,4971,5370,Mariscala,ESCUELA No 13 - Avda. Artigas,334,S,Urbano,planes_circuitales\Lavalleja.pdf
+117.0,SGC,5371,5722,Mariscala,JARDÍN DE INFANTES - Avda. Artigas,334,S,Urbano,planes_circuitales\Lavalleja.pdf
+118.0,SGD,1,1755,Poblado Colón,ESCUELA No 14 - Amilivia,232,S,Rural,planes_circuitales\Lavalleja.pdf
+119.0,SHA,1,2966,Pirarajá,ESCUELA No 9 -  18 de Julio,337,S,Urbano,planes_circuitales\Lavalleja.pdf
+120.0,SHA,2967,3370,Pirarajá,ESCUELA No 9 -  18 de Julio,337,S,Urbano,planes_circuitales\Lavalleja.pdf
+121.0,SHB,1,1591,Pobl.Aramendía,ESCUELA No 41 - Ruta 8 Km. 234,179,S,Rural,planes_circuitales\Lavalleja.pdf
+122.0,SHC,1,537,Averías,ESCUELA No 3 - Ruta 14 Km. 299,13,S,Rural,planes_circuitales\Lavalleja.pdf
+123.0,SHD,1,5461,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+124.0,SHD,5462,6455,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+125.0,SHD,6456,7420,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+126.0,SHD,7421,8176,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+127.0,SHD,8177,8846,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+128.0,SHD,8847,9438,J.P.Varela,ESCUELA No 6 - Treinta y Tres 385,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+129.0,SHD,9439,9961,J.P.Varela,LICEO AMALIA SOBERA - J.P.Mayol,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+130.0,SHD,9962,10445,J.P.Varela,LICEO AMALIA SOBERA - J.P.Mayol,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+131.0,SHD,10446,10901,J.P.Varela,LICEO AMALIA SOBERA - J.P.Mayol,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+132.0,SHD,10902,11336,J.P.Varela,LICEO AMALIA SOBERA - J.P.Mayol,400,S,Urbano,planes_circuitales\Lavalleja.pdf
+133.0,SHD,11337,11736,J.P.Varela,LICEO AMALIA SOBERA - J.P.Mayol,385,S,Urbano,planes_circuitales\Lavalleja.pdf
+134.0,SIA,1,3062,Zapicán,ESCUELA No 15 - Eduardo Fabini,302,S,Urbano,planes_circuitales\Lavalleja.pdf
+135.0,SIA,3063,3437,Zapicàn,ESCUELA No 15 - Eduardo Fabini,302,S,Urbano,planes_circuitales\Lavalleja.pdf
+,SIB,1,307,Zapicán,ESCUELA No 15 - Eduardo Fabini,23,S,Urbano,planes_circuitales\Lavalleja.pdf
+136.0,SID,1,319,Illescas,CLUB SOCIAL ILLESCAS - Lavalleja,39,S,Rural,planes_circuitales\Lavalleja.pdf
+137.0,SIE,1,6445,J.Batlle y Ordóñez,ESCUELA No 4 - Bvar. Artigas,376,S,Urbano,planes_circuitales\Lavalleja.pdf
+138.0,SIE,6446,7377,J.Batlle y Ordóñez,ESCUELA No 4 - Bvar. Artigas,376,S,Urbano,planes_circuitales\Lavalleja.pdf
+139.0,SIE,7378,8001,J.Batlle y Ordóñez,ESCUELA No 4 - Bvar. Artigas,376,S,Urbano,planes_circuitales\Lavalleja.pdf
+140.0,SIE,8002,8534,J.Batlle y Ordóñez,ESCUELA No 4 - Bvar. Artigas,376,S,Urbano,planes_circuitales\Lavalleja.pdf
+141.0,SIE,8535,8995,J.Batlle y Ordóñez,LICEO BATLLE Y ORDÓÑEZ - Dubra s/n,376,S,Urbano,planes_circuitales\Lavalleja.pdf
+142.0,SIE,8996,9412,J.Batlle y Ordóñez,LICEO BATLLE Y ORDÓÑEZ - Dubra s/n,378,S,Urbano,planes_circuitales\Lavalleja.pdf

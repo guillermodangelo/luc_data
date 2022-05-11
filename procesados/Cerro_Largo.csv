@@ -1,0 +1,202 @@
+Circuito,Serie,Desde,Hasta,Localidad,Local,Habilitados,Accesible,Urb/Rur,file
+1.0,GAA,1,5187,MELO,Instituto de Formación Docente - Aparicio Saravia N° 441,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+2.0,GAA,5188,6367,MELO,Escuela N° 1 - José Pedro Varela N° 728,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+3.0,GAA,6368,7154,MELO,Escuela N° 1 - José Pedro Varela N° 728,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+4.0,GAA,7155,7808,MELO,Escuela N° 2 - José Pedro Varela N° 662,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+5.0,GAA,7809,8408,MELO,Escuela N° 2 - José Pedro Varela N° 662,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+6.0,GAA,8409,8891,MELO,Escuela No 6 - Lavalleja N° 675,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+7.0,GAA,8892,9314,MELO,Escuela No 6 - Lavalleja N° 675,381.0,N,N,planes_circuitales\Cerro_Largo.pdf
+8.0,GAB,1,6076,MELO,Colegio María Auxiliadora - José Pedro Varela ( Portón),386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+9.0,GAB,6077,7226,MELO,Colegio María Auxiliadora - José Pedro Varela ( Portón),386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+10.0,GAB,7227,8183,MELO,Colegio María Auxiliadora - José Pedro Varela ( Portón),386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+11.0,GAB,8184,8941,MELO,Jardín de Infantes N° 139 - Ansina N° 440,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+12.0,GAB,8942,9569,MELO,Jardín de Infantes N° 139 - Ansina N° 440,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+13.0,GAB,9570,10114,MELO,Inspección  de Escuelas - Justino Muniz N°431,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+14.0,GAB,10115,10606,MELO,Escuela N° 87 - Darío Silva y Garzón,386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+15.0,GAB,10607,11039,MELO,Escuela N° 87 - Darío Silva y Garzón,386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+16.0,GAB,11040,11458,MELO,Escuela N° 87 - Darío Silva y Garzón,394.0,S,N,planes_circuitales\Cerro_Largo.pdf
+17.0,GAC,1,5203,MELO,Oficinas de Vialidad - Colón N° 401,378.0,S,N,planes_circuitales\Cerro_Largo.pdf
+18.0,GAC,5204,6389,MELO,Escuela N° 7 - Dr. Luis Alberto de Herrera N° 480,378.0,N,N,planes_circuitales\Cerro_Largo.pdf
+19.0,GAC,6390,7356,MELO,Escuela N° 7 - Dr. Luis Alberto de Herrera N° 480,378.0,N,N,planes_circuitales\Cerro_Largo.pdf
+20.0,GAC,7357,8177,MELO,Escuela N° 7 - Dr. Luis Alberto de Herrera N° 480,378.0,N,N,planes_circuitales\Cerro_Largo.pdf
+21.0,GAC,8178,8863,MELO,Liceo N° 1 - José E. Rodó y Avda Brasil.,378.0,S,N,planes_circuitales\Cerro_Largo.pdf
+22.0,GAC,8864,9460,MELO,Liceo N° 1 - José E. Rodó y Avda Brasil.,378.0,S,N,planes_circuitales\Cerro_Largo.pdf
+23.0,GAC,9461,9964,MELO,Liceo N° 1 - José E. Rodó y Avda Brasil.,378.0,S,N,planes_circuitales\Cerro_Largo.pdf
+24.0,GAC,9965,10417,MELO,Liceo N° 1 - José E. Rodó y Avda Brasil.,378.0,S,N,planes_circuitales\Cerro_Largo.pdf
+25.0,GAC,10418,10823,MELO,Liceo N° 1 - José E. Rodó y Avda Brasil.,380.0,S,N,planes_circuitales\Cerro_Largo.pdf
+26.0,GAD,1,5539,MELO,Iglesia Mormona - Treinta y Tres y Colón,386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+28.0,GAD,6871,7836,MELO,Banco de Previsión Social - Sánchez y 18 de Julio,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+29.0,GAD,7837,8603,MELO,Banco de Previsión Social - Sánchez y 18 de Julio,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+30.0,GAD,8604,9270,MELO,Oficina Traslaciones de Dominio - Aparicio Saravia N° 702,386.0,S,N,planes_circuitales\Cerro_Largo.pdf
+31.0,GAD,9271,9866,MELO,Escuela N° 92 - Avda Brasil y Lestido.,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+32.0,GAD,9867,10398,MELO,Escuela N° 92 - Avda Brasil y Lestido.,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+33.0,GAD,10399,10868,MELO,Escuela N° 92 - Avda Brasil y Lestido.,386.0,N,N,planes_circuitales\Cerro_Largo.pdf
+34.0,GAD,10869,11288,MELO,Escuela N° 92 - Avda Brasil y Lestido.,394.0,N,N,planes_circuitales\Cerro_Largo.pdf
+35.0,GBA,1,5402,MELO,Escuela Técnica - Treinta y Tres N° 264,406.0,S,N,planes_circuitales\Cerro_Largo.pdf
+36.0,GBA,5403,7055,MELO,Escuela Técnica - Treinta y Tres N° 264,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+37.0,GBA,7056,8325,MELO,Escuela Técnica - Treinta y Tres N° 264,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+38.0,GBA,8326,9220,MELO,Escuela Técnica - Treinta y Tres N° 264,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+39.0,GBA,9221,10195,MELO,Escuela Técnica - Treinta y Tres N° 264,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+40.0,GBA,10196,11054,MELO,Centro Barrial - Barrio Collazo,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+41.0,GBA,11055,11886,MELO,Centro Barrial - Barrio Collazo,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+42.0,GBA,11887,12622,MELO,Escuela N° 13 - Avda. Guardia Nueva N° 1010,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+43.0,GBA,12623,13302,MELO,Escuela N° 13 - Avda. Guardia Nueva N° 1010,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+44.0,GBA,13303,13935,MELO,Escuela N° 13 - Avda. Guardia Nueva N° 1010,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+45.0,GBA,13936,14560,MELO,Escuela N° 11 - Ruta 8 N° 1289,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+46.0,GBA,14561,15161,MELO,Escuela N° 11 - Ruta 8 N° 1289,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+47.0,GBA,15162,15737,MELO,Escuela N° 11 - Ruta 8 N° 1289,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+48.0,GBA,15738,16271,MELO,Escuela N° 11 - Ruta 8 N° 1289,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+49.0,GBA,16272,16786,MELO,Escuela N° 11 - Ruta 8 N° 1289,396.0,N,N,planes_circuitales\Cerro_Largo.pdf
+50.0,GBA,16787,17270,MELO,Jardín No 140 - Gral. Oribe c/Ruta 8 B° Modelo,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+51.0,GBA,17271,17738,MELO,Jardín No 140 - Gral. Oribe c/Ruta 8 B° Modelo,396.0,S,,planes_circuitales\Cerro_Largo.pdf
+52.0,GBA,17739,18196,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+53.0,GBA,18197,18643,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+55.0,GBA,19090,19538,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+56.0,GBA,19539,19958,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+57.0,GBA,19959,20373,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,396.0,S,N,planes_circuitales\Cerro_Largo.pdf
+58.0,GBA,20374,20811,MELO,Liceo No 2 -  Manuel Oribe y 18 de Julio.,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+59.0,GBB,1,7004,MELO,Escuela N° 46 - Batlle y Ordoñez S/N° B° Souza,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+60.0,GBB,7005,8729,MELO,Escuela N° 46 - Batlle y Ordoñez S/N° B° Souza,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+61.0,GBB,8730,10062,MELO,Escuela N° 46 - Batlle y Ordoñez S/N° B° Souza,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+62.0,GBB,10063,11063,MELO,Escuela N° 46 - Batlle y Ordoñez S/N° B° Souza,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+63.0,GBB,11064,12067,MELO,Liceo Salesiano - Miguel Barreiro N° 1029,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+64.0,GBB,12068,12973,MELO,Liceo Salesiano - Miguel Barreiro N° 1029,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+65.0,GBB,12974,13799,MELO,Liceo Salesiano - Miguel Barreiro N° 1029,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+66.0,GBB,13800,14606,MELO,Liceo Salesiano - Miguel Barreiro N° 1029,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+67.0,GBB,14607,15272,MELO,Sede Social Covimel No 2 - Colón y Dr. Ferreira,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+68.0,GBB,15273,15967,MELO,Sede Social Viviendas de INVE - Vieira y Tucumán,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+69.0,GBB,15968,16579,MELO,Sede Social Viviendas E-17 - Vieira - Bosque Gianola,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+70.0,GBB,16580,17210,MELO,Liceo N° 3 - Esteban O. Vieira N° 1183,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+71.0,GBB,17211,17799,MELO,Liceo N° 3 - Esteban O. Vieira N° 1183,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+72.0,GBB,17800,18335,MELO,Liceo N° 3 - Esteban O. Vieira N° 1183,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+73.0,GBB,18336,18880,MELO,Liceo N° 3 - Esteban O. Vieira N° 1183,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+74.0,GBB,18881,19386,MELO,Liceo N° 3 - Esteban O. Vieira N° 1183,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+75.0,GBB,19387,19884,MELO,Escuela N° 132 - Esteban O. Vieira N° 1181,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+76.0,GBB,19885,20400,MELO,Escuela N° 132 - Esteban O. Vieira N° 1181,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+77.0,GBB,20401,20888,MELO,Escuela N° 132 - Esteban O. Vieira N° 1181,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+78.0,GBB,20889,21379,MELO,Escuela N° 132 - Esteban O. Vieira N° 1181,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+79.0,GBB,21380,21864,MELO,Escuela N° 132 - Esteban O. Vieira N° 1181,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+80.0,GBB,21865,22326,MELO,Escuela No 119 - B° Aguas Hermosas,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+82.0,GBB,22785,23240,MELO,Escuela No 119 - B° Aguas Hermosas,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+83.0,GBB,23241,23679,MELO,Escuela No 119 - B° Aguas Hermosas,400.0,N,N,planes_circuitales\Cerro_Largo.pdf
+84.0,GBB,23680,24117,MELO,Liceo No 4 - Suárez de Rondelo S/N°,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+85.0,GBB,24118,24533,MELO,Liceo No 4 - Suárez de Rondelo S/N°,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+86.0,GBB,24534,24946,MELO,Liceo No 4 - Suárez de Rondelo S/N°,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+87.0,GBB,24947,25414,MELO,Liceo No 4 - Suárez de Rondelo S/N°,407.0,S,N,planes_circuitales\Cerro_Largo.pdf
+88.0,GBC,1,8740,MELO,"U.D.I. ""3 de diciembre"" - Gutiérrez Ruíz N° 805",410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+89.0,GBC,8741,10571,MELO,Escuela N° 75 - Graus y Lavalleja - B° Arpí,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+90.0,GBC,10572,12315,MELO,Escuela N° 75 - Graus y Lavalleja - B° Arpí,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+91.0,GBC,12316,13612,MELO,Escuela N° 75 - Graus y Lavalleja - B° Arpí,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+92.0,GBC,13613,14676,MELO,Sede Social Covimel No 6 - Treinta y Tres y Gutiérrez Ruiz - B° Castagnet,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+93.0,GBC,14677,15628,MELO,Iglesia Mormona - Treinta y Tres y Diamelas  - B° Castagnet,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+94.0,GBC,15629,16585,MELO,Iglesia Mormona - Treinta y Tres y Diamelas  - B° Castagnet,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+95.0,GBC,16586,17422,MELO,Iglesia Mormona - Treinta y Tres y Diamelas  - B° Castagnet,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+96.0,GBC,17423,18253,MELO,Sede Social Viviendas E-29 - Esperanza c/ 18 de Julio - B° Castagnet,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+97.0,GBC,18254,19006,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+98.0,GBC,19007,19700,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+99.0,GBC,19701,20299,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+100.0,GBC,20300,20937,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+101.0,GBC,20938,21590,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+102.0,GBC,21591,22178,MELO,Escuela N° 10 - Carretera a Aceguá N° 1484,410.0,N,N,planes_circuitales\Cerro_Largo.pdf
+103.0,GBC,22179,22742,MELO,CAIF Sagrada Familia -  Juan Díaz N° 1477 casi Andes,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+104.0,GBC,22743,23252,MELO,CAIF Sagrada Familia -  Juan Díaz N° 1477 casi Andes,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+105.0,GBC,23253,23779,MELO,Centro Juvenil CAIF Sagrada Flia. - Luisa Paz N° 696,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+106.0,GBC,23780,24288,MELO,Escuela N° 135 - Cont. Mata - B° Ruíz,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+107.0,GBC,24289,24780,MELO,Escuela N° 135 - Cont. Mata - B° Ruíz,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+109.0,GBC,25254,25731,MELO,Escuela N° 135 - Cont. Mata - B° Ruíz,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+110.0,GBC,25732,26197,MELO,Local UTU - Zona Norte - Ruta 8 - B° García,410.0,S,N,planes_circuitales\Cerro_Largo.pdf
+111.0,GBC,26198,26643,MELO,Local UTU - Zona Norte - Ruta 8 - B° García,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+112.0,GBC,26644,27084,MELO,Colegio Dámaso A. Larrañaga - Ejido y Avda Brasil,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+113.0,GBC,27085,27507,MELO,Colegio Dámaso A. Larrañaga - Ejido y Avda Brasil,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+114.0,GBC,27508,27920,MELO,Colegio Dámaso A. Larrañaga - Ejido y Avda Brasil,400.0,S,N,planes_circuitales\Cerro_Largo.pdf
+115.0,GBC,27921,28362,MELO,Colegio Dámaso A. Larrañaga - Ejido y Avda Brasil,401.0,S,N,planes_circuitales\Cerro_Largo.pdf
+116.0,GCA,1,3410,Plácido Rosas,Escuela N° 29,258.0,S,S,planes_circuitales\Cerro_Largo.pdf
+117.0,GCA,3411,3701,Plácido Rosas,Escuela N° 29,258.0,S,S,planes_circuitales\Cerro_Largo.pdf
+118.0,GCB,1,2110,La Micaela,Escuela N° 72,145.0,N,S,planes_circuitales\Cerro_Largo.pdf
+119.0,GCC,1,1692,Arbolito,Escuela N° 35,333.0,S,S,planes_circuitales\Cerro_Largo.pdf
+120.0,GCD,1,1659,Rincón de Pi,Escuela N° 50,78.0,S,S,planes_circuitales\Cerro_Largo.pdf
+121.0,GCE,1,1514,Bañado de Morales,Escuela N° 19,66.0,N,S,planes_circuitales\Cerro_Largo.pdf
+122.0,GCF,1,250,Sarandí de Barcelo,Escuela No 49,81.0,S,S,planes_circuitales\Cerro_Largo.pdf
+123.0,GDA,1,6131,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,408.0,S,N,planes_circuitales\Cerro_Largo.pdf
+124.0,GDA,6132,7504,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+125.0,GDA,7505,8796,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+126.0,GDA,8797,9884,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+127.0,GDA,9885,10743,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+128.0,GDA,10744,11702,RÍO BRANCO,Escuela N° 18 - Larrañaga N° 380,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+129.0,GDA,11703,12480,RÍO BRANCO,Escuela N° 12 - J.H. Uriarte N° 824,398.0,N,N,planes_circuitales\Cerro_Largo.pdf
+130.0,GDA,12481,13220,RÍO BRANCO,Escuela N° 12 - J.H. Uriarte N° 824,398.0,N,N,planes_circuitales\Cerro_Largo.pdf
+131.0,GDA,13221,14148,RÍO BRANCO,Escuela N° 12 - J.H. Uriarte N° 824,398.0,N,N,planes_circuitales\Cerro_Largo.pdf
+132.0,GDA,14149,15125,RÍO BRANCO,Escuela N° 12 - J.H. Uriarte N° 824,398.0,N,N,planes_circuitales\Cerro_Largo.pdf
+133.0,GDA,15126,15815,RÍO BRANCO,Escuela N° 12 - J.H. Uriarte N° 824,398.0,N,N,planes_circuitales\Cerro_Largo.pdf
+134.0,GDA,15816,16550,RÍO BRANCO,Casa de la Cultura - 10 de Junio esq. Uriarte,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+136.0,GDA,17255,17909,RÍO BRANCO,Escuela N° 144 -  Barrio Cirilo Olivera,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+137.0,GDA,17910,18583,RÍO BRANCO,Col.Nuestra Señora de las Mercedes - El Fanal N° 538,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+138.0,GDA,18584,19293,RÍO BRANCO,Escuela Técnica - Instrucciones N° 1459,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+139.0,GDA,19294,19874,RÍO BRANCO,Escuela Técnica - Instrucciones N° 1459,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+140.0,GDA,19875,20432,RÍO BRANCO,Escuela Técnica - Instrucciones N° 1459,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+141.0,GDA,20433,21074,RÍO BRANCO,Escuela Técnica - Instrucciones N° 1459,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+142.0,GDA,21075,21599,RÍO BRANCO,Escuela Técnica - Instrucciones N° 1459,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+143.0,GDA,21600,22097,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+144.0,GDA,22098,22607,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+145.0,GDA,22608,23119,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+146.0,GDA,23120,23560,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+147.0,GDA,23561,24025,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+148.0,GDA,24026,24484,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+149.0,GDA,24485,24944,RÍO BRANCO,Liceo - Vapor del Cebollati S/N°,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+150.0,GDA,24945,25394,RÍO BRANCO,Escuela N° 137 - Acevedo y Barreiro,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+151.0,GDA,25395,25830,RÍO BRANCO,Escuela N° 137 - Acevedo y Barreiro,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+152.0,GDA,25831,26267,RÍO BRANCO,Escuela N° 138 - J. de Paz - MEVIR,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+153.0,GDA,26268,26692,RÍO BRANCO,Escuela N° 138 - J. de Paz - MEVIR,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+154.0,GDA,26693,27101,RÍO BRANCO,Escuela N° 138 - J. de Paz - MEVIR,398.0,S,N,planes_circuitales\Cerro_Largo.pdf
+155.0,GDA,27102,27610,RÍO BRANCO,Escuela N° 138 - J. de Paz - MEVIR,404.0,S,N,planes_circuitales\Cerro_Largo.pdf
+156.0,GDB,1,1872,Cañada de Santos,Escuela N° 26,113.0,S,S,planes_circuitales\Cerro_Largo.pdf
+,GDC,1,865,38,,,,,planes_circuitales\Cerro_Largo.pdf
+157.0,GDD,1,1681,Poblado Uruguay,Escuela N° 42,244.0,S,S,planes_circuitales\Cerro_Largo.pdf
+158.0,GDE,1,925,Saldaña,Escuela N° 104,153.0,S,S,planes_circuitales\Cerro_Largo.pdf
+159.0,GDF,1,805,Sierra de Ríos,Escuela N° 27,41.0,S,S,planes_circuitales\Cerro_Largo.pdf
+160.0,GDG,1,2097,Las Cañas,Escuela N° 30,319.0,S,S,planes_circuitales\Cerro_Largo.pdf
+162.0,GEA,1,2345,Centurión,Escuela N° 16,313.0,S,S,planes_circuitales\Cerro_Largo.pdf
+163.0,GEB,1,1976,Mangrullo,Escuela N° 32,122.0,S,S,planes_circuitales\Cerro_Largo.pdf
+164.0,GEC,1,1690,Cruz de Piedra,Escuela N° 24,195.0,S,S,planes_circuitales\Cerro_Largo.pdf
+,GEF,1,443,27,,,,,planes_circuitales\Cerro_Largo.pdf
+165.0,GED,1,4250,VILLA NOBLIA,Escuela N° 99 - Carretera a San Diego,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+166.0,GED,4251,5028,VILLA NOBLIA,Escuela N° 99 - Carretera a San Diego,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+167.0,GED,5029,5695,VILLA NOBLIA,Escuela N° 99 - Carretera a San Diego,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+168.0,GED,5696,6207,VILLA NOBLIA,Liceo - Ruta 8,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+169.0,GED,6208,6611,VILLA NOBLIA,Liceo - Ruta 8,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+170.0,GED,6612,6971,VILLA NOBLIA,Liceo - Ruta 8,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+171.0,GED,6972,7322,VILLA NOBLIA,Jardín No 143 - Carretera a San Diego,300.0,S,S,planes_circuitales\Cerro_Largo.pdf
+172.0,GED,7323,7645,VILLA NOBLIA,Jardín No 143 - Carretera a San Diego,303.0,S,S,planes_circuitales\Cerro_Largo.pdf
+173.0,GEE,1,1895,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,284.0,S,S,planes_circuitales\Cerro_Largo.pdf
+174.0,GEE,1896,2505,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,284.0,S,S,planes_circuitales\Cerro_Largo.pdf
+175.0,GEE,2506,2912,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,284.0,S,S,planes_circuitales\Cerro_Largo.pdf
+176.0,GEE,2913,3244,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,284.0,S,S,planes_circuitales\Cerro_Largo.pdf
+177.0,GEE,3245,3571,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,284.0,S,S,planes_circuitales\Cerro_Largo.pdf
+178.0,GEE,3572,3860,ACEGUÁ,Escuela N° 74  - Avda.I.R.de Mattos S/N°,287.0,S,S,planes_circuitales\Cerro_Largo.pdf
+179.0,GFA,1,1737,TRES ISLAS,Escuela N° 20,289.0,N,S,planes_circuitales\Cerro_Largo.pdf
+180.0,GFB,1,5434,FRAILE MUERTO,Escuela N° 4 - Gral. Artigas N° 1317,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+181.0,GFB,5435,6473,FRAILE MUERTO,Escuela N° 4 - Gral. Artigas N° 1317,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+182.0,GFB,6474,7361,FRAILE MUERTO,Escuela N° 4 - Gral. Artigas N° 1317,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+183.0,GFB,7362,8060,FRAILE MUERTO,Escuela N° 4 - Gral. Artigas N° 1317,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+184.0,GFB,8061,8650,FRAILE MUERTO,Escuela Técnica - Burgos S/N°,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+185.0,GFB,8651,9122,FRAILE MUERTO,Escuela Técnica - Burgos S/N°,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+186.0,GFB,9123,9565,FRAILE MUERTO,Escuela Técnica - Burgos S/N°,387.0,S,N,planes_circuitales\Cerro_Largo.pdf
+188.0,GFC,1,1648,Cerro de las Cuentas,Escuela No 66,368.0,S,S,planes_circuitales\Cerro_Largo.pdf
+189.0,GFD,1,1288,Ramón Trigo,Escuela N° 83,266.0,S,S,planes_circuitales\Cerro_Largo.pdf
+190.0,GFE,1,3040,Bañado de Medina,Escuela N° 58,195.0,N,S,planes_circuitales\Cerro_Largo.pdf
+191.0,GFE,3041,3489,Barrio López Benítez,Escuela No 107,195.0,N,S,planes_circuitales\Cerro_Largo.pdf
+192.0,GFE,3490,3767,Barrio López Benítez,Escuela No 107,195.0,N,S,planes_circuitales\Cerro_Largo.pdf
+193.0,GFE,3768,4008,Barrio Hipódromo,Escuela No 112,195.0,N,S,planes_circuitales\Cerro_Largo.pdf
+194.0,GFE,4009,4226,Barrio Hipódromo,Escuela No 112,195.0,N,S,planes_circuitales\Cerro_Largo.pdf
+195.0,GGA,1,3131,TUPAMBAÉ,Escuela N° 9,259.0,N,S,planes_circuitales\Cerro_Largo.pdf
+196.0,GGA,3132,3579,TUPAMBAÉ,Escuela N° 9,259.0,N,S,planes_circuitales\Cerro_Largo.pdf
+197.0,GGA,3580,3916,TUPAMBAÉ,Escuela N° 9,259.0,N,S,planes_circuitales\Cerro_Largo.pdf
+198.0,GGA,3917,4203,TUPAMBAÉ,Liceo,259.0,N,S,planes_circuitales\Cerro_Largo.pdf
+,GGC,1,523,11,,,,,planes_circuitales\Cerro_Largo.pdf
+199.0,GGB,1,1535,Quebracho,Escuela N° 37,150.0,N,S,planes_circuitales\Cerro_Largo.pdf
+200.0,GGD,1,1698,Pueblo Arévalo,Escuela N° 61,175.0,S,S,planes_circuitales\Cerro_Largo.pdf
+201.0,GGD,1699,1905,Pueblo Arévalo,Escuela N° 61,176.0,S,S,planes_circuitales\Cerro_Largo.pdf
+202.0,GGE,1,1115,Barrio La Esperanza,Escuela N° 55,152.0,N,S,planes_circuitales\Cerro_Largo.pdf
+,GGF,1,165,7,,,,,planes_circuitales\Cerro_Largo.pdf
+203.0,GGG,1,909,El Cordobés,Escuela N° 134,29.0,N,S,planes_circuitales\Cerro_Largo.pdf
+204.0,GGH,1,1316,Paso de Pereira,Escuela N° 38,183.0,N,S,planes_circuitales\Cerro_Largo.pdf
